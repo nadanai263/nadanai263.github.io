@@ -15,5 +15,5 @@ Lists
 Syntax `git add`, `git commit`, and
 `git push`.
 
-[Internal link](pages/overview.html), which
+[Internal link](/pages/overview.html), which
 explains the basic structure of these sites. 
