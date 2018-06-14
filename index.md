@@ -1,8 +1,8 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Nadanai Laohakunakorn
+tagline: about me
+description: a website about me, my science, and musical activities
 ---
 
 [External link (Github Pages)](https://pages.github.com) like so.
@@ -15,5 +15,4 @@ Lists
 Syntax `git add`, `git commit`, and
 `git push`.
 
-[Internal link](/pages/overview.html), which
-explains the basic structure of these sites. 
+[Internal link](/pages/about.html).
