@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nadanai Laohakunakorn
-tagline: about me
+tagline: scientist and musician
 description: a website about me, my science, and musical activities
 ---
 
