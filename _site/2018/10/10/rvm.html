@@ -64,21 +64,25 @@
 
 <p>The problem was my Homebrew was completely mucked up. After reinstalling Homebrew (and my <a href="https://fishshell.com">Fish</a> shell), I needed to install <code class="highlighter-rouge">gpg</code></p>
 
-<p><code class="highlighter-rouge">brew install gnupg</code></p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>brew install gnupg 
+</code></pre></div></div>
 
 <p>followed by RVM itself</p>
 
-<p><code class="highlighter-rouge">gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB</code></p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
 
-<p><code class="highlighter-rouge">curl -sSL https://get.rvm.io | bash -s stable</code></p>
+curl -sSL https://get.rvm.io | bash -s stable
+</code></pre></div></div>
 
 <p>which uses some key authentication I don’t understand yet. This installation also brings in the latest version of Ruby and sets that as RVM’s default. To make it work with Fish shell I had to run</p>
 
-<p><code class="highlighter-rouge">curl -L --create-dirs -o ~/.config/fish/functions/rvm.fish https://raw.github.com/lunks/fish-nuggets/master/functions/rvm.fish</code></p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>curl -L --create-dirs -o ~/.config/fish/functions/rvm.fish https://raw.github.com/lunks/fish-nuggets/master/functions/rvm.fish
+</code></pre></div></div>
 
 <p>and add one line to my <code class="highlighter-rouge">config.fish</code> file:</p>
 
-<p><code class="highlighter-rouge">echo "rvm default" &gt;&gt; ~/.config/fish/config.fish</code>.</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>echo "rvm default" &gt;&gt; ~/.config/fish/config.fish.
+</code></pre></div></div>
 
 <p>To test the installation, I ran some basic commands. <code class="highlighter-rouge">rvm system</code> switches to the system Ruby, and <code class="highlighter-rouge">rvm default</code> switches to the new pristine Ruby (version 2.5.1 in my case). I created a new gemset called lbnc with <code class="highlighter-rouge">rvm gemset create lbnc</code>, checked what was in it using <code class="highlighter-rouge">gem list</code>, and installed the github-pages gem using <code class="highlighter-rouge">gem install github-pages</code>. Finally, I navigated to the local clone of my site’s repository and ran <code class="highlighter-rouge">jekyll serve</code>, which builds a <code class="highlighter-rouge">_sites</code> folder containing the generated html files, and starts the server. Opening <code class="highlighter-rouge">http://127.0.0.1:4000</code> on my browser then lets me look at my site. Finally, it was working!</p>
 
