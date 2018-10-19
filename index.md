@@ -5,6 +5,8 @@ tagline: scientist and musician
 description: a website about me, my science, and musical activities
 ---
 
+<img src="/assets/images/profile_.png" width="100" alt="me" align="right" hspace="30" vspace="30">
+
 Hi there! I'm a scientist and musician based in Lausanne, Switzerland. Here you'll find a growing and diverse collection of links, comments, tutorials, and essays about things I find interesting. I'm learning to use [Github Pages](https://pages.github.com) and [Jekyll](https://jekyllrb.com), and this site is the result of that foray. It will also document my exploration of ideas in scientific computing, Bayesian techniques, and machine learning. 
 
  Some (big) ideas I am grappling with at the moment include:
