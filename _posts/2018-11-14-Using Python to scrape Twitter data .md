@@ -14,6 +14,12 @@ Data/technology/techniques/software/learned?/apply?
 - [Simple analysis: number of words per tweet](#heading-4)
 <!-- toc -->
 
-Step-by-step
+# Getting authorization to access Twitter data
+
+# Make an API query
+
+# Finding out what's trending
+
+# Simple analysis: number of words per tweet
 
 Conclusion: refs/today I learned/mistakes?
