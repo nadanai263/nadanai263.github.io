@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using Python to scrape Twitter data"
+title: "Getting Twitter data with Python"
 date: 2018-11-14
 ---
 
