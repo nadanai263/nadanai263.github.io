@@ -30,7 +30,6 @@ At the most basic level, computations using tensorflow happen in two steps:
 
 ### 1.1 Define computation graph
 
-
 ```python
 a = tf.constant(2.0, dtype=tf.float32)
 b = tf.constant(4.0) # also tf.float32 implicitly

@@ -22,9 +22,12 @@ production_url : https://nadanai263.github.io/
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
 markdown: kramdown
+highlighter: rouge
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+
+
 #theme: slate
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
