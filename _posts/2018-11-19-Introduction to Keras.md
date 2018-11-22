@@ -2,6 +2,7 @@
 layout: post
 title: "Introduction to Keras"
 date: 2018-11-19
+description: Keras is a high-level wrapper for Tensorflow and Theano, both of which are powerful machine learning frameworks, and for many people it is their first contact with deep learning. In this first tutorial, I present the most basic introduction to Keras, and develop a code framework which we'll recycle in later tutorials covering more advanced topics. 
 ---
 
 Keras is a high-level wrapper for Tensorflow and Theano, both of which are powerful machine learning frameworks, and for many people it is their first contact with deep learning. In this first tutorial, I present the most basic introduction to Keras, and develop a code framework which we'll recycle in later tutorials covering more advanced topics. 
@@ -10,21 +11,17 @@ Keras provides a quick and easy way to define and train neural network models. I
 
 The tutorial contains the following sections:
 
-- [1. Getting started](##heading-0)
-- [2. Initial authorisation](##heading-1)
-* [2.1 Asking for authentication code](###sub-heading-1)
-* [2.2 Using the code to get the access token](###sub-heading-2)
-- [3. Using the API to make queries](##heading-2)
-- [4. Conclusions](##heading-3)
+* TOC
+{:toc}
 <!-- toc -->
 
-## 1. Getting started
+### 1. Getting started
 First, we need the following libraries: `keras`, `python-mnist`, `numpy`.
 ```
 pip install keras python-mnist numpy
 ```
 
-## 2. Initial authorisation
+### 2. Initial authorisation
 
 The 
 
@@ -33,7 +30,7 @@ The
 
 
 
-## 4. Conclusions
+### 4. Conclusions
 
 conclusions
 A jupyter notebook is available for this tutorial on my [GitHub repository](https://github.com/nadanai263/datasciportfolio).

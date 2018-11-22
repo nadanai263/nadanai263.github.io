@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8">
     <title>Hello Tensorflow: what is Tensorflow and how do I use it for machine learning?</title>
-    
+    <meta name="description" content="Tensorflow is a standard and powerful framework to build models for machine learning. Even though its power can already be harnessed using high-level, user-friendly wrappers such as Keras, it is also instructive to dive into the nuts and bolts of how it works. In this tutorial I will show you the most essential elements which make up a Tensorflow model, and how you can quickly build and train a linear regression predictor using these simple parts.">
     <meta name="author" content="Nadanai Laohakunakorn">
 
     <!-- Enable responsive viewport -->
@@ -20,6 +20,7 @@
     <link href="/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
     <link href="/assets/themes/twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
     <link href="/assets/themes/twitter/css/kbroman.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/assets/themes/twitter/css/nl.css" rel="stylesheet" type="text/css" media="all">
 
     <!-- Le fav and touch icons -->
 
@@ -55,34 +56,36 @@
       <span>21 November 2018</span>
     </div>
     <div class="content">
-      <p>Tensorflow is currently a standard and powerful framework to build models for machine learning. Even though its power can already be harnessed using high-level, user-friendly wrappers such as Keras, it is also instructive to dive into the nuts and bolts of how it works. In this tutorial I will show you the most essential elements which make up a Tensorflow model, and how you can quickly build and train a linear regression predictor using these simple parts. I hope to develop these tutorials over time to cover more sophisticated examples. The tutorial contains the following sections:</p>
+      <p>Tensorflow is a standard and powerful framework to build models for machine learning. Even though its power can already be harnessed using high-level, user-friendly wrappers such as Keras, it is also instructive to dive into the nuts and bolts of how it works. In this tutorial I will show you the most essential elements which make up a Tensorflow model, and how you can quickly build and train a linear regression predictor using these simple parts. I hope to develop these tutorials over time to cover more sophisticated examples. The tutorial contains the following sections:</p>
 
-<ul>
-  <li><a href="##heading-0">Getting started</a></li>
-  <li><a href="##heading-1">1. First steps: defining and evaluating graphs</a></li>
-  <li><a href="###sub-heading-1">1.1 Define computation graph</a></li>
-  <li><a href="###sub-heading-2">1.2 Evaluate computation graph</a></li>
-  <li><a href="##heading-2">2. Feeding graphs</a></li>
-  <li><a href="##heading-3">3. Model layers and forward propagation</a></li>
-  <li><a href="##heading-4">4. Loss functions, optimisers, and back propagation</a></li>
-  <li><a href="##heading-5">5. Putting everything together: linear regression</a></li>
-  <li><a href="##heading-6">6. Conclusions</a>
-<!-- toc --></li>
+<ul id="markdown-toc">
+  <li><a href="#getting-started" id="markdown-toc-getting-started">Getting started</a></li>
+  <li><a href="#1-first-steps-defining-and-evaluating-graphs" id="markdown-toc-1-first-steps-defining-and-evaluating-graphs">1. First steps: defining and evaluating graphs</a>    <ul>
+      <li><a href="#11-define-computation-graph" id="markdown-toc-11-define-computation-graph">1.1 Define computation graph</a></li>
+      <li><a href="#12-evaluate-computation-graph" id="markdown-toc-12-evaluate-computation-graph">1.2 Evaluate computation graph</a></li>
+    </ul>
+  </li>
+  <li><a href="#2-feeding-graphs" id="markdown-toc-2-feeding-graphs">2. Feeding graphs</a></li>
+  <li><a href="#3-model-layers-and-forward-propagation" id="markdown-toc-3-model-layers-and-forward-propagation">3. Model layers and forward propagation</a></li>
+  <li><a href="#4-loss-functions-optimisers-and-back-propagation" id="markdown-toc-4-loss-functions-optimisers-and-back-propagation">4. Loss functions, optimisers, and back propagation</a></li>
+  <li><a href="#5-putting-everything-together-linear-regression" id="markdown-toc-5-putting-everything-together-linear-regression">5. Putting everything together: linear regression</a></li>
+  <li><a href="#6-conclusions" id="markdown-toc-6-conclusions">6. Conclusions</a></li>
 </ul>
+<!-- toc -->
 
-<h2 id="getting-started">Getting started</h2>
+<h3 id="getting-started">Getting started</h3>
 <p>To get started, make sure you have the following libraries: <code class="highlighter-rouge">tensorflow</code>, <code class="highlighter-rouge">matplotlib</code>, <code class="highlighter-rouge">numpy</code>.</p>
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip install tensorflow matplotlib numpy
 </code></pre></div></div>
 
-<h2 id="1-first-steps-defining-and-evaluating-graphs">1. First steps: defining and evaluating graphs</h2>
+<h3 id="1-first-steps-defining-and-evaluating-graphs">1. First steps: defining and evaluating graphs</h3>
 <p>At the most basic level, computations using tensorflow happen in two steps:</p>
 <ul>
   <li>Define computation graph</li>
   <li>Instantiate a session and evaluate the graph</li>
 </ul>
 
-<h3 id="11-define-computation-graph">1.1 Define computation graph</h3>
+<h4 id="11-define-computation-graph">1.1 Define computation graph</h4>
 
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">a</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">constant</span><span class="p">(</span><span class="mf">2.0</span><span class="p">,</span> <span class="n">dtype</span><span class="o">=</span><span class="n">tf</span><span class="o">.</span><span class="n">float32</span><span class="p">)</span>
 <span class="n">b</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">constant</span><span class="p">(</span><span class="mf">4.0</span><span class="p">)</span> <span class="c"># also tf.float32 implicitly</span>
@@ -95,7 +98,7 @@
 
 <p>As you can see, we have created three objects: <code class="highlighter-rouge">a</code>, <code class="highlighter-rouge">b</code>, and <code class="highlighter-rouge">total</code>. They are ‘tensor’ objects, and we have defined the relationship between them: the sum of the values of <code class="highlighter-rouge">a</code> and <code class="highlighter-rouge">b</code> is equal to the value of the object <code class="highlighter-rouge">total</code>. The graph is however not yet evaluated; to do that we must instantiate a session.</p>
 
-<h3 id="12-evaluate-computation-graph">1.2 Evaluate computation graph</h3>
+<h4 id="12-evaluate-computation-graph">1.2 Evaluate computation graph</h4>
 
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">sess</span><span class="o">=</span><span class="n">tf</span><span class="o">.</span><span class="n">Session</span><span class="p">()</span>
 <span class="k">print</span><span class="p">(</span><span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">a</span><span class="p">),</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">b</span><span class="p">),</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">total</span><span class="p">))</span> <span class="c"># session.run evaluates values of tensors passed as arguments</span>
@@ -106,7 +109,7 @@
 
 <p>When we instantiate a session and call the run() method, we finally carry out the computations on the graph. For example, calling sess.run(a) returns the evaluated value of <code class="highlighter-rouge">a</code>.</p>
 
-<h2 id="2-feeding-graphs">2. Feeding graphs</h2>
+<h3 id="2-feeding-graphs">2. Feeding graphs</h3>
 
 <p>Our first graph was very basic: we initialised our variables <code class="highlighter-rouge">a</code> and <code class="highlighter-rouge">b</code> with constants. In general, however, we would like to define a graph and have it accept variable inputs. This is called ‘feeding’ the graph, and you can do this using ‘placeholders’. Placeholders are variables whose values are set during evaluation, rather than during the graph definition stage. The following code block gives the same results as our first graph, but this time using placeholders:</p>
 
@@ -125,7 +128,7 @@
 
 <p>As you can see, when you call the sess.run() method, you now need to pass in a dictionary of values for each placeholder (the ‘feed_dict’).</p>
 
-<h2 id="3-model-layers-and-forward-propagation">3. Model layers and forward propagation</h2>
+<h3 id="3-model-layers-and-forward-propagation">3. Model layers and forward propagation</h3>
 
 <p>A layer in the model is analogous to that in a neural network: it holds trainable parameters. You can build a graph containing layers in exactly the same way as before. However before running the session, you must initialise the variables.</p>
 
@@ -153,7 +156,7 @@
 
 <p>This example shows a basic forward propagation pass through a single-layer model; hopefully you can see how this might extend to more complex models (you just add more layers…). To finally train the model, we need back propagation: this is automatically implemented in Tensorflow through the use of optimisers.</p>
 
-<h2 id="4-loss-functions-optimisers-and-back-propagation">4. Loss functions, optimisers, and back propagation</h2>
+<h3 id="4-loss-functions-optimisers-and-back-propagation">4. Loss functions, optimisers, and back propagation</h3>
 
 <p>To enable back propagation and training, we need to define</p>
 <ul>
@@ -215,7 +218,7 @@
  [-3]]
 </code></pre></div></div>
 
-<h2 id="5-putting-everything-together-linear-regression">5. Putting everything together: linear regression</h2>
+<h3 id="5-putting-everything-together-linear-regression">5. Putting everything together: linear regression</h3>
 
 <p>So we are finally ready to put everything together and train our first model, which is a simple linear regression. We can generate a random dataset which is a noisy straight line:</p>
 
@@ -278,7 +281,7 @@
 <p><img src="/assets/images/HTF1.png" width="250" alt="me" align="center" hspace="40" vspace="40" />
 <img src="/assets/images/HTF2.png" width="250" alt="me" align="center" hspace="40" vspace="40" /></p>
 
-<h2 id="6-conclusions">6. Conclusions</h2>
+<h3 id="6-conclusions">6. Conclusions</h3>
 
 <p>I hope you enjoyed this short introduction to Tensorflow. Please stay tuned for more sophisticated examples! A jupyter notebook is available for this tutorial on my <a href="https://github.com/nadanai263/datasciportfolio">GitHub repository</a>.</p>
 

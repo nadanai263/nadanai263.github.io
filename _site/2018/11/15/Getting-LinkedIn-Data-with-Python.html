@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8">
     <title>Getting LinkedIn data with Python</title>
-    
+    <meta name="description" content="In the same way as for Twitter, we can also get data from LinkedIn. Here I show how to interface with LinkedIn's API to access their data.">
     <meta name="author" content="Nadanai Laohakunakorn">
 
     <!-- Enable responsive viewport -->
@@ -20,6 +20,7 @@
     <link href="/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
     <link href="/assets/themes/twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
     <link href="/assets/themes/twitter/css/kbroman.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/assets/themes/twitter/css/nl.css" rel="stylesheet" type="text/css" media="all">
 
     <!-- Le fav and touch icons -->
 
@@ -61,22 +62,24 @@
 
 <p>The tutorial contains the following sections:</p>
 
-<ul>
-  <li><a href="##heading-0">1. Getting started</a></li>
-  <li><a href="##heading-1">2. Initial authorisation</a></li>
-  <li><a href="###sub-heading-1">2.1 Asking for authentication code</a></li>
-  <li><a href="###sub-heading-2">2.2 Using the code to get the access token</a></li>
-  <li><a href="##heading-2">3. Using the API to make queries</a></li>
-  <li><a href="##heading-3">4. Conclusions</a>
-<!-- toc --></li>
+<ul id="markdown-toc">
+  <li><a href="#1-getting-started" id="markdown-toc-1-getting-started">1. Getting started</a></li>
+  <li><a href="#2-initial-authorisation" id="markdown-toc-2-initial-authorisation">2. Initial authorisation</a>    <ul>
+      <li><a href="#21-asking-for-authentication-code" id="markdown-toc-21-asking-for-authentication-code">2.1 Asking for authentication code</a></li>
+      <li><a href="#22-using-the-code-to-get-the-access-token" id="markdown-toc-22-using-the-code-to-get-the-access-token">2.2 Using the code to get the access token</a></li>
+    </ul>
+  </li>
+  <li><a href="#3-using-the-api-to-make-queries" id="markdown-toc-3-using-the-api-to-make-queries">3. Using the API to make queries</a></li>
+  <li><a href="#4-conclusions" id="markdown-toc-4-conclusions">4. Conclusions</a></li>
 </ul>
+<!-- toc -->
 
-<h2 id="1-getting-started">1. Getting started</h2>
+<h3 id="1-getting-started">1. Getting started</h3>
 <p>First, we need the following libraries: <a href="https://github.com/ozgur/python-linkedin"><code class="highlighter-rouge">python3-linkedin</code></a>:</p>
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip install python3-linkedin
 </code></pre></div></div>
 
-<h2 id="2-initial-authorisation">2. Initial authorisation</h2>
+<h3 id="2-initial-authorisation">2. Initial authorisation</h3>
 <p>You will then need to register and create an app on the LinkedIn <a href="https://oauth.net">developer platform</a>. You’ll need to supply some information like your business contact details and a logo(!). At the end of the process, you will end up at a page where two authentication keys are shown: a ‘client ID’, and a ‘client secret’ key. You’ll also be able to set default permissions for your app, such as allowing access to the basic profile, email address, etc. For the time being, we will only select the basic profile, by ticking <code class="highlighter-rouge">r_basicprofile</code>.</p>
 
 <p>You’ll have to then specify a redirect URL for OAuth 2.0: this can be any valid URL beginning with ‘https://’. The purpose of this will become clear later on. I set it to my GitHub pages site.</p>
@@ -88,7 +91,7 @@
   <li>Then you use the code to obtain an access token, which can authenticate your app.</li>
 </ul>
 
-<h3 id="21-asking-for-authentication-code">2.1 Asking for authentication code</h3>
+<h4 id="21-asking-for-authentication-code">2.1 Asking for authentication code</h4>
 <p>In python, the first step is to initialise the authorisation with the two API keys:</p>
 
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">API_KEY</span> <span class="o">=</span> <span class="s">'yourapikey'</span>
@@ -121,7 +124,7 @@ redirect_uri=https%3A//nadanai263.github.io # This is where you'll be redirected
 </code></pre></div></div>
 <p>This response contains two items: a new code for access, and another state. Make sure this value is the same as the state shown earlier; the purpose of this ID is to enable you to check that no one else has intercepted the request.</p>
 
-<h3 id="22-using-the-code-to-get-the-access-token">2.2 Using the code to get the access token</h3>
+<h4 id="22-using-the-code-to-get-the-access-token">2.2 Using the code to get the access token</h4>
 <p>We can enter the code and ask for our access token:</p>
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">auth</span><span class="o">.</span><span class="n">authorization_code</span><span class="o">=</span><span class="s">'CODE'</span>
 <span class="n">auth</span><span class="o">.</span><span class="n">get_access_token</span><span class="p">()</span>
@@ -133,7 +136,7 @@ redirect_uri=https%3A//nadanai263.github.io # This is where you'll be redirected
 </code></pre></div></div>
 <p>The token is valid for 60 days, and so you don’t have to repeat the procedure above for a while: you can just run the application directly using this token. Phew!</p>
 
-<h2 id="3-using-the-api-to-make-queries">3. Using the API to make queries</h2>
+<h3 id="3-using-the-api-to-make-queries">3. Using the API to make queries</h3>
 <p>Finally we can use the API to make queries. You can look at your own LinkedIn profile:</p>
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">application</span><span class="o">.</span><span class="n">get_profile</span><span class="p">()</span>
 </code></pre></div></div>
@@ -165,7 +168,7 @@ redirect_uri=https%3A//nadanai263.github.io # This is where you'll be redirected
    <span class="p">{</span><span class="s">'name'</span><span class="p">:</span> <span class="s">'Apple Premium Reseller - Iplace'</span><span class="p">}]}}</span>
 </code></pre></div></div>
 
-<h2 id="4-conclusions">4. Conclusions</h2>
+<h3 id="4-conclusions">4. Conclusions</h3>
 
 <p>Like Twitter, once you have the authentication in place, API calls are straightforward. For me, getting the authentication to work was the hardest part, especially as the procedure has changed slightly over the last few years. For instance, LinkedIn now uses OAuth 2.0, while many tutorials available only describe the old OAuth 1.0. The original <code class="highlighter-rouge">python-linkedin</code> library does not work with Python 3, necessitating the new <code class="highlighter-rouge">python3-linkedin</code> version. Finally, the lack of full accessibility with a basic developer account means that the amount of information you are able to get to is limited. In any case, this was a useful exercise in learning about OAuth 2.0.</p>
 
