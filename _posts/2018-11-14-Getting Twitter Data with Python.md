@@ -2,6 +2,8 @@
 layout: post
 title: "Getting Twitter data with Python"
 date: 2018-11-14
+description: A journey of a million steps begins with one... and so I begin my with my first post in the new world of data science! In this tutorial, I will demonstrate how to scrape, or obtain, data from Twitter, and do some simple analysis on the results. 
+
 ---
 
 A journey of a million steps begins with one... and so I begin my with my first post in the new world of data science! In this tutorial, I will demonstrate how to scrape, or obtain, data from Twitter, and do some simple analysis on the results. 
@@ -10,15 +12,11 @@ Twitter is a rich source of textual data and metadata, which contains myriad com
 
 The tutorial contains the following sections:
 
-- [1. Getting started](##heading-0)
-- [2. Getting authorization to access Twitter data](##heading-1)
-- [3. Make an API query](##heading-2)
-- [4. Finding out what's trending](##heading-3)
-- [5. Simple analysis: number of words per tweet](##heading-4)
-- [6. Conclusions](##heading-5)
+* TOC
+{:toc}
 <!-- toc -->
 
-## 1. Getting started
+### 1. Getting started
 First, we need the following libraries: `python-twitter` and `json`. We can install these to our virtual environment using `pip` as always (I highly recommend you to use your python in a virtual environment... please see my (upcoming) tutorial for this!):
 
 ```
@@ -26,12 +24,12 @@ pip install python-twitter
 ```
 `python-twitter` is a python wrapper for Twitter's API, which allows you to interact and query Twitter data directly using python code. With the installation in place we are ready to go!
 
-## 2. Getting authorization to access Twitter data
+### 2. Getting authorization to access Twitter data
 To access Twitter data, you need to first of all create a developer account. This can be easily done through their developer platform. The reason for this is that you will need to login with your Twitter account (of course you need to make one if you haven't already got one) to access the data. To apply for a developer account, follow the instructions on their [developer website](https://developer.twitter.com/content/developer-twitter/en.html). You will need to answer a few questions about why you want to set one up; I chose 'study/student projects' as that was most applicable. The rest of the steps were quite straightforward. 
 
 Once the account is set up, you will need to create an 'app': this allows you to obtain four important pieces of information: the `consumer key`, the `consumer secret`, the `access key`, and the `access secret`. You'll need to fill in some more information (such as giving a URL for your website; any will do). Finally, with these four unique tokens, you will be able to access the Twitter API. Keep the tokens safe, and treat them like you would any other password. 
 
-## 3. Make an API query
+### 3. Make an API query
 First we need to instantiate the twitter API with our unique tokens:
 
 ```python
@@ -109,7 +107,7 @@ As you can see, each tweet is associated with a rich set of metadata, which will
 
 We've successfully used the Twitter API to query a user and obtain their latest tweet. Now let's get a wider picture of what's going on in the Twitter universe by looking at trends. 
 
-## 4. Finding out what's trending
+### 4. Finding out what's trending
 We can query 'trends', or popular topics. These can be localised to specific places using a system called the Yahoo! Where On Earth ID (WOEID). For example, the following query
 ```python
 WORLD_WOEID_ID = 1
@@ -143,7 +141,7 @@ Out:
 ```
 So... these are the trending topics in the UK on the evening of the 14th November, 2018! If you run your code you're sure to find different results. 
 
-## 5. Simple analysis: number of words per tweet
+### 5. Simple analysis: number of words per tweet
 Let's select one hashtag to investigate further... how about the esteemed 'Jacob Rees Mogg'?! By calling the `GetSearch()` method, we can find tweets containing that phrase:
 ```python
 query = 'Jacob Rees Mogg'

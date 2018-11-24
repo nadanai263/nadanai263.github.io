@@ -2,34 +2,27 @@
 layout: post
 title: "Hello Tensorflow: what is Tensorflow and how do I use it for machine learning?"
 date: 2018-11-21
+description: Tensorflow is a standard and powerful framework to build models for machine learning. Even though its power can already be harnessed using high-level, user-friendly wrappers such as Keras, it is also instructive to dive into the nuts and bolts of how it works. In this tutorial I will show you the most essential elements which make up a Tensorflow model, and how you can quickly build and train a linear regression predictor using these simple parts.
 ---
 
-Tensorflow is currently a standard and powerful framework to build models for machine learning. Even though its power can already be harnessed using high-level, user-friendly wrappers such as Keras, it is also instructive to dive into the nuts and bolts of how it works. In this tutorial I will show you the most essential elements which make up a Tensorflow model, and how you can quickly build and train a linear regression predictor using these simple parts. I hope to develop these tutorials over time to cover more sophisticated examples. The tutorial contains the following sections:
+Tensorflow is a standard and powerful framework to build models for machine learning. Even though its power can already be harnessed using high-level, user-friendly wrappers such as Keras, it is also instructive to dive into the nuts and bolts of how it works. In this tutorial I will show you the most essential elements which make up a Tensorflow model, and how you can quickly build and train a linear regression predictor using these simple parts. I hope to develop these tutorials over time to cover more sophisticated examples. The tutorial contains the following sections:
 
-- [Getting started](##heading-0)
-- [1. First steps: defining and evaluating graphs](##heading-1)
-* [1.1 Define computation graph](###sub-heading-1)
-* [1.2 Evaluate computation graph](###sub-heading-2)
-- [2. Feeding graphs](##heading-2)
-- [3. Model layers and forward propagation](##heading-3)
-- [4. Loss functions, optimisers, and back propagation](##heading-4)
-- [5. Putting everything together: linear regression](##heading-5)
-- [6. Conclusions](##heading-6)
+* TOC
+{:toc}
 <!-- toc -->
 
-## Getting started
+### Getting started
 To get started, make sure you have the following libraries: `tensorflow`, `matplotlib`, `numpy`.
 ```
 pip install tensorflow matplotlib numpy
 ```
 
-## 1. First steps: defining and evaluating graphs
+### 1. First steps: defining and evaluating graphs
 At the most basic level, computations using tensorflow happen in two steps:
 * Define computation graph
 * Instantiate a session and evaluate the graph
 
-### 1.1 Define computation graph
-
+#### 1.1 Define computation graph
 
 ```python
 a = tf.constant(2.0, dtype=tf.float32)
@@ -43,7 +36,7 @@ print(a,b,total)
 
 As you can see, we have created three objects: `a`, `b`, and `total`. They are 'tensor' objects, and we have defined the relationship between them: the sum of the values of `a` and `b` is equal to the value of the object `total`. The graph is however not yet evaluated; to do that we must instantiate a session.
 
-### 1.2 Evaluate computation graph
+#### 1.2 Evaluate computation graph
 
 
 ```python
@@ -56,7 +49,7 @@ print(sess.run(a), sess.run(b), sess.run(total)) # session.run evaluates values 
 
 When we instantiate a session and call the run() method, we finally carry out the computations on the graph. For example, calling sess.run(a) returns the evaluated value of `a`.  
 
-## 2. Feeding graphs
+### 2. Feeding graphs
 
 Our first graph was very basic: we initialised our variables `a` and `b` with constants. In general, however, we would like to define a graph and have it accept variable inputs. This is called 'feeding' the graph, and you can do this using 'placeholders'. Placeholders are variables whose values are set during evaluation, rather than during the graph definition stage. The following code block gives the same results as our first graph, but this time using placeholders:
 
@@ -77,7 +70,7 @@ print(sess.run(z, feed_dict={x: 2, y: 4}))
 
 As you can see, when you call the sess.run() method, you now need to pass in a dictionary of values for each placeholder (the 'feed_dict').
 
-## 3. Model layers and forward propagation
+### 3. Model layers and forward propagation
 
 A layer in the model is analogous to that in a neural network: it holds trainable parameters. You can build a graph containing layers in exactly the same way as before. However before running the session, you must initialise the variables.
 
@@ -107,7 +100,7 @@ Here we first defined `x` which takes in a variable number of 3-element vectors;
 
 This example shows a basic forward propagation pass through a single-layer model; hopefully you can see how this might extend to more complex models (you just add more layers...). To finally train the model, we need back propagation: this is automatically implemented in Tensorflow through the use of optimisers.
 
-## 4. Loss functions, optimisers, and back propagation
+### 4. Loss functions, optimisers, and back propagation
 
 To enable back propagation and training, we need to define
 * a loss function, and
@@ -173,7 +166,7 @@ print(y_data)
      [-3]]
 
 
-## 5. Putting everything together: linear regression
+### 5. Putting everything together: linear regression
 
 So we are finally ready to put everything together and train our first model, which is a simple linear regression. We can generate a random dataset which is a noisy straight line:
 
@@ -242,6 +235,6 @@ plt.show()
 <img src="/assets/images/HTF1.png" width="250" alt="me" align="center" hspace="40" vspace="40">
 <img src="/assets/images/HTF2.png" width="250" alt="me" align="center" hspace="40" vspace="40">
 
-## 6. Conclusions
+### 6. Conclusions
 
 I hope you enjoyed this short introduction to Tensorflow. Please stay tuned for more sophisticated examples! A jupyter notebook is available for this tutorial on my [GitHub repository](https://github.com/nadanai263/datasciportfolio).

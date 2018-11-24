@@ -2,6 +2,7 @@
 layout: post
 title: "Getting LinkedIn data with Python"
 date: 2018-11-15
+description: In the same way as for Twitter, we can also get data from LinkedIn. Here I show how to interface with LinkedIn's API to access their data. 
 ---
 
 In the same way as for Twitter, we can also get data from LinkedIn. Here I show how to interface with LinkedIn's API to access their data. 
@@ -10,21 +11,17 @@ LinkedIn is a bit more difficult than Twitter to access; this is because the dat
 
 The tutorial contains the following sections:
 
-- [1. Getting started](##heading-0)
-- [2. Initial authorisation](##heading-1)
-* [2.1 Asking for authentication code](###sub-heading-1)
-* [2.2 Using the code to get the access token](###sub-heading-2)
-- [3. Using the API to make queries](##heading-2)
-- [4. Conclusions](##heading-3)
+* TOC
+{:toc}
 <!-- toc -->
 
-## 1. Getting started
+### 1. Getting started
 First, we need the following libraries: [`python3-linkedin`](https://github.com/ozgur/python-linkedin):
 ```
 pip install python3-linkedin
 ```
 
-## 2. Initial authorisation
+### 2. Initial authorisation
 You will then need to register and create an app on the LinkedIn [developer platform](https://oauth.net). You'll need to supply some information like your business contact details and a logo(!). At the end of the process, you will end up at a page where two authentication keys are shown: a 'client ID', and a 'client secret' key. You'll also be able to set default permissions for your app, such as allowing access to the basic profile, email address, etc. For the time being, we will only select the basic profile, by ticking `r_basicprofile`. 
 
 You'll have to then specify a redirect URL for OAuth 2.0: this can be any valid URL beginning with 'https://'. The purpose of this will become clear later on. I set it to my GitHub pages site. 
@@ -34,7 +31,7 @@ Then, we're ready to start the authentication process. This is a multi-step proc
 * First, you ask LinkedIn for an authentication code, using your client and secret API keys. 
 * Then you use the code to obtain an access token, which can authenticate your app.
 
-### 2.1 Asking for authentication code
+#### 2.1 Asking for authentication code
 In python, the first step is to initialise the authorisation with the two API keys:  
 
 ```python
@@ -71,7 +68,7 @@ https://nadanai263.github.io/?code=CODE&state=bf1b9ab2950896b5e7d3f5a3dc42a718
 ```
 This response contains two items: a new code for access, and another state. Make sure this value is the same as the state shown earlier; the purpose of this ID is to enable you to check that no one else has intercepted the request. 
 
-### 2.2 Using the code to get the access token
+#### 2.2 Using the code to get the access token
 We can enter the code and ask for our access token:
 ```python
 auth.authorization_code='CODE'
@@ -85,7 +82,7 @@ application = linkedin.LinkedInApplication(token='TOKEN')
 ```
 The token is valid for 60 days, and so you don't have to repeat the procedure above for a while: you can just run the application directly using this token. Phew!
 
-## 3. Using the API to make queries
+### 3. Using the API to make queries
 Finally we can use the API to make queries. You can look at your own LinkedIn profile:
 ```python
 application.get_profile()
@@ -119,7 +116,7 @@ Out:
    {'name': 'Apple Premium Reseller - Iplace'}]}}
 ```
 
-## 4. Conclusions
+### 4. Conclusions
 
 Like Twitter, once you have the authentication in place, API calls are straightforward. For me, getting the authentication to work was the hardest part, especially as the procedure has changed slightly over the last few years. For instance, LinkedIn now uses OAuth 2.0, while many tutorials available only describe the old OAuth 1.0. The original `python-linkedin` library does not work with Python 3, necessitating the new `python3-linkedin` version. Finally, the lack of full accessibility with a basic developer account means that the amount of information you are able to get to is limited. In any case, this was a useful exercise in learning about OAuth 2.0. 
 
