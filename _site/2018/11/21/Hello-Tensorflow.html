@@ -1,0 +1,328 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Hello Tensorflow: what is Tensorflow and how do I use it for machine learning?</title>
+    <meta name="description" content="Tensorflow is a standard and powerful framework to build models for machine learning. Even though its power can already be harnessed using high-level, user-friendly wrappers such as Keras, it is also instructive to dive into the nuts and bolts of how it works. In this tutorial I will show you the most essential elements which make up a Tensorflow model, and how you can quickly build and train a linear regression predictor using these simple parts.">
+    <meta name="author" content="Nadanai Laohakunakorn">
+
+    <!-- Enable responsive viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link href="/assets/themes/twitter/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
+    <link href="/assets/themes/twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <link href="/assets/themes/twitter/css/kbroman.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/assets/themes/twitter/css/nl.css" rel="stylesheet" type="text/css" media="all">
+
+    <!-- Le fav and touch icons -->
+
+    <!-- atom & rss feed -->
+    <link href="nil" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
+    <link href="nil" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+
+  </head>
+
+  <body>
+    <div class="navbar">
+      <div class="navbar-inner">
+        <div class="container-narrow">
+          <a class="brand" href="/">Nadanai Laohakunakorn</a>
+          <ul class="nav">
+            <li><a href="/pages/projects.html">Projects</a></li>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-narrow">
+
+      <div class="content">
+        
+
+<div class="page-header">
+  <h1>Hello Tensorflow: what is Tensorflow and how do I use it for machine learning? </h1>
+</div>
+
+<div class="row-fluid post-full">
+  <div class="span12">
+    <div class="date">
+      <span>21 November 2018</span>
+    </div>
+    <div class="content">
+      <p>Tensorflow is a standard and powerful framework to build models for machine learning. Even though its power can already be harnessed using high-level, user-friendly wrappers such as Keras, it is also instructive to dive into the nuts and bolts of how it works. In this tutorial I will show you the most essential elements which make up a Tensorflow model, and how you can quickly build and train a linear regression predictor using these simple parts. I hope to develop these tutorials over time to cover more sophisticated examples. The tutorial contains the following sections:</p>
+
+<ul id="markdown-toc">
+  <li><a href="#getting-started" id="markdown-toc-getting-started">Getting started</a></li>
+  <li><a href="#1-first-steps-defining-and-evaluating-graphs" id="markdown-toc-1-first-steps-defining-and-evaluating-graphs">1. First steps: defining and evaluating graphs</a>    <ul>
+      <li><a href="#11-define-computation-graph" id="markdown-toc-11-define-computation-graph">1.1 Define computation graph</a></li>
+      <li><a href="#12-evaluate-computation-graph" id="markdown-toc-12-evaluate-computation-graph">1.2 Evaluate computation graph</a></li>
+    </ul>
+  </li>
+  <li><a href="#2-feeding-graphs" id="markdown-toc-2-feeding-graphs">2. Feeding graphs</a></li>
+  <li><a href="#3-model-layers-and-forward-propagation" id="markdown-toc-3-model-layers-and-forward-propagation">3. Model layers and forward propagation</a></li>
+  <li><a href="#4-loss-functions-optimisers-and-back-propagation" id="markdown-toc-4-loss-functions-optimisers-and-back-propagation">4. Loss functions, optimisers, and back propagation</a></li>
+  <li><a href="#5-putting-everything-together-linear-regression" id="markdown-toc-5-putting-everything-together-linear-regression">5. Putting everything together: linear regression</a></li>
+  <li><a href="#6-conclusions" id="markdown-toc-6-conclusions">6. Conclusions</a></li>
+</ul>
+<!-- toc -->
+
+<h3 id="getting-started">Getting started</h3>
+<p>To get started, make sure you have the following libraries: <code class="highlighter-rouge">tensorflow</code>, <code class="highlighter-rouge">matplotlib</code>, <code class="highlighter-rouge">numpy</code>.</p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip install tensorflow matplotlib numpy
+</code></pre></div></div>
+
+<h3 id="1-first-steps-defining-and-evaluating-graphs">1. First steps: defining and evaluating graphs</h3>
+<p>At the most basic level, computations using tensorflow happen in two steps:</p>
+<ul>
+  <li>Define computation graph</li>
+  <li>Instantiate a session and evaluate the graph</li>
+</ul>
+
+<h4 id="11-define-computation-graph">1.1 Define computation graph</h4>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">a</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">constant</span><span class="p">(</span><span class="mf">2.0</span><span class="p">,</span> <span class="n">dtype</span><span class="o">=</span><span class="n">tf</span><span class="o">.</span><span class="n">float32</span><span class="p">)</span>
+<span class="n">b</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">constant</span><span class="p">(</span><span class="mf">4.0</span><span class="p">)</span> <span class="c"># also tf.float32 implicitly</span>
+<span class="n">total</span> <span class="o">=</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span>
+<span class="k">print</span><span class="p">(</span><span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">,</span><span class="n">total</span><span class="p">)</span>
+</code></pre></div></div>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Tensor("Const:0", shape=(), dtype=float32) Tensor("Const_1:0", shape=(), dtype=float32) Tensor("add:0", shape=(), dtype=float32)
+</code></pre></div></div>
+
+<p>As you can see, we have created three objects: <code class="highlighter-rouge">a</code>, <code class="highlighter-rouge">b</code>, and <code class="highlighter-rouge">total</code>. They are ‘tensor’ objects, and we have defined the relationship between them: the sum of the values of <code class="highlighter-rouge">a</code> and <code class="highlighter-rouge">b</code> is equal to the value of the object <code class="highlighter-rouge">total</code>. The graph is however not yet evaluated; to do that we must instantiate a session.</p>
+
+<h4 id="12-evaluate-computation-graph">1.2 Evaluate computation graph</h4>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">sess</span><span class="o">=</span><span class="n">tf</span><span class="o">.</span><span class="n">Session</span><span class="p">()</span>
+<span class="k">print</span><span class="p">(</span><span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">a</span><span class="p">),</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">b</span><span class="p">),</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">total</span><span class="p">))</span> <span class="c"># session.run evaluates values of tensors passed as arguments</span>
+</code></pre></div></div>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>2.0 4.0 6.0
+</code></pre></div></div>
+
+<p>When we instantiate a session and call the run() method, we finally carry out the computations on the graph. For example, calling sess.run(a) returns the evaluated value of <code class="highlighter-rouge">a</code>.</p>
+
+<h3 id="2-feeding-graphs">2. Feeding graphs</h3>
+
+<p>Our first graph was very basic: we initialised our variables <code class="highlighter-rouge">a</code> and <code class="highlighter-rouge">b</code> with constants. In general, however, we would like to define a graph and have it accept variable inputs. This is called ‘feeding’ the graph, and you can do this using ‘placeholders’. Placeholders are variables whose values are set during evaluation, rather than during the graph definition stage. The following code block gives the same results as our first graph, but this time using placeholders:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 1. Define graph</span>
+<span class="n">x</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">placeholder</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">float32</span><span class="p">)</span>
+<span class="n">y</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">placeholder</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">float32</span><span class="p">)</span>
+<span class="n">z</span> <span class="o">=</span> <span class="n">x</span> <span class="o">+</span> <span class="n">y</span>
+
+<span class="c"># 2. Evaluate graph</span>
+<span class="n">sess</span><span class="o">=</span><span class="n">tf</span><span class="o">.</span><span class="n">Session</span><span class="p">()</span>
+<span class="k">print</span><span class="p">(</span><span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">z</span><span class="p">,</span> <span class="n">feed_dict</span><span class="o">=</span><span class="p">{</span><span class="n">x</span><span class="p">:</span> <span class="mi">2</span><span class="p">,</span> <span class="n">y</span><span class="p">:</span> <span class="mi">4</span><span class="p">}))</span>
+</code></pre></div></div>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>6.0
+</code></pre></div></div>
+
+<p>As you can see, when you call the sess.run() method, you now need to pass in a dictionary of values for each placeholder (the ‘feed_dict’).</p>
+
+<h3 id="3-model-layers-and-forward-propagation">3. Model layers and forward propagation</h3>
+
+<p>A layer in the model is analogous to that in a neural network: it holds trainable parameters. You can build a graph containing layers in exactly the same way as before. However before running the session, you must initialise the variables.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Data</span>
+<span class="n">my_data</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([[</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">],[</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">,</span><span class="mi">5</span><span class="p">],[</span><span class="mi">5</span><span class="p">,</span><span class="mi">6</span><span class="p">,</span><span class="mi">7</span><span class="p">]])</span>
+
+<span class="c"># 1. Define graph</span>
+<span class="n">x</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">placeholder</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">float32</span><span class="p">,</span> <span class="n">shape</span><span class="o">=</span><span class="p">[</span><span class="bp">None</span><span class="p">,</span><span class="mi">3</span><span class="p">])</span>
+<span class="n">linear_model</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">layers</span><span class="o">.</span><span class="n">Dense</span><span class="p">(</span><span class="n">units</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span> <span class="c"># Fully connected dense layer with single output</span>
+<span class="n">y</span> <span class="o">=</span> <span class="n">linear_model</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+
+<span class="c"># 2. Evaluate graph</span>
+<span class="n">sess</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">Session</span><span class="p">()</span>
+<span class="n">init</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">global_variables_initializer</span><span class="p">()</span>
+<span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">init</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">y</span><span class="p">,</span> <span class="n">feed_dict</span><span class="o">=</span><span class="p">{</span><span class="n">x</span><span class="p">:</span> <span class="n">my_data</span><span class="p">}))</span>
+</code></pre></div></div>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[[3.1232657]
+ [6.2646203]
+ [9.405975 ]]
+</code></pre></div></div>
+
+<p>Here we first defined <code class="highlighter-rouge">x</code> which takes in a variable number of 3-element vectors; the first dimension of <code class="highlighter-rouge">x</code> is set as <code class="highlighter-rouge">None</code>, which will be determined during evaluation (normally this dimension will correspond to the number of training examples). The linear model defined is a fully connected layer, which takes each 3-element vector of <code class="highlighter-rouge">x</code> and outputs a single real number <code class="highlighter-rouge">y</code>. Finally, before evaluation, we initialised the model using random numbers (the tf.global_variables_initializer function does this). Evaluating <code class="highlighter-rouge">y</code> by feeding in <code class="highlighter-rouge">my_data</code> results in the forward propagation of the inputs through the model; this generates 3 values for <code class="highlighter-rouge">y</code>, corresponding to the 3 training examples we fed in.</p>
+
+<p>This example shows a basic forward propagation pass through a single-layer model; hopefully you can see how this might extend to more complex models (you just add more layers…). To finally train the model, we need back propagation: this is automatically implemented in Tensorflow through the use of optimisers.</p>
+
+<h3 id="4-loss-functions-optimisers-and-back-propagation">4. Loss functions, optimisers, and back propagation</h3>
+
+<p>To enable back propagation and training, we need to define</p>
+<ul>
+  <li>a loss function, and</li>
+  <li>an optimiser.</li>
+</ul>
+
+<p>The loss function is a measure of how far our model predictions are from the target values. The optimiser tells Tensorflow what changes to make to the parameters to reduce the loss function. The code block below shows how to implement a linear regression on 4 data points:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Data: x,y pairs of points </span>
+<span class="n">x_data</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([[</span><span class="mi">1</span><span class="p">],[</span><span class="mi">2</span><span class="p">],[</span><span class="mi">3</span><span class="p">],[</span><span class="mi">4</span><span class="p">]])</span>
+<span class="n">y_data</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([[</span><span class="mi">0</span><span class="p">],[</span><span class="o">-</span><span class="mi">1</span><span class="p">],[</span><span class="o">-</span><span class="mi">2</span><span class="p">],[</span><span class="o">-</span><span class="mi">3</span><span class="p">]])</span>
+
+<span class="c"># 1. Define graph</span>
+<span class="n">x</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">placeholder</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">float32</span><span class="p">,</span> <span class="n">shape</span><span class="o">=</span><span class="p">[</span><span class="bp">None</span><span class="p">,</span><span class="mi">1</span><span class="p">])</span>
+<span class="n">y_true</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">placeholder</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">float32</span><span class="p">,</span> <span class="n">shape</span><span class="o">=</span><span class="p">[</span><span class="bp">None</span><span class="p">,</span><span class="mi">1</span><span class="p">])</span>
+<span class="n">linear_model</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">layers</span><span class="o">.</span><span class="n">Dense</span><span class="p">(</span><span class="n">units</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+<span class="n">y_pred</span> <span class="o">=</span> <span class="n">linear_model</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+
+<span class="c"># 1.1 Define loss function: here we use mean squared error</span>
+<span class="n">loss</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">losses</span><span class="o">.</span><span class="n">mean_squared_error</span><span class="p">(</span><span class="n">labels</span><span class="o">=</span><span class="n">y_true</span><span class="p">,</span> <span class="n">predictions</span><span class="o">=</span><span class="n">y_pred</span><span class="p">)</span>
+
+<span class="c"># 1.2 Define optimiser: here we use gradient descent</span>
+<span class="n">optimizer</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">train</span><span class="o">.</span><span class="n">GradientDescentOptimizer</span><span class="p">(</span><span class="mf">0.1</span><span class="p">)</span>
+<span class="n">train</span> <span class="o">=</span> <span class="n">optimizer</span><span class="o">.</span><span class="n">minimize</span><span class="p">(</span><span class="n">loss</span><span class="p">)</span>
+
+<span class="c"># 2. Evaluate graph</span>
+<span class="n">sess</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">Session</span><span class="p">()</span>
+<span class="n">init</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">global_variables_initializer</span><span class="p">()</span>
+<span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">init</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>Like before, we have defined our graph, and passed our data into the model’s placeholders through a feed_dict. The model now contains a loss function as well as <code class="highlighter-rouge">train</code>, which is a call to the optimizer. Each evaluation of <code class="highlighter-rouge">train</code> will make one gradient descent step, as can be seen by putting the session calls into a loop:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">5</span><span class="p">):</span>
+    <span class="k">print</span><span class="p">(</span><span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">([</span><span class="n">train</span><span class="p">,</span> <span class="n">loss</span><span class="p">],</span> <span class="n">feed_dict</span> <span class="o">=</span> <span class="p">{</span><span class="n">x</span> <span class="p">:</span> <span class="n">x_data</span><span class="p">,</span> <span class="n">y_true</span> <span class="p">:</span> <span class="n">y_data</span><span class="p">}))</span>
+</code></pre></div></div>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[None, 36.441383]
+[None, 16.590256]
+[None, 7.663968]
+[None, 3.6435313]
+[None, 1.8264822]
+</code></pre></div></div>
+
+<p>You can see the decreasing value of the loss function at each step. After a few steps of training, we can evaluate the model predictions:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">print</span><span class="p">(</span><span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">([</span><span class="n">y_pred</span><span class="p">],</span> <span class="n">feed_dict</span> <span class="o">=</span> <span class="p">{</span><span class="n">x</span> <span class="p">:</span> <span class="n">x_data</span><span class="p">}))</span>
+<span class="k">print</span><span class="p">(</span><span class="n">y_data</span><span class="p">)</span>
+</code></pre></div></div>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[array([[-1.3014169],
+       [-2.0794091],
+       [-2.8574014],
+       [-3.6353936]], dtype=float32)]
+[[ 0]
+ [-1]
+ [-2]
+ [-3]]
+</code></pre></div></div>
+
+<h3 id="5-putting-everything-together-linear-regression">5. Putting everything together: linear regression</h3>
+
+<p>So we are finally ready to put everything together and train our first model, which is a simple linear regression. We can generate a random dataset which is a noisy straight line:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">seed</span><span class="p">(</span><span class="mi">42</span><span class="p">)</span>
+<span class="n">x_data</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">100</span><span class="p">)</span>
+<span class="n">y_data</span> <span class="o">=</span> <span class="n">x_data</span><span class="o">*</span><span class="mi">5</span> <span class="o">+</span> <span class="mi">2</span> <span class="o">+</span> <span class="mi">20</span><span class="o">*</span><span class="n">np</span><span class="o">.</span><span class="n">random</span><span class="o">.</span><span class="n">randn</span><span class="p">(</span><span class="mi">100</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">x_data</span><span class="p">,</span> <span class="n">y_data</span><span class="p">,</span> <span class="s">'o'</span><span class="p">);</span> <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</code></pre></div></div>
+
+<p><img src="/assets/images/HTF0.png" width="250" alt="me" align="center" hspace="40" vspace="40" /></p>
+
+<p>Then we use all the elements we developed above to put together our training function. We’ll reshape the data so it’s compatible with our placeholders, and then call the training loop. There is one subtle point to make here: the success of training depends quite crucially on the training rate we use. Here I’ve set the gradient descent rate to 1e-4 which leads to good convergence. If our rates are too high, the training can blow up and not converge; this basically means that you’re trying to make steps much bigger than the features in the loss function and end up missing minima. It is therefore generally safer to have rates which are lower; however rates which are too low mean that convergence can become very slow.</p>
+
+<p>At each training step we can evaluate the loss and plot it. After we finish training we can also evaluate the model predictions with a final sess.run() call.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Reshape data to make it compatible with our placeholders</span>
+<span class="n">x_data</span> <span class="o">=</span> <span class="n">x_data</span><span class="o">.</span><span class="n">reshape</span><span class="p">(</span><span class="mi">100</span><span class="p">,</span><span class="mi">1</span><span class="p">)</span>
+<span class="n">y_data</span> <span class="o">=</span> <span class="n">y_data</span><span class="o">.</span><span class="n">reshape</span><span class="p">(</span><span class="mi">100</span><span class="p">,</span><span class="mi">1</span><span class="p">)</span>
+
+<span class="c"># 1. Define graph</span>
+<span class="n">x</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">placeholder</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">float32</span><span class="p">,</span> <span class="n">shape</span><span class="o">=</span><span class="p">[</span><span class="bp">None</span><span class="p">,</span><span class="mi">1</span><span class="p">])</span>
+<span class="n">y_true</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">placeholder</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">float32</span><span class="p">,</span> <span class="n">shape</span><span class="o">=</span><span class="p">[</span><span class="bp">None</span><span class="p">,</span><span class="mi">1</span><span class="p">])</span>
+<span class="n">linear_model</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">layers</span><span class="o">.</span><span class="n">Dense</span><span class="p">(</span><span class="n">units</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+<span class="n">y_pred</span> <span class="o">=</span> <span class="n">linear_model</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
+
+<span class="c"># 1.1 Define loss function: here we use mean squared error</span>
+<span class="n">loss</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">losses</span><span class="o">.</span><span class="n">mean_squared_error</span><span class="p">(</span><span class="n">labels</span><span class="o">=</span><span class="n">y_true</span><span class="p">,</span> <span class="n">predictions</span><span class="o">=</span><span class="n">y_pred</span><span class="p">)</span>
+
+<span class="c"># 1.2 Define optimiser: here we use gradient descent</span>
+<span class="n">optimizer</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">train</span><span class="o">.</span><span class="n">GradientDescentOptimizer</span><span class="p">(</span><span class="mf">0.0001</span><span class="p">)</span>
+<span class="n">train</span> <span class="o">=</span> <span class="n">optimizer</span><span class="o">.</span><span class="n">minimize</span><span class="p">(</span><span class="n">loss</span><span class="p">)</span>
+
+<span class="c"># 2. Evaluate graph</span>
+<span class="n">sess</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">Session</span><span class="p">()</span>
+<span class="n">init</span> <span class="o">=</span> <span class="n">tf</span><span class="o">.</span><span class="n">global_variables_initializer</span><span class="p">()</span>
+<span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">init</span><span class="p">)</span>
+
+<span class="c"># Train</span>
+
+<span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">20</span><span class="p">):</span>
+    <span class="n">_</span><span class="p">,</span><span class="n">loss_value</span> <span class="o">=</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">((</span><span class="n">train</span><span class="p">,</span><span class="n">loss</span><span class="p">),</span> <span class="n">feed_dict</span> <span class="o">=</span> <span class="p">{</span><span class="n">x</span> <span class="p">:</span> <span class="n">x_data</span><span class="p">,</span> <span class="n">y_true</span> <span class="p">:</span> <span class="n">y_data</span><span class="p">})</span>
+    
+    <span class="k">if</span> <span class="n">i</span><span class="o">==</span><span class="mi">0</span><span class="p">:</span>
+        <span class="n">losscurve</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([</span><span class="n">loss_value</span><span class="p">])</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="n">losscurve</span><span class="o">=</span><span class="n">np</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">losscurve</span><span class="p">,</span><span class="n">loss_value</span><span class="p">)</span>
+        
+<span class="n">plt</span><span class="o">.</span><span class="n">semilogy</span><span class="p">(</span><span class="n">losscurve</span><span class="p">);</span> 
+<span class="n">plt</span><span class="o">.</span><span class="n">xlabel</span><span class="p">(</span><span class="s">'Iterations'</span><span class="p">);</span> 
+<span class="n">plt</span><span class="o">.</span><span class="n">ylabel</span><span class="p">(</span><span class="s">'Loss'</span><span class="p">);</span> 
+<span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s">'Training curve'</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+
+<span class="n">y_out</span> <span class="o">=</span> <span class="n">sess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">y_pred</span><span class="p">,</span> <span class="n">feed_dict</span> <span class="o">=</span> <span class="p">{</span><span class="n">x</span> <span class="p">:</span> <span class="n">x_data</span><span class="p">})</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">x_data</span><span class="p">,</span> <span class="n">y_data</span><span class="p">,</span> <span class="s">'o'</span><span class="p">);</span> 
+<span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">x_data</span><span class="p">,</span> <span class="n">y_out</span><span class="p">,</span> <span class="s">'-'</span><span class="p">,</span> <span class="n">lw</span><span class="o">=</span><span class="mi">2</span><span class="p">);</span> 
+<span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s">'Model predictions'</span><span class="p">);</span> 
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</code></pre></div></div>
+<p><img src="/assets/images/HTF1.png" width="250" alt="me" align="center" hspace="40" vspace="40" />
+<img src="/assets/images/HTF2.png" width="250" alt="me" align="center" hspace="40" vspace="40" /></p>
+
+<h3 id="6-conclusions">6. Conclusions</h3>
+
+<p>I hope you enjoyed this short introduction to Tensorflow. Please stay tuned for more sophisticated examples! A jupyter notebook is available for this tutorial on my <a href="https://github.com/nadanai263/datasciportfolio">GitHub repository</a>.</p>
+
+    </div>
+
+    
+
+    
+
+    <hr>
+    <div class="pagination">
+      <ul>
+      
+        <li class="prev"><a href="/2018/11/19/Introduction-to-Keras" title="Introduction to Keras">&larr; Previous</a></li>
+      
+        <li><a href="/pages/projects.html">Archive</a></li>
+      
+        <li class="next"><a href="/2018/11/24/Metrics-for-binary-classification" title="Metrics for binary classification">Next &rarr;</a></li>
+      
+      </ul>
+    </div>
+    <hr>
+    
+  </div>
+</div>
+
+
+      </div>
+      <hr>
+      <footer>
+        <p><small>
+  <!-- start of Karl's footer; modify this part -->
+          <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" alt="CC0"/></a> &nbsp;
+          <a href="http://nadanai263.github.io/">Nadanai Laohakunakorn</a>
+  <!-- end of Karl's footer; modify this part -->
+        </small></p>
+      </footer>
+
+    </div>
+
+    
+  </body>
+</html>
+
