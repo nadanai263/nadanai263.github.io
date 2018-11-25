@@ -40,7 +40,7 @@ plt.show()
 ```
 
 
-<img src="/assets/images/MBC_4_0.png" width="250" alt="me" align="center" hspace="40" vspace="40">
+<img src="/assets/images/MBC_4_0.png" width="50%" alt="me" align="center" hspace="40" vspace="40">
 
 
 With these data, a classifier model should predict, given a new data point with some value of the coordinate, whether it belongs to the True or the False population. This type of problem is known as a binary classification, and is extremely common: for example, the two populations could represent the result of a medical test, or the presence of some signal above a noisy background. 
@@ -63,7 +63,7 @@ plt.show()
 ```
 
 
-<img src="/assets/images/MBC_6_0.png" width="250" alt="me" align="center" hspace="40" vspace="40">
+<img src="/assets/images/MBC_6_0.png" width="50%" alt="me" align="center" hspace="40" vspace="40">
 
 
 

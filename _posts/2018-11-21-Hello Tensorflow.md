@@ -179,7 +179,7 @@ plt.plot(x_data, y_data, 'o'); plt.show()
 ```
 
 
-<img src="/assets/images/HTF0.png" width="250" alt="me" align="center" hspace="40" vspace="40">
+<img src="/assets/images/HTF0.png" width="50%" alt="me" align="center" hspace="40" vspace="40">
 
 
 Then we use all the elements we developed above to put together our training function. We'll reshape the data so it's compatible with our placeholders, and then call the training loop. There is one subtle point to make here: the success of training depends quite crucially on the training rate we use. Here I've set the gradient descent rate to 1e-4 which leads to good convergence. If our rates are too high, the training can blow up and not converge; this basically means that you're trying to make steps much bigger than the features in the loss function and end up missing minima. It is therefore generally safer to have rates which are lower; however rates which are too low mean that convergence can become very slow. 
@@ -232,9 +232,9 @@ plt.plot(x_data, y_out, '-', lw=2);
 plt.title('Model predictions'); 
 plt.show()
 ```
-<img src="/assets/images/HTF1.png" width="250" alt="me" align="center" hspace="40" vspace="40">
-<img src="/assets/images/HTF2.png" width="250" alt="me" align="center" hspace="40" vspace="40">
+<img src="/assets/images/HTF1.png" width="50%" alt="me" align="center" hspace="40" vspace="40">
+<img src="/assets/images/HTF2.png" width="50%" alt="me" align="center" hspace="40" vspace="40">
 
 ### 6. Conclusions
 
-I hope you enjoyed this short introduction to Tensorflow. Please stay tuned for more sophisticated examples! A jupyter notebook is available for this tutorial on my [GitHub repository](https://github.com/nadanai263/datasciportfolio).
+I hope you enjoyed this short introduction to Tensorflow. Please stay tuned for more sophisticated examples! A jupyter notebook is available for this tutorial on my [GitHub repository](https://github.com/nadanai263/datasciportfolio). The definitive guide to Tensorflow is the documentation available on their [homepage](https://www.tensorflow.org).

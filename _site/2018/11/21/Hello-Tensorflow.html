@@ -228,7 +228,7 @@
 <span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">x_data</span><span class="p">,</span> <span class="n">y_data</span><span class="p">,</span> <span class="s">'o'</span><span class="p">);</span> <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </code></pre></div></div>
 
-<p><img src="/assets/images/HTF0.png" width="250" alt="me" align="center" hspace="40" vspace="40" /></p>
+<p><img src="/assets/images/HTF0.png" width="50%" alt="me" align="center" hspace="40" vspace="40" /></p>
 
 <p>Then we use all the elements we developed above to put together our training function. We’ll reshape the data so it’s compatible with our placeholders, and then call the training loop. There is one subtle point to make here: the success of training depends quite crucially on the training rate we use. Here I’ve set the gradient descent rate to 1e-4 which leads to good convergence. If our rates are too high, the training can blow up and not converge; this basically means that you’re trying to make steps much bigger than the features in the loss function and end up missing minima. It is therefore generally safer to have rates which are lower; however rates which are too low mean that convergence can become very slow.</p>
 
@@ -278,12 +278,12 @@
 <span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s">'Model predictions'</span><span class="p">);</span> 
 <span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </code></pre></div></div>
-<p><img src="/assets/images/HTF1.png" width="250" alt="me" align="center" hspace="40" vspace="40" />
-<img src="/assets/images/HTF2.png" width="250" alt="me" align="center" hspace="40" vspace="40" /></p>
+<p><img src="/assets/images/HTF1.png" width="50%" alt="me" align="center" hspace="40" vspace="40" />
+<img src="/assets/images/HTF2.png" width="50%" alt="me" align="center" hspace="40" vspace="40" /></p>
 
 <h3 id="6-conclusions">6. Conclusions</h3>
 
-<p>I hope you enjoyed this short introduction to Tensorflow. Please stay tuned for more sophisticated examples! A jupyter notebook is available for this tutorial on my <a href="https://github.com/nadanai263/datasciportfolio">GitHub repository</a>.</p>
+<p>I hope you enjoyed this short introduction to Tensorflow. Please stay tuned for more sophisticated examples! A jupyter notebook is available for this tutorial on my <a href="https://github.com/nadanai263/datasciportfolio">GitHub repository</a>. The definitive guide to Tensorflow is the documentation available on their <a href="https://www.tensorflow.org">homepage</a>.</p>
 
     </div>
 
@@ -299,11 +299,7 @@
       
         <li><a href="/pages/projects.html">Archive</a></li>
       
-<<<<<<< HEAD
         <li class="next"><a href="/2018/11/24/Metrics-for-binary-classification" title="Metrics for binary classification">Next &rarr;</a></li>
-=======
-        <li class="next disabled"><a>Next &rarr;</a>
->>>>>>> b3355a84b2e4e0c8a7f5f549ad8be4a16c29fcab
       
       </ul>
     </div>
