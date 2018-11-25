@@ -20,7 +20,7 @@ I construct pipelines using Python, Keras/Tensorflow, Docker, and AWS to rapidly
 
 
 ##### 3. Modelling the data: Features - Metrics - Algorithms - Optimization - Deployment - Evaluation
-[Tensorflow](/2018/11/21/Hello-Tensorflow) [Metrics](/2018/11/24/Metrics-For-Binary-Classification)
+[Tensorflow](/2018/11/21/Hello-Tensorflow) [Keras](/2018/11/19/Introduction-To-Keras) [Metrics](/2018/11/24/Metrics-For-Binary-Classification)
 
 ##### 4. Learning from the data: Interpretation - Communication  
 
