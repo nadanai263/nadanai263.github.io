@@ -35,11 +35,11 @@
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container-narrow">
-          <a class="brand" href="/">Nadanai Laohakunakorn</a>
+          <a class="brand" href="/">Home</a>
           <ul class="nav">
             <li><a href="/pages/tutorials.html">Tutorials</a></li>
             <li><a href="/pages/algorithms.html">Algorithms</a></li>
-            <li><a href="/pages/CV.html">CV</a></li>
+            <li><a href="/pages/cv.html">CV</a></li>
         </div>
       </div>
     </div>
@@ -76,10 +76,14 @@
 </ul>
 <!-- toc -->
 
+<hr />
+
 <h3 id="getting-started">Getting started</h3>
 <p>To get started, make sure you have the following libraries: <code class="highlighter-rouge">tensorflow</code>, <code class="highlighter-rouge">matplotlib</code>, <code class="highlighter-rouge">numpy</code>.</p>
 <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip install tensorflow matplotlib numpy
 </code></pre></div></div>
+
+<hr />
 
 <h3 id="1-first-steps-defining-and-evaluating-graphs">1. First steps: defining and evaluating graphs</h3>
 <p>At the most basic level, computations using tensorflow happen in two steps:</p>
@@ -112,6 +116,8 @@
 
 <p>When we instantiate a session and call the run() method, we finally carry out the computations on the graph. For example, calling sess.run(a) returns the evaluated value of <code class="highlighter-rouge">a</code>.</p>
 
+<hr />
+
 <h3 id="2-feeding-graphs">2. Feeding graphs</h3>
 
 <p>Our first graph was very basic: we initialised our variables <code class="highlighter-rouge">a</code> and <code class="highlighter-rouge">b</code> with constants. In general, however, we would like to define a graph and have it accept variable inputs. This is called ‘feeding’ the graph, and you can do this using ‘placeholders’. Placeholders are variables whose values are set during evaluation, rather than during the graph definition stage. The following code block gives the same results as our first graph, but this time using placeholders:</p>
@@ -130,6 +136,8 @@
 </code></pre></div></div>
 
 <p>As you can see, when you call the sess.run() method, you now need to pass in a dictionary of values for each placeholder (the ‘feed_dict’).</p>
+
+<hr />
 
 <h3 id="3-model-layers-and-forward-propagation">3. Model layers and forward propagation</h3>
 
@@ -158,6 +166,8 @@
 <p>Here we first defined <code class="highlighter-rouge">x</code> which takes in a variable number of 3-element vectors; the first dimension of <code class="highlighter-rouge">x</code> is set as <code class="highlighter-rouge">None</code>, which will be determined during evaluation (normally this dimension will correspond to the number of training examples). The linear model defined is a fully connected layer, which takes each 3-element vector of <code class="highlighter-rouge">x</code> and outputs a single real number <code class="highlighter-rouge">y</code>. Finally, before evaluation, we initialised the model using random numbers (the tf.global_variables_initializer function does this). Evaluating <code class="highlighter-rouge">y</code> by feeding in <code class="highlighter-rouge">my_data</code> results in the forward propagation of the inputs through the model; this generates 3 values for <code class="highlighter-rouge">y</code>, corresponding to the 3 training examples we fed in.</p>
 
 <p>This example shows a basic forward propagation pass through a single-layer model; hopefully you can see how this might extend to more complex models (you just add more layers…). To finally train the model, we need back propagation: this is automatically implemented in Tensorflow through the use of optimisers.</p>
+
+<hr />
 
 <h3 id="4-loss-functions-optimisers-and-back-propagation">4. Loss functions, optimisers, and back propagation</h3>
 
@@ -221,6 +231,8 @@
  [-3]]
 </code></pre></div></div>
 
+<hr />
+
 <h3 id="5-putting-everything-together-linear-regression">5. Putting everything together: linear regression</h3>
 
 <p>So we are finally ready to put everything together and train our first model, which is a simple linear regression. We can generate a random dataset which is a noisy straight line:</p>
@@ -283,6 +295,8 @@
 </code></pre></div></div>
 <p><img src="/assets/images/HTF1.png" width="50%" alt="me" align="center" hspace="40" vspace="40" />
 <img src="/assets/images/HTF2.png" width="50%" alt="me" align="center" hspace="40" vspace="40" /></p>
+
+<hr />
 
 <h3 id="6-conclusions">6. Conclusions</h3>
 

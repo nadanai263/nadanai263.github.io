@@ -11,11 +11,15 @@ Tensorflow is a standard and powerful framework to build models for machine lear
 {:toc}
 <!-- toc -->
 
+---
+
 ### Getting started
 To get started, make sure you have the following libraries: `tensorflow`, `matplotlib`, `numpy`.
 ```
 pip install tensorflow matplotlib numpy
 ```
+
+---
 
 ### 1. First steps: defining and evaluating graphs
 At the most basic level, computations using tensorflow happen in two steps:
@@ -49,6 +53,8 @@ print(sess.run(a), sess.run(b), sess.run(total)) # session.run evaluates values 
 
 When we instantiate a session and call the run() method, we finally carry out the computations on the graph. For example, calling sess.run(a) returns the evaluated value of `a`.  
 
+---
+
 ### 2. Feeding graphs
 
 Our first graph was very basic: we initialised our variables `a` and `b` with constants. In general, however, we would like to define a graph and have it accept variable inputs. This is called 'feeding' the graph, and you can do this using 'placeholders'. Placeholders are variables whose values are set during evaluation, rather than during the graph definition stage. The following code block gives the same results as our first graph, but this time using placeholders:
@@ -69,6 +75,8 @@ print(sess.run(z, feed_dict={x: 2, y: 4}))
 
 
 As you can see, when you call the sess.run() method, you now need to pass in a dictionary of values for each placeholder (the 'feed_dict').
+
+---
 
 ### 3. Model layers and forward propagation
 
@@ -99,6 +107,8 @@ print(sess.run(y, feed_dict={x: my_data}))
 Here we first defined `x` which takes in a variable number of 3-element vectors; the first dimension of `x` is set as `None`, which will be determined during evaluation (normally this dimension will correspond to the number of training examples). The linear model defined is a fully connected layer, which takes each 3-element vector of `x` and outputs a single real number `y`. Finally, before evaluation, we initialised the model using random numbers (the tf.global_variables_initializer function does this). Evaluating `y` by feeding in `my_data` results in the forward propagation of the inputs through the model; this generates 3 values for `y`, corresponding to the 3 training examples we fed in.
 
 This example shows a basic forward propagation pass through a single-layer model; hopefully you can see how this might extend to more complex models (you just add more layers...). To finally train the model, we need back propagation: this is automatically implemented in Tensorflow through the use of optimisers.
+
+---
 
 ### 4. Loss functions, optimisers, and back propagation
 
@@ -165,6 +175,7 @@ print(y_data)
      [-2]
      [-3]]
 
+---
 
 ### 5. Putting everything together: linear regression
 
@@ -234,6 +245,8 @@ plt.show()
 ```
 <img src="/assets/images/HTF1.png" width="50%" alt="me" align="center" hspace="40" vspace="40">
 <img src="/assets/images/HTF2.png" width="50%" alt="me" align="center" hspace="40" vspace="40">
+
+---
 
 ### 6. Conclusions
 

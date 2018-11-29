@@ -15,6 +15,8 @@ The tutorial contains the following sections:
 {:toc}
 <!-- toc -->
 
+---
+
 ### 1. Load data, build  and compile model
 
 We'll first load the MNIST data and build our model exactly as shown in a previous Keras tutorial.
@@ -77,6 +79,8 @@ model.compile(loss=keras.losses.categorical_crossentropy,
 
 
 Now, we have to process the data to generate our held-out dev set. The first way we can do it is completely manually.
+
+---
 
 ### 2. Manually generating dev set
 
@@ -236,6 +240,7 @@ ax[1].legend();
 
 <img src="/assets/images/CV_16_0.png" width="50%" alt="me" align="center" hspace="40" vspace="40">
 
+---
 
 ### 3. Automatically generating the dev set
 
@@ -284,6 +289,7 @@ ax[1].legend();
 
 <img src="/assets/images/CV_24_0.png" width="80%" alt="me" align="center" hspace="40" vspace="40">
 
+---
 
 ### 4. k-fold cross-validation
 
@@ -336,8 +342,9 @@ print("%.2f%% (+/- %.2f%%)" % (np.mean(cvscores), np.std(cvscores)))
 
 The result of this evaluation gives the most accurate prediction for the model's generalisability to unseen data; however this approach is clearly computationally intensive and is not normally used in large deep learning models.
 
+---
 
-### 3. Conclusions
+### 5. Conclusions
 
 In this tutorial I have shown a few different ways of implementing cross-validation using Keras. Cross-validation is a method for estimating how well the model generalises to unseen data, and is crucial for evaluating and tuning the model's performance. Some of the material here was taken from this excellent [tutorial](https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/).
 

@@ -35,11 +35,11 @@
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container-narrow">
-          <a class="brand" href="/">Nadanai Laohakunakorn</a>
+          <a class="brand" href="/">Home</a>
           <ul class="nav">
             <li><a href="/pages/tutorials.html">Tutorials</a></li>
             <li><a href="/pages/algorithms.html">Algorithms</a></li>
-            <li><a href="/pages/CV.html">CV</a></li>
+            <li><a href="/pages/cv.html">CV</a></li>
         </div>
       </div>
     </div>
@@ -71,9 +71,11 @@
   <li><a href="#3-make-an-api-query" id="markdown-toc-3-make-an-api-query">3. Make an API query</a></li>
   <li><a href="#4-finding-out-whats-trending" id="markdown-toc-4-finding-out-whats-trending">4. Finding out what’s trending</a></li>
   <li><a href="#5-simple-analysis-number-of-words-per-tweet" id="markdown-toc-5-simple-analysis-number-of-words-per-tweet">5. Simple analysis: number of words per tweet</a></li>
-  <li><a href="#5-conclusions" id="markdown-toc-5-conclusions">5. Conclusions</a></li>
+  <li><a href="#6-conclusions" id="markdown-toc-6-conclusions">6. Conclusions</a></li>
 </ul>
 <!-- toc -->
+
+<hr />
 
 <h3 id="1-getting-started">1. Getting started</h3>
 <p>First, we need the following libraries: <code class="highlighter-rouge">python-twitter</code> and <code class="highlighter-rouge">json</code>. We can install these to our virtual environment using <code class="highlighter-rouge">pip</code> as always (I highly recommend you to use your python in a virtual environment… please see my (upcoming) tutorial for this!):</p>
@@ -82,10 +84,14 @@
 </code></pre></div></div>
 <p><code class="highlighter-rouge">python-twitter</code> is a python wrapper for Twitter’s API, which allows you to interact and query Twitter data directly using python code. With the installation in place we are ready to go!</p>
 
+<hr />
+
 <h3 id="2-getting-authorization-to-access-twitter-data">2. Getting authorization to access Twitter data</h3>
 <p>To access Twitter data, you need to first of all create a developer account. This can be easily done through their developer platform. The reason for this is that you will need to login with your Twitter account (of course you need to make one if you haven’t already got one) to access the data. To apply for a developer account, follow the instructions on their <a href="https://developer.twitter.com/content/developer-twitter/en.html">developer website</a>. You will need to answer a few questions about why you want to set one up; I chose ‘study/student projects’ as that was most applicable. The rest of the steps were quite straightforward.</p>
 
 <p>Once the account is set up, you will need to create an ‘app’: this allows you to obtain four important pieces of information: the <code class="highlighter-rouge">consumer key</code>, the <code class="highlighter-rouge">consumer secret</code>, the <code class="highlighter-rouge">access key</code>, and the <code class="highlighter-rouge">access secret</code>. You’ll need to fill in some more information (such as giving a URL for your website; any will do). Finally, with these four unique tokens, you will be able to access the Twitter API. Keep the tokens safe, and treat them like you would any other password.</p>
+
+<hr />
 
 <h3 id="3-make-an-api-query">3. Make an API query</h3>
 <p>First we need to instantiate the twitter API with our unique tokens:</p>
@@ -162,6 +168,8 @@
 
 <p>We’ve successfully used the Twitter API to query a user and obtain their latest tweet. Now let’s get a wider picture of what’s going on in the Twitter universe by looking at trends.</p>
 
+<hr />
+
 <h3 id="4-finding-out-whats-trending">4. Finding out what’s trending</h3>
 <p>We can query ‘trends’, or popular topics. These can be localised to specific places using a system called the Yahoo! Where On Earth ID (WOEID). For example, the following query</p>
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">WORLD_WOEID_ID</span> <span class="o">=</span> <span class="mi">1</span>
@@ -193,6 +201,8 @@
 </code></pre></div></div>
 <p>So… these are the trending topics in the UK on the evening of the 14th November, 2018! If you run your code you’re sure to find different results.</p>
 
+<hr />
+
 <h3 id="5-simple-analysis-number-of-words-per-tweet">5. Simple analysis: number of words per tweet</h3>
 <p>Let’s select one hashtag to investigate further… how about the esteemed ‘Jacob Rees Mogg’?! By calling the <code class="highlighter-rouge">GetSearch()</code> method, we can find tweets containing that phrase:</p>
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">query</span> <span class="o">=</span> <span class="s">'Jacob Rees Mogg'</span>
@@ -221,7 +231,9 @@
 </code></pre></div></div>
 <p>So, tweets about Jacob Rees Mogg on average contain around 18 words and 123 characters, which is significantly longer than the <a href="https://smk.co/article/the-average-tweet-length-is-28-characters-long-and-other-interesting-facts">average tweet length</a> of 28 characters. Deeper analysis and interpretation on the literacy of people likely to tweet about Jacob Rees Mogg will be left to another post…</p>
 
-<h3 id="5-conclusions">5. Conclusions</h3>
+<hr />
+
+<h3 id="6-conclusions">6. Conclusions</h3>
 
 <p>As you can see, interacting with Twitter is straightforward. The API is simple yet powerful, and I hope to be able to show much more sophisticated analysis in the future.</p>
 

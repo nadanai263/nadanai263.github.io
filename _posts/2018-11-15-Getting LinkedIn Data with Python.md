@@ -15,11 +15,15 @@ The tutorial contains the following sections:
 {:toc}
 <!-- toc -->
 
+---
+
 ### 1. Getting started
 First, we need the following libraries: [`python3-linkedin`](https://github.com/ozgur/python-linkedin):
 ```
 pip install python3-linkedin
 ```
+
+---
 
 ### 2. Initial authorisation
 You will then need to register and create an app on the LinkedIn [developer platform](https://oauth.net). You'll need to supply some information like your business contact details and a logo(!). At the end of the process, you will end up at a page where two authentication keys are shown: a 'client ID', and a 'client secret' key. You'll also be able to set default permissions for your app, such as allowing access to the basic profile, email address, etc. For the time being, we will only select the basic profile, by ticking `r_basicprofile`. 
@@ -30,6 +34,8 @@ Then, we're ready to start the authentication process. This is a multi-step proc
 
 * First, you ask LinkedIn for an authentication code, using your client and secret API keys. 
 * Then you use the code to obtain an access token, which can authenticate your app.
+
+---
 
 #### 2.1 Asking for authentication code
 In python, the first step is to initialise the authorisation with the two API keys:  
@@ -82,6 +88,8 @@ application = linkedin.LinkedInApplication(token='TOKEN')
 ```
 The token is valid for 60 days, and so you don't have to repeat the procedure above for a while: you can just run the application directly using this token. Phew!
 
+---
+
 ### 3. Using the API to make queries
 Finally we can use the API to make queries. You can look at your own LinkedIn profile:
 ```python
@@ -115,6 +123,7 @@ Out:
    {'name': 'Apple Rock Displays'},
    {'name': 'Apple Premium Reseller - Iplace'}]}}
 ```
+---
 
 ### 4. Conclusions
 

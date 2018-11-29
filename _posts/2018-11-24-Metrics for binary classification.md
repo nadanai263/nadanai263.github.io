@@ -15,6 +15,8 @@ The tutorial contains the following sections:
 {:toc}
 <!-- toc -->
 
+---
+
 ### 1. Binary classification and the decision boundary
 
 To begin, let's suppose we have some data distributed along a one dimensional coordinate. The data fall into two unequal populations, which we'll call 'true' and 'false', and each population is normally distributed about some mean value. Setting the 0 value of our coordinate axis to lie equidistant from the two means, we have the following situation:
@@ -72,6 +74,8 @@ When we train a model, what we're doing is letting it come up with the location 
 The boundary shown here is located exactly in the middle between the two means. While this may seem like a sensible place to put it, it's not necessarily the optimum location. What does 'optimum' mean? 
 
 The rest of this tutorial will be devoted to answering that question. In general there is no 'best' solution; we can only define objective measures, or metrics, of the model prediction, and then use those measures to compare between different models. Different problems will require prioritising different metrics. Let's see what this means.
+
+---
 
 ### 2. Metrics for model evaluation
 
@@ -289,6 +293,7 @@ plt.show()
 ```
 <img src="/assets/images/MBC_23_0.png" width="500" alt="me" align="center" hspace="40" vspace="40">
 
+---
 
 ### 3. Conclusions
 

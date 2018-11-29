@@ -15,11 +15,15 @@ The tutorial contains the following sections:
 {:toc}
 <!-- toc -->
 
+---
+
 ### 1. Getting started
 First, we need the following libraries: `keras`, `python-mnist`, `numpy`.
 ```
 pip install keras python-mnist numpy
 ```
+
+---
 
 ### 2. Loading data
 
@@ -100,6 +104,7 @@ print(y_train[index])
     One-hot label:
     [0. 0. 1. 0. 0. 0. 0. 0. 0. 0.]
 
+---
 
 ### 3. Basic framework for using Keras
 
@@ -236,6 +241,8 @@ print('Test Accuracy:', score[1])
 
 We see that our most basic 10-node network, containing 7,850 parameters, performs with 92% accuracy on the held-out test set: this is the expected standard result, and is far from the maximum possible [state-of-the-art](https://www.kaggle.com/c/digit-recognizer/discussion/61480#latest-427248) value of 99.8%. 
 
+---
+
 ### 4. Useful functions for Keras workflow
 
 I hope you've seen from the discussion above how easy it is to build, train, and test a model using Keras. As the problem and models become more complex, we will need to introduce tricks at each step, but the basic framework will remain unchanged. In the rest of this tutorial I will show some functions which will already be useful for our current approach:
@@ -346,6 +353,7 @@ ax[1].legend();
 
 <img src="/assets/images/IK_37_0.png" width="75%" alt="me" align="center" hspace="40" vspace="40">
 
+---
 
 ### 5. Conclusions
 
