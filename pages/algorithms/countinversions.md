@@ -2,9 +2,9 @@
 layout: page
 title: "CountInversions"
 date: 2018-11-29
-description: Count inversions
+description: The number of inversions in an array can be counted with a simple modification of MergeSort.
 ---
-
+The number of inversions in an array can be counted with a simple modification of MergeSort.
 
 #### 1. The algorithm
 

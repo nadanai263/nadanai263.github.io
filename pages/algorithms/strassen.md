@@ -2,9 +2,9 @@
 layout: page
 title: "Strassen's algorithm for matrix multiplication"
 date: 2018-11-29
-description: Strassen
+description: Strassen's magical algorithm beats the standard matrix multiplication because it computes seven, instead of eight independent operations at each recursive call. How did he come up with it? No one knows!
 ---
-
+Strassen's magical algorithm beats the standard matrix multiplication because it computes seven, instead of eight independent operations at each recursive call. How did he come up with it? No one knows!
 
 #### 1. The algorithm
 

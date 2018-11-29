@@ -2,7 +2,7 @@
 layout: page
 title: "Selection Sort"
 date: 2018-11-29
-description: Selection sort
+description: SelectionSort is a simple but inefficient sorting algorithm, compared to MergeSort.
 ---
 
 

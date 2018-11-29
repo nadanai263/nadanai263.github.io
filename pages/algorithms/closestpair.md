@@ -2,9 +2,9 @@
 layout: page
 title: "ClosestPair"
 date: 2018-11-29
-description: Strassen
+description: ClosestPair is a more involved example of a divide and conquer algorithm; it uses results of MergeSort as well a trick to calculate only a small number of split pairs, or pairs of points from either side of the divide. 
 ---
-
+ClosestPair is a more involved example of a divide and conquer algorithm; it uses results of MergeSort as well a trick to calculate only a small number of split pairs, or pairs of points from either side of the divide. 
 
 #### 1. The algorithm
 

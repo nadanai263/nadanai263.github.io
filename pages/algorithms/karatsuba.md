@@ -2,9 +2,10 @@
 layout: page
 title: "Karatsuba algorithm for integer multiplication"
 date: 2018-11-29
-description: Karatsuba
+description: The Karatsuba algorithm is a fast algorithm for multiplying together integers, which beats the standard O(N^2) algorithm by using a recursive divide and conquer design.
 ---
 
+The Karatsuba algorithm is a fast algorithm for multiplying together integers, which beats the standard O(N^2) algorithm by using a recursive divide and conquer design.
 
 #### 1. The algorithm
 

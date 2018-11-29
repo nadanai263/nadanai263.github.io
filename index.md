@@ -5,7 +5,7 @@ tagline: Science and Data Science
 description: a public portfolio of my data science projects
 ---
 
-<img src="/assets/images/profile_.png" width="100" alt="me" align="right" hspace="40" vspace="15">
+<img src="/assets/images/profile_.jpg" width="100" alt="me" align="right" hspace="40" vspace="15">
 
 Hi there! I am a scientist with a background in physics, bioengineering, and synthetic biology, focusing on tackling problems in both fundamental and applied biotechnology. During the day, I work on experimental cell-free synthetic biology at the [EPFL](https://www.epfl.ch) in Lausanne, Switzerland, while many of my evenings are spent developing machine learning models for the analysis and interpretation of a wide variety of biological data. It is my dream to combine the two and leverage state-of-the-art computation to enable scientific discovery and guide scientific decision-making.
 

@@ -2,9 +2,10 @@
 layout: page
 title: "MergeSort"
 date: 2018-11-29
-description: MergeSort
+description: MergeSort is the canonical example of a recursive divide and conquer algorithm. It recursively divides the input array, resulting in log(N) levels; at each level the arrays are merged in N time, resulting in an overall O(Nlog(N)) performance. 
 ---
 
+MergeSort is the canonical example of a recursive divide and conquer algorithm. It recursively divides the input array, resulting in log(N) levels; at each level the arrays are merged in N time, resulting in an overall O(Nlog(N)) performance. 
 
 #### 1. The algorithm
 
