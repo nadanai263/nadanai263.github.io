@@ -2,14 +2,12 @@
 layout: page
 title: Nadanai Laohakunakorn
 tagline: Science and Data Science
-description: a public portfolio of my data science projects
+description: a portfolio of data science projects
 ---
 
 <img src="/assets/images/profile_.jpg" width="100" alt="me" align="right" hspace="40" vspace="15">
 
-Hi there! I am a scientist with a background in physics, bioengineering, and synthetic biology. During the day, I work on experimental cell-free synthetic biology at the [EPFL](https://www.epfl.ch) in Lausanne, Switzerland, while many of my evenings are spent developing computational models for the analysis and interpretation of a wide variety of data. It is my vision to combine the two, leveraging state-of-the-art computation to enable scientific discovery and guide scientific decision-making.
-
-This website showcases a collection of computational projects and techniques I have been working on as I slowly teach myself the basics of the exciting and rapidly-moving field of data-driven discovery. 
+Hi there! I am a scientist with a background in physics, bioengineering, and synthetic biology. I work on cell-free synthetic biology at the [EPFL](https://www.epfl.ch) in Lausanne, Switzerland. One of my long-term goals is to help bring together experimental synthetic biology and cutting-edge computational techniques, and to this end I have been teaching myself the basics of the exciting and rapidly-moving field of data-driven discovery. This website showcases an expanding collection of diverse computational projects and techniques I have been working on as I make this journey.
 
 Thanks for visiting, and please feel free to get in touch!
 
@@ -17,9 +15,9 @@ nadanai910 at gmail.com
 
 
 ---
-#### Data Science Tutorials
+#### Data Science Basics
 
-I construct pipelines using Python, Keras/Tensorflow, Docker, and AWS to rapidly design, containerize, and train machine learning models on the cloud, which allows me to interpret and gain insight into large public datasets. I've created an online portfolio to serve both a demonstration and a tutorial of specific steps required to do this, and I hope some of the material may be useful to you.
+I have been building data science pipelines using Python, Keras/Tensorflow, Docker, and AWS which allows me to rapidly design, containerize, and train machine learning models on the cloud. I've put together a collection of mini projects to serve both a demonstration and a tutorial of specific steps required to do this, and I hope some of the material may be useful to you.
 
 ##### 1. Getting the data: Import - Store - Extract - Organise
 [Getting Twitter data](/2018/11/14/Getting-Twitter-Data-with-Python) • [Getting LinkedIn data](/2018/11/15/Getting-LinkedIn-Data-with-Python)
