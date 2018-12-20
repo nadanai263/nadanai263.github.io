@@ -7,6 +7,8 @@ description: The Karatsuba algorithm is a fast algorithm for multiplying togethe
 
 The Karatsuba algorithm is a fast algorithm for multiplying together integers, which beats the standard O(N^2) algorithm by using a recursive divide and conquer design.
 
+---
+
 #### 1. The algorithm
 
 ```python
@@ -54,6 +56,7 @@ karatsuba_full(3141592653589793238462643383279502884197169399375105820974944592,
     Passed
     8539734222673567065463550869546574495034888535765114961879601127067743044893204848617875072216249073013374895871952806582723184
 
+---
 
 #### 2. Conclusions
 

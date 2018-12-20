@@ -4,6 +4,8 @@ title: Algorithms
 description: implementations of some famous algorithms in python
 ---
 
+  * 20 Dec 2018 » [QuickSort](/pages/algorithms/quicksort.html) Randomized QuickSort is an example of a randomized algorithm which sorts an array in O(Nlog(N)) time, on average. This is due to the fact that an efficient division of the array should result in subproblems of roughly equal size; and that random pivot choices are likely to achieve this division on average.
+
   * 29 Nov 2018 » [ClosestPair](/pages/algorithms/closestpair.html) This is a more involved example of a divide and conquer algorithm; it uses results of MergeSort as well a trick to calculate only a small number of split pairs, or pairs of points from either side of the divide. 
 
   * 29 Nov 2018 » [Strassen](/pages/algorithms/strassen.html) Strassen's magical algorithm beats the standard matrix multiplication because it computes seven, instead of eight independent operations at each recursive call. How did he come up with it? No one knows!

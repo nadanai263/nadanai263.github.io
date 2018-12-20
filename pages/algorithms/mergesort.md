@@ -7,6 +7,8 @@ description: MergeSort is the canonical example of a recursive divide and conque
 
 MergeSort is the canonical example of a recursive divide and conquer algorithm. It recursively divides the input array, resulting in log(N) levels; at each level the arrays are merged in N time, resulting in an overall O(Nlog(N)) performance. 
 
+---
+
 #### 1. The algorithm
 
 ```python
@@ -78,6 +80,7 @@ print(mergesort(a))
     Passed
     [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
 
+---
 
 #### 2. Conclusions
 

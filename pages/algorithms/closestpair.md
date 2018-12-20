@@ -6,6 +6,8 @@ description: ClosestPair is a more involved example of a divide and conquer algo
 ---
 ClosestPair is a more involved example of a divide and conquer algorithm; it uses results of MergeSort as well a trick to calculate only a small number of split pairs, or pairs of points from either side of the divide. 
 
+---
+
 #### 1. The algorithm
 
 ```python
@@ -198,6 +200,8 @@ plt.plot(Q[0],Q[1],'o'); ax=plt.gca(); ax.set_aspect('equal'); plt.show()
             2.3333175 , 2.26134369, 2.29634003]])
 
 <img src="/assets/images/CP.png" width="50%" alt="me" align="center" hspace="40" vspace="40">
+
+---
 
 #### 2. Conclusions
 

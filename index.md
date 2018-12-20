@@ -35,7 +35,7 @@ I have been building data science pipelines using Python, Keras/Tensorflow, Dock
 
 In order to familiarise myself with core CS concepts, I have also been implementing various famous algorithms.
 
-[Karatsuba](/pages/algorithms/karatsuba.html) • [MergeSort](/pages/algorithms/mergesort.html) • [SelectionSort](/pages/algorithms/selectionsort.html) • [CountInversions](/pages/algorithms/countinversions.html) • [Strassen](/pages/algorithms/strassen.html) • [ClosestPair](/pages/algorithms/closestpair.html)
+[Karatsuba](/pages/algorithms/karatsuba.html) • [MergeSort](/pages/algorithms/mergesort.html) • [SelectionSort](/pages/algorithms/selectionsort.html) • [CountInversions](/pages/algorithms/countinversions.html) • [Strassen](/pages/algorithms/strassen.html) • [ClosestPair](/pages/algorithms/closestpair.html) • [QuickSort](/pages/algorithms/quicksort.html)
 
 
 

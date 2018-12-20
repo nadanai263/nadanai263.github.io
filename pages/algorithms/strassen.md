@@ -6,6 +6,8 @@ description: Strassen's magical algorithm beats the standard matrix multiplicati
 ---
 Strassen's magical algorithm beats the standard matrix multiplication because it computes seven, instead of eight independent operations at each recursive call. How did he come up with it? No one knows!
 
+---
+
 #### 1. The algorithm
 
 ```python
@@ -79,6 +81,7 @@ strassen(X, Y)
            [2.55738162, 1.4226754 , 0.90247665, 2.20558671, 2.90664071,
             2.3333175 , 2.26134369, 2.29634003]])
 
+---
 
 #### 2. Conclusions
 

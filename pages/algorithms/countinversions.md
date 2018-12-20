@@ -6,6 +6,8 @@ description: The number of inversions in an array can be counted with a simple m
 ---
 The number of inversions in an array can be counted with a simple modification of MergeSort.
 
+---
+
 #### 1. The algorithm
 
 ```python
@@ -57,6 +59,7 @@ sort_and_count([1,3,5,2,4,6,23,4])
 
     ([1, 2, 3, 4, 4, 5, 6, 23], 7)
 
+---
 
 #### 2. Conclusions
 
