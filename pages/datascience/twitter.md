@@ -2,11 +2,11 @@
 layout: post
 title: "Getting Twitter data with Python"
 date: 2018-11-14
-description: A journey of a million steps begins with one... and so I begin my with my first post in the new world of data science! In this tutorial, I will demonstrate how to scrape, or obtain, data from Twitter, and do some simple analysis on the results. 
+description: A journey of a million steps begins with one... and so I begin my with my first post in the world of data science! In this tutorial, I will demonstrate how to scrape, or obtain, data from Twitter, and do some simple analysis on the results. 
 
 ---
 
-A journey of a million steps begins with one... and so I begin my with my first post in the new world of data science! In this tutorial, I will demonstrate how to scrape, or obtain, data from Twitter, and do some simple analysis on the results. 
+A journey of a million steps begins with one... and so I begin my with my first post in the world of data science! In this tutorial, I will demonstrate how to scrape, or obtain, data from Twitter, and do some simple analysis on the results. 
 
 Twitter is a rich source of textual data and metadata, which contains myriad complex information about users' interests, preferences, interactions, locations, and behaviour; it's therefore very useful and interesting to be able to mine this resource. While the [Twitter API](https://developer.twitter.com/content/developer-twitter/en.html) itself is already friendly to use, python wrappers make the experience even easier: by running simple python commands we can query Twitter to obtain users' tweets and associated metadata. Here I demonstrate the most basic interaction with the Twitter API through a python wrapper, `python-twitter`. 
 

@@ -7,33 +7,37 @@ description: a portfolio of data science projects
 
 <img src="/assets/images/profile_.jpg" width="100" alt="me" align="right" hspace="40" vspace="15">
 
-Hi there! I am a scientist with a background in physics, bioengineering, and synthetic biology. I work on cell-free synthetic biology at the [EPFL](https://www.epfl.ch) in Lausanne, Switzerland. One of my long-term goals is to help bring together experimental synthetic biology and cutting-edge computational techniques, and to this end I have been teaching myself the basics of the exciting and rapidly-moving field of data-driven discovery. This website showcases an expanding collection of diverse computational projects and techniques I have been working on as I make this journey.
+Hi there! I am a scientist with a background in physics, bioengineering, and synthetic biology. I work on [cell-free synthetic biology](http://lbnc.epfl.ch/) at the [EPFL](https://www.epfl.ch/en/home/) in Lausanne, Switzerland. One of my long-term goals is to bring together experimental synthetic biology and cutting-edge computational techniques, and to this end I have been teaching myself the basics of the exciting and rapidly-moving field of data-driven discovery. This personal website is an attempt to consolidate various computational techniques, tips, and tricks I have come across as I make this journey. It also contains a general blog of thoughts and ideas I find interesting.
 
 Thanks for visiting, and please feel free to get in touch!
 
 nadanai910 at gmail.com
 
+---
+#### Blog
+
+  * 15 Jan 2019 » [The case for an engineering approach to synthetic biology](/2019/01/15/engineeringsynbio)
 
 ---
 #### Data Science Basics
 
-I have been building data science pipelines using Python, Keras/Tensorflow, Docker, and AWS which allows me to rapidly design, containerize, and train machine learning models on the cloud. I've put together a collection of mini projects to serve both a demonstration and a tutorial of specific steps required to do this, and I hope some of the material may be useful to you.
+I have been building data science pipelines using Python, Keras/Tensorflow, Docker, and AWS which allows me to rapidly design, containerize, and train machine learning models on the cloud. I've put together a collection of mini-demonstrations to show the specific steps required to do this. Bear in mind that the field is changing quickly, and the demos presented here may become obsolete faster than I anticipate! Correctness is by no means guaranteed, but I will be extremely grateful if you do point out any glaring errors. 
 
 ##### 1. Getting the data: Import - Store - Extract - Organise
-[Getting Twitter data](/2018/11/14/Getting-Twitter-Data-with-Python) • [Getting LinkedIn data](/2018/11/15/Getting-LinkedIn-Data-with-Python)
+[Getting Twitter data](/pages/datascience/twitter.html) • [Getting LinkedIn data](/pages/datascience/linkedin.html)
 
 ##### 2. Exploring the data: Clean - Transform - Visualise
 
 
 ##### 3. Modelling the data: Features - Metrics - Algorithms - Optimization - Deployment - Evaluation
-[Tensorflow](/2018/11/21/Hello-Tensorflow) • [Keras](/2018/11/19/Introduction-to-Keras) • [Metrics for binary classification](/2018/11/24/Metrics-for-binary-classification) • [Cross-validation](/2018/11/26/Cross-validation)
+[Tensorflow](/pages/datascience/tensorflow.html) • [Keras](/pages/datascience/keras.html) • [Metrics for binary classification](/pages/datascience/metrics.html) • [Cross-validation](/pages/datascience/xval.html)
 
 ##### 4. Learning from the data: Interpretation - Communication  
 
 ---
 #### Algorithms
 
-In order to familiarise myself with core CS concepts, I have also been implementing various famous algorithms.
+In order to familiarise myself with core CS concepts, I have also been implementing various famous algorithms. These aren't likely to become obsolete any time soon. 
 
 [Karatsuba](/pages/algorithms/karatsuba.html) • [MergeSort](/pages/algorithms/mergesort.html) • [SelectionSort](/pages/algorithms/selectionsort.html) • [CountInversions](/pages/algorithms/countinversions.html) • [Strassen](/pages/algorithms/strassen.html) • [ClosestPair](/pages/algorithms/closestpair.html) • [QuickSort](/pages/algorithms/quicksort.html)
 
