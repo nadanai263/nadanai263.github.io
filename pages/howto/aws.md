@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "AWS"
+layout: page
+title: "How to: set up AWS"
 date: 2018-11-09
 ---
 

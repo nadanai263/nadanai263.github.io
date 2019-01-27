@@ -5,7 +5,7 @@ description: Short notes on how to do things
 ---
 Short notes on how to do things.
 
-  * 27 Jan 2019 » [How to: read a file](/pages/howto/readfile.html) How to parse a file line-by-line in python.
+  * 27 Jan 2019 » [How to: read a file in python](/pages/howto/readfile.html) How to parse a file line-by-line in python.
 
   * 09 Nov 2018 » [How to: set up AWS](/pages/howto/aws.html) Notes on setting up AWS.
 

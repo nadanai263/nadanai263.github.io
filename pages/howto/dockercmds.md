@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Docker commands"
+layout: page
+title: "How to: use basic Docker commands"
 date: 2018-10-19
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "How to: read a file in python"
 date: 2019-01-27
 description: How to parse a file line-by-line

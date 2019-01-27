@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "RVM"
+layout: page
+title: "How to: install Ruby Version Manager"
 date: 2018-10-10
 ---
 
