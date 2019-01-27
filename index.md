@@ -7,7 +7,7 @@ description: a portfolio of data science projects
 
 <img src="/assets/images/profile_.jpg" width="100" alt="me" align="right" hspace="40" vspace="15">
 
-Hi there! I am a scientist with a background in physics, bioengineering, and synthetic biology. I work on [cell-free synthetic biology](http://lbnc.epfl.ch/) at the [EPFL](https://www.epfl.ch/en/home/) in Lausanne, Switzerland. One of my long-term goals is to bring together experimental synthetic biology and cutting-edge computational techniques, and to this end I have been teaching myself the basics of the exciting and rapidly-moving field of data-driven discovery. This personal website is an attempt to consolidate various computational techniques, tips, and tricks I have come across as I make this journey. It also contains a general blog of thoughts and ideas I find interesting.
+Hi there! I am a scientist with a background in physics, bioengineering, and synthetic biology. I work on [cell-free synthetic biology](http://lbnc.epfl.ch/) at the [EPFL](https://www.epfl.ch/en/home/) in Lausanne, Switzerland. One of my long-term goals is to bring together experimental synthetic biology and cutting-edge computational techniques, and to this end I have been teaching myself the basics of the rapidly-moving field of data-driven discovery. This personal website is an attempt to consolidate various computational techniques, tips, and tricks I have come across as I make this journey. It also contains a general blog of thoughts and ideas I find interesting.
 
 Thanks for visiting, and please feel free to get in touch!
 
@@ -40,6 +40,13 @@ I have been building data science pipelines using Python, Keras/Tensorflow, Dock
 In order to familiarise myself with core CS concepts, I have also been implementing various famous algorithms. These aren't likely to become obsolete any time soon. 
 
 [Karatsuba](/pages/algorithms/karatsuba.html) • [MergeSort](/pages/algorithms/mergesort.html) • [SelectionSort](/pages/algorithms/selectionsort.html) • [CountInversions](/pages/algorithms/countinversions.html) • [Strassen](/pages/algorithms/strassen.html) • [ClosestPair](/pages/algorithms/closestpair.html) • [QuickSort](/pages/algorithms/quicksort.html)
+
+---
+#### How-to
+
+I've also compiled general notes on how to do things. These are typically unformatted and almost purely for my own reference.
+
+[Read a file with python](/pages/howto/readfile.html) • [Set up AWS](/pages/howto/aws.html) • [Use Docker](/pages/howto/dockercmds.html) • [Install RVM](/pages/howto/rvm.html) 
 
 
 
