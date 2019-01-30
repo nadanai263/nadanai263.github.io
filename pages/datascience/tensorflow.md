@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Hello Tensorflow: what is Tensorflow and how do I use it for machine learning?"
 date: 2018-11-21
 description: Tensorflow is a standard and powerful framework to build models for machine learning. Even though its power can already be harnessed using high-level, user-friendly wrappers such as Keras, it is also instructive to dive into the nuts and bolts of how it works. In this tutorial I will show you the most essential elements which make up a Tensorflow model, and how you can quickly build and train a linear regression predictor using these simple parts.

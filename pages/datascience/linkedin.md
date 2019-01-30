@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Getting LinkedIn data with Python"
 date: 2018-11-15
 description: In the same way as for Twitter, we can also get data from LinkedIn. Here I show how to interface with LinkedIn's API to access their data. 

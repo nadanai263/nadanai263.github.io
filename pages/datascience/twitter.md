@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Getting Twitter data with Python"
 date: 2018-11-14
 description: A journey of a million steps begins with one... and so I begin my with my first post in the world of data science! In this tutorial, I will demonstrate how to scrape, or obtain, data from Twitter, and do some simple analysis on the results. 

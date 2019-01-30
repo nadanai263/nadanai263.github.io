@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Metrics for binary classification"
 date: 2018-11-24
 description: In this tutorial we will look at how to evaluate a classifier. To keep things simple, we won't look at details of the classifier itself, but we'll assume that we already have a working model, and consider how we might evaluate its performance. I'll explain some useful metrics including precision, recall, and the F1 score.

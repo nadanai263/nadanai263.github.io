@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Cross-validation"
 date: 2018-11-26
 description: The aim of cross-validation is to hold out a part of the training set, which is then used to evaluate the model's performance. Because this held-out data is not seen by the model during training, the evaluation provides an estimate of how well the model will generalise to the unseen test set. This tutorial shows how to implement cross-validation using Keras.
