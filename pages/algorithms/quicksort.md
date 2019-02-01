@@ -68,8 +68,7 @@ print(QuickSort(a,0,len(a)))
 ```python
 def Partition_RS(a,l,r):
     
-    pivot = random.choice(a) # Choose random pivot
-    ind = [i for i,val in enumerate(a) if val==pivot][0] # index of random pivot
+    ind = random.choice([i for i in range(l,r)]) # index of random pivot
     pivot = a[ind]
     
     # Swap first and chosen elements
@@ -77,7 +76,7 @@ def Partition_RS(a,l,r):
     swap6 = a[ind]
     a[l] = swap6
     a[ind] = swap5
-        
+       
     i = l+1
     for j in range(l+1,r):
         if a[j]<pivot:
@@ -92,8 +91,7 @@ def Partition_RS(a,l,r):
     swap4=a[i-1]
     a[i-1]=swap3
     a[l]=swap4
-    
-    return(a,i-1) # i is index of first element on RHS; i-1 is pivot index
+    return(a,i) # i is index of first element on RHS; i-1 is pivot index
 
 def QuickSort_random(a,l,r):
     # Efficient QuickSort using random pivots
@@ -120,9 +118,9 @@ test_quicksort(a)
 print(QuickSort_random(a,0,len(a)))
 ```
 
-	[14, 15, 12, 19, 4, 10, 13, 3, 7, 6, 9, 1, 17, 8, 18, 2, 11, 16, 5, 0]
-	Passed
-	[8, 10, 7, 9, 11, 13, 2, 16, 1, 12, 3, 18, 17, 5, 0, 14, 4, 15, 6, 19]
+	[14, 6, 16, 13, 0, 12, 2, 18, 8, 7, 3, 11, 1, 4, 10, 17, 19, 15, 9, 5]
+    Passed
+    [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
 
 ---
 
