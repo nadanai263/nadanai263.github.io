@@ -68,16 +68,20 @@ print(QuickSort(a,0,len(a)))
 ```python
 def Partition_RS(a,l,r):
     
+    # 1. Pick pivot randomly
     ind = random.choice([i for i in range(l,r)]) # index of random pivot
     pivot = a[ind]
     
-    # Swap first and chosen elements
+    # 2. Put pivot to beginning of array
     swap5 = a[l]
     swap6 = a[ind]
     a[l] = swap6
     a[ind] = swap5
-       
+      
+    # 3. Keep track of elements less than pivot with index i
     i = l+1
+    
+    # 4. Put all elements less than pivot between l and i
     for j in range(l+1,r):
         if a[j]<pivot:
             swap1=a[j]
@@ -87,6 +91,9 @@ def Partition_RS(a,l,r):
             i=i+1
         else:
             pass
+        
+    # 5. Move pivot to right of i (all elements less on left)
+    # Pivot is now in correct position.
     swap3=a[l]
     swap4=a[i-1]
     a[i-1]=swap3
