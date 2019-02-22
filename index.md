@@ -21,7 +21,7 @@ nadanai910 at gmail.com
 ---
 #### Data Science Basics
 
-I have been building data science pipelines using Python, Keras/Tensorflow, Docker, and AWS which allows me to rapidly design, containerize, and train machine learning models on the cloud. I've put together a collection of mini-demonstrations to show the specific steps required to do this. Bear in mind that the field is changing quickly, and the demos presented here may become obsolete faster than I anticipate! Correctness is by no means guaranteed, but I will be extremely grateful if you do point out any glaring errors. 
+I have been building data science pipelines using Python, Keras/Tensorflow, Docker, and AWS which allows me to rapidly design, containerize, and train machine learning models on the cloud. I've put together a collection of mini-demonstrations to show the specific steps required to do this. Bear in mind that the field is changing quickly, and the demos presented here may become obsolete faster than I anticipate. Correctness is by no means guaranteed, but I will be extremely grateful if you do point out any glaring errors. 
 
 ##### 1. Getting the data: Import - Store - Extract - Organise
 [Getting Twitter data](/pages/datascience/twitter.html) • [Getting LinkedIn data](/pages/datascience/linkedin.html)
@@ -44,7 +44,7 @@ In order to familiarise myself with core CS concepts, I have also been implement
 ---
 #### How-to
 
-I've also compiled general notes on how to do things. These are typically unformatted and almost purely for my own reference.
+I've also compiled general notes on how to do things. These are typically unformatted and purely for my own reference.
 
 [Read a file with python](/pages/howto/readfile.html) • [Set up AWS](/pages/howto/aws.html) • [Use Docker](/pages/howto/dockercmds.html) • [Install RVM](/pages/howto/rvm.html) 
 
