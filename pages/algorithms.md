@@ -4,6 +4,12 @@ title: Algorithms
 description: implementations of some famous algorithms in python
 ---
 
+  * 02 Mar 2019 » [Kosaraju](/pages/algorithms/kosaraju.html) Kosaraju's algorithm computes the strongly-connected components of a directed graph in two DFS calls. The first call is done on a reversed graph, and results in a list of finishing times for each node. Calling DFS again on the forward graph, in decreasing order of finishing time, explores the SCCs one at a time.   
+
+  * 02 Mar 2019 » [Depth-first search](/pages/algorithms/DFS.html) A recursive algorithm can also search the graph in O(n+m), but burrows as deeply as possible into the graph before backtracking. This is known as depth-first search.  
+
+  * 02 Mar 2019 » [Breadth-first search](/pages/algorithms/BFS.html) Using a queue, a graph can be searched in O(n+m) time one layer at a time.  
+
   * 06 Feb 2019 » [RandomSelect](/pages/algorithms/randomselect.html) Selection is fundamentally easier than sorting. Using the partitioning function from QuickSort, we can extract the ith-order statistic in O(N) time on average using the randomised selection algorithm.
 
   * 30 Jan 2019 » [Karger](/pages/algorithms/karger.html) Karger's randomised contraction algorithm randomly contracts edges on a graph, and finds minimum cuts with a small but nonzero probability. Repeating this process many times results in increasing probability of finding the minimum cut. A naive algorithm can therefore be useful, thanks to the laws of probability.
