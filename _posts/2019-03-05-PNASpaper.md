@@ -1,0 +1,30 @@
+---
+layout: post
+title: "In plain language: Engineering cell-free GRNs, our new PNAS paper"
+date: 2019-03-05
+description: text
+
+---
+
+At the most basic level, reprogramming a living cell involves modulating its complex internal gene regulatory network, which consists of numerous genes constantly switching on and off as the cell goes about its life. Synthetic biology is the science which aims to repurpose living cells to carry out new functions. As an example of a useful function we might want to engineer, consider a biosensor. This consists of an engineered gene circuit introduced into the cell which allows it to turn on a gene in response to an external stimulus. For instance, in the presence of a toxin, the cell may start to produce a fluorescent signal which may be detected. Such a gene circuit is typically composed of genetic switches, or combinations of switches which together carry out a computation: a genetic logic gate.
+
+While designing such a genetic circuit, the researcher is faced with a host of difficulties. For example, it is difficult to study an individual switch's properties in detail; the circuit's behaviour may be contaminated by spurious interactions from other cellular components; and if the circuit confers a negative evolutionary pressure, the cell population may eventually mutate the new gene out of existence. 
+
+The science of cell-free synthetic biology alleviates some of these problems, by instead carrying out biological functions outside of living cells. At its simplest, cell-free systems are the raw components directly extracted from living cells: these include enzymes and metabolites which result from breaking the cells apart. By supplying the cell-free system with DNA and biochemical energy (in the form of high-energy phosphates), gene expression can be achieved *in vitro* inside a test tube. 
+
+So, cell-free systems can carry out not only existing biological functions, such as gene expression and protein production, but also novel functions, for example production of toxic compounds which would otherwise kill a living cell. Devices such as biosensors are also possible in cell-free systems, with the added benefit that they may be freeze-dried and reconstituted on demand by adding water, a real practical advantage for diagnostic [applications](https://www.cell.com/fulltext/S0092-8674(16)30505-0). 
+
+Cell-free systems offer two major benefits for engineering: first, they are systems of reduced complexity, compared to cells, and therefore spurious interactions are minimised, and evolutionary effects nonexistent. Secondly, they are naturally amenable to high-throughput quantitative characterisation. This allows each component of an engineered genetic circuit to be studied with high precision and resolution. 
+
+By taking advantage of high-throughput microfluidics, we demonstrate in our recent paper how to engineer logic gates in cell-free systems. 
+
+We first designed a new microfluidic chip which allowed us to simultaneously run 784 independent cell-free reactions, which were prepared from lysed *E. coli* cells. This allowed us to characterise a library of synthetic repressors (proteins which turn genes off) based on a zinc-finger protein, which works by binding specifically to DNA just at the start of a gene (the 'promoter' region) and preventing its expression. The strength of repression can be adjusted by making changes to both the protein and the DNA site to which it binds: our characterisation enabled us to study these effects, and to select the most efficient repressor-promoter combinations.
+
+Just turning the gene off is not enough, however. Repressors based on the binding of single proteins to DNA typically exhibit a range of outputs between the 'on' and the 'off' state. To make the behaviour more switch-like we introduced cooperative activity to our selected repressors. This involves fusing interaction domains onto the proteins, allowing pairs of repressors to bind to each other, enhancing both the binding to DNA and sharpening the 'on'-'off' transition. 
+
+What our second characterisation showed was that by modulating the strength of the protein-DNA interaction of these cooperative repressors, we were able to generate a set of working logic gates. While a weak repressor by itself does not switch off gene expression, a pair of weak repressors which cooperatively binds to each other is able to. Gene expression is thus only switched off in the presence of both repressors, which corresponds to a logical NAND gate. Slowly increasing the strength of the repressors eventually allows the repressors themselves can switch the gene off independently of each other, leading to a NOR gate. These gates are universal, in the sense that any other more complex computation can be achieved by combining them together. Therefore, they form an essential part of functional synthetic gene circuits. 
+
+The design of logic gates (or genetic circuits in general) involves searching through a huge number of parameter combinations. Finding a working solution requires multiple rounds of designing, building, and testing, which is a major bottleneck in traditional cellular synthetic biology. Cell-free systems, on the other hand, offers a powerful platform for more reliable engineering of biological functions, and combined with microfluidic technology, enables the design-build-test cycle to be accelerated. This results in more rapid discovery of working designs, which can be directly deployed in cell-free applications, or re-integrated into living cells. 
+
+
+
