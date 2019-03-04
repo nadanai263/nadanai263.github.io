@@ -16,6 +16,10 @@ nadanai910 at gmail.com
 ---
 #### Blog
 
+  * 05 Mar 2019 » [Our new paper in plain language: engineering cell-free GRNs](/2019/03/05/Swank19)
+
+  * 04 Mar 2019 » [Proposition: forward-engineering biology using cell-free systems](/2019/03/04/proposal)
+
   * 15 Jan 2019 » [The case for an engineering approach to synthetic biology](/2019/01/15/engineeringsynbio)
 
 ---
