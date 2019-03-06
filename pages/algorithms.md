@@ -4,6 +4,8 @@ title: Algorithms
 description: implementations of some famous algorithms in python
 ---
 
+  * 06 Mar 2019 » [Dijkstra](/pages/algorithms/dijkstra.html) Dijkstra's algorithm finds the shortest path between two elements in a directed graph with non-negative edge lengths. It does this by searching through edges connecting the explored and unexplored parts of the graph. A naive implementation runs in O(mn) time, while an implementation using a heap data structure runs in O(mlog(n)) time.
+
   * 02 Mar 2019 » [Kosaraju](/pages/algorithms/kosaraju.html) Kosaraju's algorithm computes the strongly-connected components of a directed graph in two DFS calls. The first call is done on a reversed graph, and results in a list of finishing times for each node. Calling DFS again on the forward graph, in decreasing order of finishing time, explores the SCCs one at a time.   
 
   * 02 Mar 2019 » [Depth-first search](/pages/algorithms/DFS.html) A recursive algorithm can also search the graph in O(n+m), but burrows as deeply as possible into the graph before backtracking. This is known as depth-first search.  
