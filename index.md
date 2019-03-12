@@ -39,11 +39,11 @@ I have been building data science pipelines using Python, Keras/Tensorflow, Dock
 ##### 4. Learning from the data: Interpretation - Communication  
 
 ---
-#### Algorithms
+#### Algorithms and Data Structures
 
-In order to familiarise myself with core CS concepts, I have also been implementing various famous algorithms. These aren't likely to become obsolete any time soon. 
+In order to familiarise myself with core CS concepts, I have also been implementing various algorithms and data structures. These aren't likely to become obsolete any time soon. 
 
-[Karatsuba](/pages/algorithms/karatsuba.html) • [MergeSort](/pages/algorithms/mergesort.html) • [SelectionSort](/pages/algorithms/selectionsort.html) • [CountInversions](/pages/algorithms/countinversions.html) • [Strassen](/pages/algorithms/strassen.html) • [ClosestPair](/pages/algorithms/closestpair.html) • [QuickSort](/pages/algorithms/quicksort.html) • [Karger](/pages/algorithms/karger.html) • [RandomSelect](/pages/algorithms/randomselect.html) • [Breadth-first search](/pages/algorithms/BFS.html) • [Depth-first search](/pages/algorithms/DFS.html) • [Kosaraju](/pages/algorithms/kosaraju.html) • [Dijkstra](/pages/algorithms/dijkstra.html)
+[Karatsuba](/pages/algorithms/karatsuba.html) • [MergeSort](/pages/algorithms/mergesort.html) • [SelectionSort](/pages/algorithms/selectionsort.html) • [CountInversions](/pages/algorithms/countinversions.html) • [Strassen](/pages/algorithms/strassen.html) • [ClosestPair](/pages/algorithms/closestpair.html) • [QuickSort](/pages/algorithms/quicksort.html) • [Karger](/pages/algorithms/karger.html) • [RandomSelect](/pages/algorithms/randomselect.html) • [Breadth-first search](/pages/algorithms/BFS.html) • [Depth-first search](/pages/algorithms/DFS.html) • [Kosaraju](/pages/algorithms/kosaraju.html) • [Dijkstra](/pages/algorithms/dijkstra.html) • [Heaps](/pages/algorithms/heaps.html)
 
 ---
 #### How-to

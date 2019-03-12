@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Algorithms
-description: implementations of some famous algorithms in python
+title: Algorithms and Data Structures
+description: implementations of some algorithms and data structures in python
 ---
+
+  * 12 Mar 2019 » [Heaps](/pages/algorithms/heaps.html) Here we code up our first data structure, the heap. This can be implemented using a balanced complete binary tree. Heaps are particularly suitable for operations involving repeated calculations of minimum or maximum values; an example is median maintenance, or determining the median of a changing array.
 
   * 06 Mar 2019 » [Dijkstra](/pages/algorithms/dijkstra.html) Dijkstra's algorithm finds the shortest path between two elements in a directed graph with non-negative edge lengths. It does this by searching through edges connecting the explored and unexplored parts of the graph. A naive implementation runs in O(mn) time, while an implementation using a heap data structure runs in O(mlog(n)) time.
 
