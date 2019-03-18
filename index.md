@@ -7,7 +7,7 @@ description: a portfolio of data science projects
 
 <img src="/assets/images/profile_.jpg" width="100" alt="me" align="right" hspace="40" vspace="15">
 
-Hi there! I am a scientist with a background in physics, bioengineering, and synthetic biology. I work on [cell-free synthetic biology](http://lbnc.epfl.ch/) at the [EPFL](https://www.epfl.ch/en/home/) in Lausanne, Switzerland. One of my long-term goals is to bring together experimental synthetic biology and cutting-edge computational techniques, and to this end I have been teaching myself the basics of data-driven methods. This personal website is an attempt to consolidate various computational techniques, tips, and tricks I have come across as I make this journey. It also contains a general blog of thoughts and ideas I find interesting.
+Hi there! I am a scientist with a background in physics, bioengineering, and synthetic biology. I work on [cell-free synthetic biology](http://lbnc.epfl.ch/) at the [EPFL](https://www.epfl.ch/en/home/) in Lausanne, Switzerland. One of my long-term goals is to bring together experimental synthetic biology with cutting-edge computational techniques, and to this end I have been teaching myself the basics of data-driven methods. This personal website is an attempt to consolidate various computational techniques, tips, and tricks I have come across as I make this journey. It also contains a general blog of thoughts and ideas I find interesting.
 
 Thanks for visiting, and please feel free to get in touch!
 
@@ -27,16 +27,7 @@ nadanai910 at gmail.com
 
 I have been building data science pipelines using Python, Keras/Tensorflow, Docker, and AWS which allows me to rapidly design, containerize, and train machine learning models on the cloud. I've put together a collection of mini-demonstrations to show the specific steps required to do this. Bear in mind that the field is changing very quickly, and the demos presented here may rapidly become obsolete. Correctness is by no means guaranteed, but I will be extremely grateful if you do point out any glaring errors. 
 
-##### 1. Getting the data: Import - Store - Extract - Organise
-[Getting Twitter data](/pages/datascience/twitter.html) • [Getting LinkedIn data](/pages/datascience/linkedin.html)
-
-##### 2. Exploring the data: Clean - Transform - Visualise
-
-
-##### 3. Modelling the data: Features - Metrics - Algorithms - Optimization - Deployment - Evaluation
-[Tensorflow](/pages/datascience/tensorflow.html) • [Keras](/pages/datascience/keras.html) • [Metrics for binary classification](/pages/datascience/metrics.html) • [Cross-validation](/pages/datascience/xval.html)
-
-##### 4. Learning from the data: Interpretation - Communication  
+[Getting Twitter data](/pages/datascience/twitter.html) • [Getting LinkedIn data](/pages/datascience/linkedin.html) • [Tensorflow](/pages/datascience/tensorflow.html) • [Keras](/pages/datascience/keras.html) • [Metrics for binary classification](/pages/datascience/metrics.html) • [Cross-validation](/pages/datascience/xval.html)
 
 ---
 #### Algorithms and Data Structures
