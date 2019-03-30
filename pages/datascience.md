@@ -14,7 +14,7 @@ description: mini tutorials on data science topics
 
   * 15 Nov 2018 » [Getting LinkedIn Data with Python](/pages/datascience/linkedin.html) In the same way as for Twitter, we can also get data from LinkedIn. Here I show how to interface with LinkedIn's API to access their data. 
 
-  * 14 Nov 2018 » [Getting Twitter Data with Python](/pages/datascience/twitter.html) A journey of a million steps begins with one... and so I begin my with my first post in the world of data science! In this tutorial, I will demonstrate how to scrape, or obtain, data from Twitter, and do some simple analysis on the results. 
+  * 14 Nov 2018 » [Getting Twitter Data with Python](/pages/datascience/twitter.html) In this tutorial, I will demonstrate how to scrape, or obtain, data from Twitter, and do some simple analysis on the results. 
 
 [Go back](/index.html).
 

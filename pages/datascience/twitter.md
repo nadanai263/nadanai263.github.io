@@ -2,11 +2,11 @@
 layout: page
 title: "Getting Twitter data with Python"
 date: 2018-11-14
-description: A journey of a million steps begins with one... and so I begin my with my first post in the world of data science! In this tutorial, I will demonstrate how to scrape, or obtain, data from Twitter, and do some simple analysis on the results. 
+description: In this tutorial, I will demonstrate how to scrape, or obtain, data from Twitter, and do some simple analysis on the results. 
 
 ---
 
-A journey of a million steps begins with one... and so I begin my with my first post in the world of data science! In this tutorial, I will demonstrate how to scrape, or obtain, data from Twitter, and do some simple analysis on the results. 
+In this tutorial, I will demonstrate how to scrape, or obtain, data from Twitter, and do some simple analysis on the results. 
 
 Twitter is a rich source of textual data and metadata, which contains myriad complex information about users' interests, preferences, interactions, locations, and behaviour; it's therefore very useful and interesting to be able to mine this resource. While the [Twitter API](https://developer.twitter.com/content/developer-twitter/en.html) itself is already friendly to use, python wrappers make the experience even easier: by running simple python commands we can query Twitter to obtain users' tweets and associated metadata. Here I demonstrate the most basic interaction with the Twitter API through a python wrapper, `python-twitter`. 
 
@@ -145,26 +145,26 @@ uk_trends_set = set([names.AsDict()['name'] for names in uk_trends])
 print(uk_trends_set)
 
 Out:
-{'Jacob Rees Mogg', '#HouseOfTheYear', '#NorthernMarketingAwards', '#watchdoglive', '#WithdrawalAgreement', 'Downing Street', '#MummyDiaries', 'Fabian Delph', '#DevonHour', '#MaddoxPrize', 'Bergh', '#IrishaSongorMovie', '#AHSApocalypse', '#channel4news', '#ClaxtonsWhisky', 'Theresa May', 'Chequers', 'Greenland', '#handmadehour', 'Cilic', '#TheApprentice', 'My Brain', '#McrCultureAwards', '#POGDOGS', '#LTHEchat', '#NSA2018', '#weddinghour', '#mastercheftheprofessionals', '#jamesbulger', 'Political Declaration', 'David Mundell', 'Number 10', '#DarkHeart', '#NXTUK', '#woofwoofwednesday', 'Sammy Wilson', '#TomorrowToday', '#somecomms', 'Tim Stockdale', '#UKGFA', 'Michel Barnier', '#BrexitChaos', '#StripWithLittleMix', 'United Kingdom', '#selfieforseb', 'Jack Reacher', 'Euratom', '#WalesNOTY2018', '#AHFODfilm', '#CoronationStreet'}
+{'FOBT', 'MATCHDAY', '#SaveHondaSwindon', '#FridayMotivation', '#ChangeUK', '#StPancras', '#FreeCodeFridayContest', '#JonSnow', '#brexitcoin', '#WithdrawalAgreement', 'Zouma', 'David Ibbotson', '#StillEuropean', '#CelebratingEducation', 'Dominic Grieve', '#IsItOk', '#RemainDay', 'Brandon Lewis', 'Change UK', '#TakeAFilmOnADayOut', 'Irini', 'Jon Conway', '#WorldBipolarDay', 'Sakura Wars', '#LEIBOU', 'Tommy Robinson', '#wearahatday', '#BM100', '#BLUvSTO', '#SaturdayThoughts', '#FridayFeeling', 'BBC News - Big', '#Caturday', 'Mr Grieve', 'Jilly', '#TADtalk2019', "Mother's Day", '#StillGame', 'JK Rowling', '#TOTP', '#MasterChefUK', '#SaturdayMorning', 'Beaconsfield', '#BrexitDay', '#BrexitShambles', 'Jon Snow', '#Grieve', '#SaturdayMotivation', 'UKIP'}
 ```
-So... these are the trending topics in the UK on the evening of the 14th November, 2018! If you run your code you're sure to find different results. 
+So... these are the trending topics in the UK on a particular day (in fact, the morning of the 30th March, 2019)! If you run your code you're sure to find different results. 
 
 ---
 
 ### 5. Simple analysis: number of words per tweet
-Let's select one hashtag to investigate further... how about the esteemed 'Jacob Rees Mogg'?! By calling the `GetSearch()` method, we can find tweets containing that phrase:
+Let's select one hashtag to investigate further... how about 'Jon Snow'? By calling the `GetSearch()` method, we can find tweets containing that phrase:
 ```python
-query = 'Jacob Rees Mogg'
+query = 'Jon Snow'
 search_results = twitter_api.GetSearch(term=query, count=100)
 ```
-Here, we return `search_results`, which is a list of 100 `Status()`, or tweet, objects, containing the phrase 'Jacob Rees Mogg'. We can view all of them if we want, by printing them one by one:
+Here, we return `search_results`, which is a list of 100 `Status()`, or tweet, objects, containing the phrase 'Jon Snow'. We can view all of them if we want, by printing them one by one:
 ```python
 tweets_set = set([status.AsDict()['text'] for status in search_results]) 
 for elem in tweets_set:
     print(elem)
     print('--')
 ```
-This results in a tremendous number of tweet text. But what may be more interesting than tweets about Jacob Rees Mogg is an analysis of them. Let's count the average number of tweets in the text:
+This results in a tremendous number of tweet text. But what may be more interesting than tweets about Jon Snow is an analysis of them. Let's count the average number of tweets in the text:
 ```python
 total_words = []
 total_chars = []
@@ -177,10 +177,10 @@ print(np.mean(total_words))
 print(np.mean(total_chars))
 
 Out: 
-17.54
-123.3
+19.3
+120.5
 ```
-So, tweets about Jacob Rees Mogg on average contain around 18 words and 123 characters, which is significantly longer than the [average tweet length](https://smk.co/article/the-average-tweet-length-is-28-characters-long-and-other-interesting-facts) of 28 characters. Deeper analysis and interpretation on the literacy of people likely to tweet about Jacob Rees Mogg will be left to another post...
+So, tweets about Jon Snow on average contain around 18 words and 123 characters, which is significantly longer than the [average tweet length](https://smk.co/article/the-average-tweet-length-is-28-characters-long-and-other-interesting-facts) of 28 characters. Deeper analysis and interpretation on the literacy of people likely to tweet about Jon Snow will be left to another post...
 
 ---
 
