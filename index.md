@@ -41,7 +41,7 @@ In order to familiarise myself with core CS concepts, I have also been implement
 
 I've also compiled general notes on how to do things. These are typically unformatted and purely for my own reference.
 
-[Read a file with python](/pages/howto/readfile.html) • [Set up AWS](/pages/howto/aws.html) • [Use Docker](/pages/howto/dockercmds.html) • [Install RVM](/pages/howto/rvm.html) 
+[Use git](/pages/howto/git.html) • [Read a file with python](/pages/howto/readfile.html) • [Set up AWS](/pages/howto/aws.html) • [Use Docker](/pages/howto/dockercmds.html) • [Install RVM](/pages/howto/rvm.html) 
 
 
 
