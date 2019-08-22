@@ -7,7 +7,7 @@ description: a portfolio of data science projects
 
 <img src="/assets/images/profile_.jpg" width="100" alt="me" align="right" hspace="40" vspace="15">
 
-Hi there! I am a scientist with a background in physics, bioengineering, and synthetic biology. I work on [cell-free synthetic biology](http://lbnc.epfl.ch/) at the [EPFL](https://www.epfl.ch/en/home/) in Lausanne, Switzerland. One of my long-term goals is to bring together experimental and computational techniques to serve synthetic biology, and to this end I have been teaching myself the basics of data-driven methods and machine learning. This personal website is an attempt to consolidate various techniques, tips, and tricks I have come across as I make this journey. It also contains a general blog of thoughts and ideas I find interesting.
+Hi there! I am a scientist with a background in physics, bioengineering, and synthetic biology. I work on [cell-free synthetic biology](http://lbnc.epfl.ch/) at [The University of Edinburgh](https://www.epfl.ch/en/home/). One of my long-term goals is to bring together experimental and computational techniques to serve synthetic biology, and to this end I have been teaching myself the basics of data-driven methods and machine learning. This personal website is an attempt to consolidate various techniques, tips, and tricks I have come across as I dive into this field. It also contains a general blog of thoughts and ideas I find interesting.
 
 Thanks for visiting, and please feel free to get in touch!
 
@@ -15,6 +15,8 @@ nadanai910 at gmail.com
 
 ---
 #### Blog
+
+  * 22 Aug 2019 » [Control theory and synthetic biology](/2019/08/22/control)
 
   * 05 Mar 2019 » [Our new paper in plain language: engineering cell-free GRNs](/2019/03/05/Swank19)
 
