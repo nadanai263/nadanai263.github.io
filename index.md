@@ -7,7 +7,7 @@ description: a portfolio of data science projects
 
 <img src="/assets/images/profile_.jpg" width="100" alt="me" align="right" hspace="40" vspace="15">
 
-Hi there! I am a scientist with a background in physics, bioengineering, and synthetic biology. I work on [cell-free synthetic biology](http://lbnc.epfl.ch/) at [The University of Edinburgh](https://www.epfl.ch/en/home/). One of my long-term goals is to bring together experimental and computational techniques to serve synthetic biology, and to this end I have been teaching myself the basics of data-driven methods and machine learning. This personal website is an attempt to consolidate various techniques, tips, and tricks I have come across as I dive into this field. It also contains a general blog of thoughts and ideas I find interesting.
+Hi there! I am a scientist with a background in physics, bioengineering, and synthetic biology. I work on [cell-free synthetic biology](http://lbnc.epfl.ch/) at [The University of Edinburgh](https://www.ed.ac.uk/). One of my long-term goals is to bring together experimental and computational techniques to serve synthetic biology, and to this end I have been teaching myself the basics of data-driven methods and machine learning. This personal website is an attempt to consolidate various techniques, tips, and tricks I have come across as I dive into this field. It also contains a general blog of thoughts and ideas I find interesting.
 
 Thanks for visiting, and please feel free to get in touch!
 
