@@ -4,7 +4,9 @@ title: CV
 description: my CV
 ---
 
-**2015 -** Postdoctoral Research Scientist, Laboratory of Biological Network Characterization, École Polytechnique Fédérale de Lausanne
+**2019 -** Chancellor's Fellow, School of Biological Sciences, The University of Edinburgh
+
+**2015 - 2019** Postdoctoral Research Scientist, Laboratory of Biological Network Characterization, École Polytechnique Fédérale de Lausanne
 
 **2011 - 2015** PhD, Nanopore Biophysics, Trinity College, University of Cambridge
 
