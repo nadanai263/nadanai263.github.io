@@ -1,13 +1,10 @@
 ---
 layout: page
-title: Nadanai Laohakunakorn
-tagline: PhD 
+title: The Cell-Free Lab
+tagline:  
 description: ---
 ---
 
-<img src="/assets/images/profile_.jpg" width="100" alt="me" align="right" hspace="30" vspace="5">
+<img src="/assets/images/emboss_v2.jpg" width="300" alt="CF" align="right" hspace="30" vspace="5">
 
-Hi there! I am a scientist with a background in physics, bioengineering, and synthetic biology. I work on cell-free synthetic biology at [The University of Edinburgh](https://www.ed.ac.uk/). Please see my [official site](https://laohakunakorn.netlify.com/).
-
-
-
+Welcome to the website for The Cell-Free Lab! We are a new research group led by Dr. Nadanai Laohakunakorn, based in the [School of Biological Sciences](https://www.ed.ac.uk/biology), at the [The University of Edinburgh](https://www.ed.ac.uk/). Please check back soon for updates.
