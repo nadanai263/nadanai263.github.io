@@ -4,6 +4,7 @@ title: Research
 description: ---
 ---
 
-Coming soon
+Coming soon!
+
 
 [Go back](/index.html).
