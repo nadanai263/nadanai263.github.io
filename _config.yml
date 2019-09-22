@@ -10,9 +10,9 @@ exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "
 title : Nadanai Laohakunakorn
 author :
   name : Nadanai Laohakunakorn
-  email : nadanai910@gmail.com
+  email : nadanai.laohakunakorn@ed.ac.uk
   github : nadanai263
-  twitter : nil
+  twitter : nadanai263
   feedburner : nil
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"

@@ -11,6 +11,22 @@ a code {
   color: #08c;
 }
 
+/* Navbar max size to match container-narrow */
+@media (min-width: 1200px) {
+    .container{
+        max-width: 729px;
+    }
+}
+
+/* Figure caption align text */
+figure img {
+    vertical-align: middle;
+    text-align: center;
+}
+figure figcaption {
+    text-align: center;
+}
+
 /* Syntax highlighting */
 /* Monokai pygments theme */
 
