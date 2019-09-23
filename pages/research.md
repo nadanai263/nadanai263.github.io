@@ -8,7 +8,7 @@ Synthetic biology is a rapidly growing field set to make profound impact in nume
 
 **PhD Opportunities**
 
-We have three PhD projects available. Funding deadlines are **December 2019** for a start in autumn 2020. If you are interested in any of the projects below please send a CV, a letter explaining your interest in the project, and the names of two referees directly to [Dr Laohakunakorn](mailto:nadanai.laohakunakorn@ed.ac.uk). 
+We have three PhD projects available. Funding deadlines are **December 2019** for a start in Autumn 2020. If you are interested in any of the projects below please send a CV, a letter explaining your interest in the project, and the names of two referees directly to [Nadanai](mailto:nadanai.laohakunakorn@ed.ac.uk). 
 
 ---
 
