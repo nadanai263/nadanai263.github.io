@@ -14,11 +14,22 @@ description: ---
 		</div>
 		<div class="col-sm order-1">
 		<figure>
-			<img src="/assets/images/emboss_v2.jpg" width="100%" alt="CF">	
+			<img src="/assets/images/emboss_v2.jpg" width="100%" alt="CF">
 			<figcaption><i>Photo: Z. Swank</i></figcaption>
-			</figure>	
+			</figure>
 		</div>
+</div>
+<hr>
+<div class="container-fluid">
 
+<h3>News</h3>
 
+<ul>
+ <p><li>01 Nov 2019 &#187; 3 new PhD projects are now online. Check them out <a href="https://www.ed.ac.uk/biology/prospective-students/postgraduate-research/apply-for-a-phd/findaphd">here</a>. </li></p>
+ <p><li>26 Sep 2019 &#187; Our new lab website is up and running. </li></p>
+ <p><li>12 Sep 2019 &#187; Nadanai gives a talk at the <a href="http://www.synthsys.ed.ac.uk/our-centre">SynthSys</a> open centre meeting. </li></p>
+ <p><li>10 Sep 2019 &#187; Nadanai presents at the <a href="http://sysos.eng.ox.ac.uk/wiki/index.php/SynBioControl2019">SynBioControl</a> workshop in Oxford. </li></p>
+  <p><li>19 Aug 2019 &#187; Our lab has officially started! </li></p>
+</ul>
 
-
+</div>
