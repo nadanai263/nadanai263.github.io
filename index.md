@@ -22,7 +22,7 @@ description: ---
 <hr>
 <div class="container-fluid">
 
-<h3>News</h3>
+<h3><a href="{{ BASE_PATH }}/pages/news.html">News</a></h3>
 
 <ul>
  <p><li>01 Nov 2019 &#187; 3 new PhD projects are now online. Check them out <a href="https://www.ed.ac.uk/biology/prospective-students/postgraduate-research/apply-for-a-phd/findaphd">here</a>. </li></p>
