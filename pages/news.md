@@ -8,6 +8,15 @@ description: ---
 
 <ul>
  <p><li>01 Nov 2019 &#187; 3 new PhD projects are now online. Check them out <a href="https://www.ed.ac.uk/biology/prospective-students/postgraduate-research/apply-for-a-phd/findaphd">here</a>. </li></p>
+ <p><li>31 Oct 2019 &#187; We've moved into our new lab space in the Roger Land Building! </li></p>
+ <p><figure>
+   <img src="/assets/images/lab1.jpg" width="75%" alt="lab_1">
+   </figure></p>
+   <p><figure>
+     <img src="/assets/images/lab2.jpg" width="75%" alt="lab_2">
+     </figure></p>
+
+
  <p><li>26 Sep 2019 &#187; Our new lab website is up and running. </li></p>
  <p><li>12 Sep 2019 &#187; Nadanai gives a talk at the <a href="http://www.synthsys.ed.ac.uk/our-centre">SynthSys</a> open centre meeting. </li></p>
 
