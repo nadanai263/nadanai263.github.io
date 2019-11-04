@@ -22,3 +22,7 @@ Roger Land Building
 Alexander Crum Brown Road  
 The King's Buildings  
 Edinburgh EH9 3FF
+
+<a href="https://www.ed.ac.uk/"><img src="/assets/images/logo.png" width="25%" alt="UoE"/></a> &nbsp;
+<a href="https://www.ed.ac.uk/biology"><img src="/assets/images/logo_sbs.png" width="35%" alt="UoE"/></a> &nbsp;
+<a href="http://www.synthsys.ed.ac.uk/our-centre"><img src="/assets/images/logo_synthsys.png" width="20%" alt="UoE"/></a> &nbsp;
