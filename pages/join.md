@@ -16,7 +16,7 @@ Numerous funding opportunities for **PhD students** are listed on the University
 
 Email: [nadanai.laohakunakorn@ed.ac.uk](mailto:nadanai.laohakunakorn@ed.ac.uk)
 
-We are based in the [Institute of Quantitative Biology, Biochemistry, and Biotechnology (IQB3)](https://www.ed.ac.uk/biology/structural-molecular-biology), in the [School of Biological Sciences](https://www.ed.ac.uk/biology). Our postal address is:
+We are based in the Institute of Quantitative Biology, Biochemistry, and Biotechnology (IQB3), in the [School of Biological Sciences](https://www.ed.ac.uk/biology). Our postal address is:
 
 Roger Land Building  
 Alexander Crum Brown Road  
