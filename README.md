@@ -1,6 +1,3 @@
 ## nadanai263.github.io
 
-My personal website. Created with GitHub pages, Jekyll, and Bootstrap. 
-
-[Go to site](https://nadanai263.github.io).
-
+My lab website, created with GitHub pages, Jekyll, and Bootstrap. [http://laohakunakorn.bio.ed.ac.uk](http://laohakunakorn.bio.ed.ac.uk).
