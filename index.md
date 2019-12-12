@@ -18,13 +18,17 @@ description: ---
 			<figcaption><i>Photo: Z. Swank</i></figcaption>
 			</figure>
 		</div>
+
 </div>
+
 <hr>
 <div class="container-fluid">
 
 <h3><a href="{{ BASE_PATH }}/pages/news.html">News</a></h3>
 
 <ul>
+  <p><li>11 Dec 2019 &#187; It's the end-of-year conference season! Nadanai presented his work at <a href="https://www.eventsforce.net/biochemsoc/frontend/reg/thome.csp?pageID=22575&eventID=52&traceRedir=2">SBUK 2019</a> in Warwick, and the <a href="https://www.aiche.org/sbe/conferences/cell-free-systems-conference/2019">Cell Free Systems Conference</a> in Boston. </li></p>
+
  <p><li>01 Nov 2019 &#187; 3 new PhD projects are now online. Check them out <a href="https://www.ed.ac.uk/biology/prospective-students/postgraduate-research/apply-for-a-phd/findaphd">here</a>. </li></p>
  <p><li>31 Oct 2019 &#187; We've moved into our new lab space in the Roger Land Building! </li></p>
  <p><li>26 Sep 2019 &#187; Our new lab website is up and running. </li></p>
