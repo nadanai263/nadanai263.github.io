@@ -26,7 +26,6 @@ description: ---
 			</div>
 			<div class="col-sm order-2">
 			<figure>
-				<img src="/assets/images/MF.jpg" width="100%" alt="MF" class="float-left">
 				</figure>
 			</div>
 	</div>
