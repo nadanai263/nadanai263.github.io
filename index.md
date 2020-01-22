@@ -27,7 +27,7 @@ description: ---
 <h3><a href="{{ BASE_PATH }}/pages/news.html">News</a></h3>
 
 <ul>
-	<p><li>20 Jan 2019 &#187; A very warm welcome to Maria and Baird, two undergraduates joining the lab for their senior honours projects!</li></p>
+	<p><li>20 Jan 2019 &#187; A very warm welcome to Maria and Baird, two undergraduates joining the lab for their senior honours projects! Read more about them in the <a href="{{ BASE_PATH }}/pages/people.html">People</a> section.</li></p>
 	<p><li>05 Jan 2019 &#187; Thank you to everyone who applied for the PhD projects. We will be in touch shortly. </li></p>
 	<p><li>23 Dec 2019 &#187; <a href="https://doi.org/10.5281/zenodo.3591963">Preprint</a> online for our new review of cell-free synbio, just in time for the holidays! Have a great break everyone, and looking forward to the new year.</li></p>
   <p><li>11 Dec 2019 &#187; It's the end-of-year conference season! Nadanai presented his work at <a href="https://www.eventsforce.net/biochemsoc/frontend/reg/thome.csp?pageID=22575&eventID=52&traceRedir=2">SBUK 2019</a> in Warwick, and the <a href="https://www.aiche.org/sbe/conferences/cell-free-systems-conference/2019">Cell Free Systems Conference</a> in Boston. </li></p>
