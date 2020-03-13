@@ -4,7 +4,7 @@ title: Publications
 description: ---
 ---
 
-* **Laohakunakorn N**, Grasemann L, Lavickova B, Michielin G, Shahein A, Swank Z & Maerkl SJ (2020) Bottom-up construction of complex biomolecular systems with cell-free synthetic biology. *Frontiers in Bioengineering and Biotechnology* [https://doi.org/10.3389/fbioe.2020.00213](https://doi.org/10.3389/fbioe.2020.00213)
+* **Laohakunakorn N**, Grasemann L, Lavickova B, Michielin G, Shahein A, Swank Z & Maerkl SJ (2020) Bottom-up construction of complex biomolecular systems with cell-free synthetic biology. *Frontiers in Bioengineering and Biotechnology* 8:213 [https://doi.org/10.3389/fbioe.2020.00213](https://doi.org/10.3389/fbioe.2020.00213)
 
 * Swank\* Z, **Laohakunakorn\* N** & Maerkl SJ (2019) Cell-free gene regulatory network engineering with synthetic transcription factors. *PNAS* **116**:5892-5901 [https://doi.org/10.1073/pnas.1816591116](https://doi.org/10.1073/pnas.1816591116) (\* Joint first authors).
 *This paper demonstrates the use of high-throughput, integrated microfluidic devices for characterising the biophysical properties of cell-free gene regulation. We used the device to rapidly characterise a synthetic repressor library, and the results were used to direct the development of strong, cooperative repressors which were assembled to create logic gates in cell-free gene circuits.* Featured in [EPFL news](https://actu.epfl.ch/news/engineering-cellular-function-without-living-cel-3/).
