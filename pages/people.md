@@ -22,6 +22,21 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
+				<p><b>Yehezkiel Victorio</b> is fascinated by the intricacies of bacterial life, especially the molecular mechanisms governing different functions in the bacterial cell. After graduating with both Bachelors (Microbiology) and Masters (Biotechnology) degrees from Institut Teknologi Bandung under the supervision of Dr. Maelita R. Moeis, Yehezkiel is now pursuing his second masters as a Synthetic Biology and Biotechnology student at the University of Edinburgh. Yehezkiel is currently working in Dr Laohakunakorn's lab for his dissertation project, on a bioinformatics study of the <i>E. coli</i> cell-free system.</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/YV.jpg" width="100%" alt="NL" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
 				<p><b>Maria Fernandez</b> is a 4th year biological sciences undergraduate, completing her honours in biotechnology. Her main interest is in synthetic biology and represented the university at the latest iGEM competition. She is currently the President for EUSci, the university science magazine and media platform. Maria is working in Dr Laohakunakorn's lab for her senior honours project, assessing cell free gene expression and signal localisation from DNA-coated beads.</p>
 			</div>
 			<div class="col-sm order-2">
