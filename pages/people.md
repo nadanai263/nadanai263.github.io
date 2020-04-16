@@ -21,13 +21,13 @@ description: ---
 
 <div class="container-fluid">
 	<div class="row">
-			<div class="col-sm order-1">
+			<div class="col-sm-9 order-1">
+				<p><b>Ying Yang</b> is a masters student in biotechnology. Before graduating from Xiangya Medical School, China, she found an interest in synthetic biology, and represented her team in iGEM 2018. Inspired by this experience, Ying is motivated to work in Dr. Laohakunakorn's group, to develop a cell-free biosensor for iGEM 2020. Ying's current project is using computational metabolic models to investigate strategies for TX/TL system optimisation.</p>
+			</div>
+			<div class="col-sm order-2">
 			<figure>
 			<img src="/assets/images/YY.jpg" width="100%" alt="NL" class="float-left">
 				</figure>
-			</div>
-			<div class="col-sm-9 order-2">
-				<p><b>Ying Yang</b> is a masters student in biotechnology. Before graduating from Xiangya Medical School, China, she found an interest in synthetic biology, and represented her team in iGEM 2018. Inspired by this experience, Ying is motivated to work in Dr. Laohakunakorn's group, to develop a cell-free biosensor for iGEM 2020. Ying's current project is using computational metabolic models to investigate strategies for TX/TL system optimisation.</p>
 			</div>
 	</div>
 </div>
