@@ -7,6 +7,7 @@ description: ---
 <div class="container-fluid">
 
 <ul>
+	<p><li>24 Mar 2020 &#187; Although our wet lab is closed, we are making good progress with remote work. Our comprehensive review on cell-free, with collaborators from <a href="http://lbnc.epfl.ch/">LBNC</a>, has just been <a href="https://doi.org/10.3389/fbioe.2020.00213">published</a> today. We wish everyone all the best during these challenging times! </li></p>
 	<p><li>20 Jan 2020 &#187; A very warm welcome to Maria and Baird, two undergraduates joining the lab for their senior honours projects!</li></p>
 	<p><li>05 Jan 2020 &#187; Thank you to everyone who applied for the PhD projects. We will be in touch shortly. </li></p>
 	<p><li>23 Dec 2019 &#187; <a href="https://doi.org/10.5281/zenodo.3591963">Preprint</a> online for our new review of cell-free synbio, just in time for the holidays! Have a great break everyone, and looking forward to the new year.</li></p>

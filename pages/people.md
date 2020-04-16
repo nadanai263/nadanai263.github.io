@@ -71,8 +71,6 @@ description: ---
 				<p><b>Baird McIlwraith</b> grew up in the Scottish Borders, and is a 4th year biological science undergraduate. He specialises in Molecular Genetics, and would like to progress into bioinformatics and cancer research. He is currently working in Dr Laohakunakorn's lab group in developing an updated version of GeneNet, an algorithm which uses AI and machine learning to predict gene networks within a cell, given a gene expression profile.</p>
 			</div>
 			<div class="col-sm order-2">
-			<figure>
-				</figure>
 			</div>
 	</div>
 </div>
