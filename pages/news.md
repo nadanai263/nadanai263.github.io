@@ -7,6 +7,10 @@ description: ---
 <div class="container-fluid">
 
 <ul>
+	<p><li>24 Apr 2020 &#187; Nadanai will be giving a talk at the <a href="http://phdsymposium.embl.org/">22nd EMBL PhD Symposium</a> in November, post-lockdown hopefully. </li></p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are happy to introduce you one of the speakers of the 22nd EMBL PhD Symposium:<br>Dr. Nadanai Laohakunakorn, an expert in synthetic biology from the University of Edinburgh!<a href="https://twitter.com/nadanai263?ref_src=twsrc%5Etfw">@nadanai263</a> <a href="https://t.co/QuSgT2pCn0">pic.twitter.com/QuSgT2pCn0</a></p>&mdash; 22nd EMBL PhD Symposium (@EMBLPhDSymp) <a href="https://twitter.com/EMBLPhDSymp/status/1252553577530380288?ref_src=twsrc%5Etfw">April 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 	<p><li>24 Mar 2020 &#187; Although our wet lab is closed, we are making good progress with remote work. Our comprehensive review on cell-free, with collaborators from <a href="http://lbnc.epfl.ch/">LBNC</a>, has just been <a href="https://doi.org/10.3389/fbioe.2020.00213">published</a> today. We wish everyone all the best during these challenging times! </li></p>
 	<p><li>20 Jan 2020 &#187; A very warm welcome to Maria and Baird, two undergraduates joining the lab for their senior honours projects!</li></p>
 	<p><li>05 Jan 2020 &#187; Thank you to everyone who applied for the PhD projects. We will be in touch shortly. </li></p>
