@@ -18,6 +18,11 @@ description: ---
 </div>
 
 ---
+<div class="container-fluid">
+<h3>Current members</h3>
+</div>
+
+<br>
 
 <div class="container-fluid">
 	<div class="row">
@@ -52,6 +57,24 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
+				<p><b>Yutong Ke</b> is a graduate student in Synthetic Biology and Biotechnology at the University of Edinburgh. She obtained her undergraduate degree in Marine Pharmacy from China Pharmaceutical University, gaining practical experience with mammalian cell culture and pharmacology, during which time, her interests shifted to synthetic biology. She is currently working in Dr Laohakunakorn's lab, focusing on engineering core metabolism in the <i>E. coli</i> cell-free system to help improve the protein production process.</p>
+			</div>
+			<div class="col-sm order-2">
+
+			</div>
+	</div>
+</div>
+
+---
+<div class="container-fluid">
+<h3>Alumni</h3>
+</div>
+
+<br>
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
 				<p><b>Maria Fernandez</b> is a 4th year biological sciences undergraduate, completing her honours in biotechnology. Her main interest is in synthetic biology and represented the university at the latest iGEM competition. She is currently the President for EUSci, the university science magazine and media platform. Maria is working in Dr Laohakunakorn's lab for her senior honours project, assessing cell free gene expression and signal localisation from DNA-coated beads.</p>
 			</div>
 			<div class="col-sm order-2">
@@ -61,7 +84,6 @@ description: ---
 			</div>
 	</div>
 </div>
-
 
 ---
 

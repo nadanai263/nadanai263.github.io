@@ -7,6 +7,9 @@ description: ---
 <div class="container-fluid">
 
 <ul>
+	<p><li>25 May 2020 &#187; Many congratulations to Maria and Baird for completing their Honours projects! </li></p>
+	<p><li>18 May 2020 &#187; We welcome Ying, Yehezkiel, and Yutong, who are joining for their MSci projects, which at this time are all remotely-supervised computational studies. Read their profiles in the <a href="{{ BASE_PATH }}/pages/people.html">People</a> section.</li></p>
+
 	<p><li>24 Apr 2020 &#187; Nadanai will be giving a talk at the <a href="http://phdsymposium.embl.org/">22nd EMBL PhD Symposium</a> in November, post-lockdown hopefully. </li></p>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are happy to introduce you one of the speakers of the 22nd EMBL PhD Symposium:<br>Dr. Nadanai Laohakunakorn, an expert in synthetic biology from the University of Edinburgh!<a href="https://twitter.com/nadanai263?ref_src=twsrc%5Etfw">@nadanai263</a> <a href="https://t.co/QuSgT2pCn0">pic.twitter.com/QuSgT2pCn0</a></p>&mdash; 22nd EMBL PhD Symposium (@EMBLPhDSymp) <a href="https://twitter.com/EMBLPhDSymp/status/1252553577530380288?ref_src=twsrc%5Etfw">April 21, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
