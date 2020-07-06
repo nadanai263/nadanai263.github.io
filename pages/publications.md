@@ -4,6 +4,8 @@ title: Publications
 description: ---
 ---
 
+* Lavickova B, **Laohakunakorn N** & Maerkl SJ (2020) A self-regenerating synthetic cell model. *biorXiv* [https://doi.org/10.1101/2020.07.03.185900 ](https://doi.org/10.1101/2020.07.03.185900 )
+
 * **Laohakunakorn N**, Grasemann L, Lavickova B, Michielin G, Shahein A, Swank Z & Maerkl SJ (2020) Bottom-up construction of complex biomolecular systems with cell-free synthetic biology. *Frontiers in Bioengineering and Biotechnology* 8:213 [https://doi.org/10.3389/fbioe.2020.00213](https://doi.org/10.3389/fbioe.2020.00213)
 
 * Swank\* Z, **Laohakunakorn\* N** & Maerkl SJ (2019) Cell-free gene regulatory network engineering with synthetic transcription factors. *PNAS* **116**:5892-5901 [https://doi.org/10.1073/pnas.1816591116](https://doi.org/10.1073/pnas.1816591116) (\* Joint first authors).

@@ -27,6 +27,7 @@ description: ---
 <h3><a href="{{ BASE_PATH }}/pages/news.html">News</a></h3>
 
 <ul>
+	<p><li>6 Jul 2020 &#187; We just published a new <a href="https://doi.org/10.1101/2020.07.03.185900">preprint</a> on self-regenerating cell-free systems, in collaboration with <a href="http://lbnc.epfl.ch/">LBNC</a>. </li></p>
 	<p><li>25 May 2020 &#187; Many congratulations to Maria and Baird for completing their Honours projects! </li></p>
 	<p><li>18 May 2020 &#187; We welcome Ying, Yehezkiel, and Yutong, who are joining for their MSci projects, which at his time are all remotely-supervised computational studies. Read their profiles in the <a href="{{ BASE_PATH }}/pages/people.html">People</a> section.</li></p>
 	<p><li>24 Apr 2020 &#187; Nadanai will be giving a talk at the <a href="http://phdsymposium.embl.org/">22nd EMBL PhD Symposium</a> in November, post-lockdown hopefully. </li></p>
