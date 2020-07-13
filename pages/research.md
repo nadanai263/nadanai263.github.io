@@ -5,16 +5,10 @@ description: ---
 ---
 
 <div class="container-fluid">
-	<div class="row">
-		<figure>
-			<img src="/assets/images/CF_logo3.png" width="80%" alt="CFlogo">
-			</figure>
-		</div>
-
+	<figure>
+		<img src="/assets/images/CF_logo3.png" class="img-fluid" alt="CFlogo">
+		</figure>
 </div>
-
-<hr>
-
 
 Synthetic biology is a rapidly growing field set to make profound impact in numerous industries including manufacturing, healthcare, agriculture, and sustainable energy, as well as our fundamental understanding of life itself. However, engineering synthetic biological systems reliably has proven to be a tremendously challenging task.
 
