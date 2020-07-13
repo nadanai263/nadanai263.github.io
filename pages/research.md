@@ -6,7 +6,7 @@ description: ---
 
 <div class="container-fluid">
 	<figure>
-		<img src="/assets/images/CF_logo3.png" class="img-fluid" alt="CFlogo">
+		<img src="/assets/images/CF_logo4.png" class="img-fluid" alt="CFlogo">
 		</figure>
 </div>
 
@@ -22,4 +22,4 @@ The consequence of this approach is twofold: the first is a deeper understanding
 
 <h3>PhD Opportunities</h3>
 
-The deadline for an **October 2020** start has passed. If you are interested in future opportunities to work with us please send a CV, cover letter, and the names of two referees directly to [Nadanai](mailto:nadanai.laohakunakorn@ed.ac.uk).
+We will be recruiting PhD students this autumn, for an **October 2021** start, for projects related to metabolic engineering, automation, and computational modelling using cell-free systems. If you are interested in opportunities to work with us please send a CV, cover letter, and the names of two referees directly to [Nadanai](mailto:nadanai.laohakunakorn@ed.ac.uk).
