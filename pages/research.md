@@ -4,6 +4,18 @@ title: Research
 description: ---
 ---
 
+<div class="container-fluid">
+	<div class="row">
+		<figure>
+			<img src="/assets/images/CF_logo3.png" width="80%" alt="CFlogo">
+			</figure>
+		</div>
+
+</div>
+
+<hr>
+
+
 Synthetic biology is a rapidly growing field set to make profound impact in numerous industries including manufacturing, healthcare, agriculture, and sustainable energy, as well as our fundamental understanding of life itself. However, engineering synthetic biological systems reliably has proven to be a tremendously challenging task.
 
 One promising approach is to use cell-free gene expression systems. These are *in vitro* systems that mimic the cellular environment and can be integrated with microfluidic technologies to rapidly prototype and screen synthetic gene circuits, prior to their deployment *in vivo*. This speeds up the synthetic biology design cycle, but also perhaps more powerfully, releases gene expression from the confines of the cell. In this way, the cell-free extracts themselves can be viewed as functional liquids, programmed by DNA.
