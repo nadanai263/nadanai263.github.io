@@ -20,15 +20,23 @@ description: ---
 </div>
 
 <div class="row">
+	<div class="col-sm-8 order-1">
 	<ul>
 <li><b>Laohakunakorn N</b> (2020) Cell-free systems: a proving ground for rational biodesign. <i>Frontiers in Bioengineering and Biotechnology</i> <b>8</b>:788 <a href="https://doi.org/10.3389/fbioe.2020.00788">https://doi.org/10.3389/fbioe.2020.00788</a></li>
 </ul>
 </div>
+	<div class="col-sm order-2">
+	</div>	
+</div>
 
 <div class="row">
+	<div class="col-sm-8 order-1">
 	<ul>
 <li><b>Laohakunakorn N</b>, Grasemann L, Lavickova B, Michielin G, Shahein A, Swank Z & Maerkl SJ (2020) Bottom-up construction of complex biomolecular systems with cell-free synthetic biology. <i>Frontiers in Bioengineering and Biotechnology</i> <b>8</b>:213 <a href="https://doi.org/10.3389/fbioe.2020.00213">https://doi.org/10.3389/fbioe.2020.00213</a></li>
 </ul>
+</div>
+	<div class="col-sm order-2">
+	</div>	
 </div>
 
 <div class="row">
@@ -59,9 +67,13 @@ description: ---
 </div>
 
 <div class="row">
+	<div class="col-sm-8 order-1">	
 	<ul>
 <li>Rempfer G, Ehrhardt S, <b>Laohakunakorn N</b>, Davies GB, Keyser UF, Holm C & de Graaf J (2016) Selective trapping of DNA using glass microcapillaries. <i>Langmuir</i> <b>32</b>:8525-8532 <a href="https://doi.org/10.1021/acs.langmuir.6b02071">https://doi.org/10.1021/acs.langmuir.6b02071</a></li>
 </ul>
+</div>
+	<div class="col-sm order-2">
+	</div>	
 </div>
 
 <div class="row">
@@ -79,21 +91,33 @@ description: ---
 </div>
 
 <div class="row">
+	<div class="col-sm-8 order-1">
 	<ul>
 <li><b>Laohakunakorn N</b>, Thacker VV, Muthukumar M & and Keyser UF (2015) Electroosmotic flow reversal outside glass nanopores. <i>Nano Letters</i> <b>15</b>:695-702 <a href="https://doi.org/10.1021/nl504237k">https://doi.org/10.1021/nl504237k</a></li>
 </ul>
 </div>
+	<div class="col-sm order-2">
+	</div>	
+</div>
 
 <div class="row">
+	<div class="col-sm-8 order-1">
 	<ul>
 <li>Yanagishima T, <b>Laohakunakorn N</b>, Keyser UF, Eiser E & Tanaka H (2014) Influence of internal viscoelastic modes on the Brownian motion of a lambda-DNA coated colloid. <i>Soft Matter</i> <b>10</b>:1738-1745 <a href="https://doi.org/10.1039/C3SM52830H">https://doi.org/10.1039/C3SM52830H</a></li>
 </ul>
 </div>
+	<div class="col-sm order-2">
+	</div>	
+</div>
 
 <div class="row">
+	<div class="col-sm-8 order-1">
 	<ul>
 <li><b>Laohakunakorn N</b>, Otto O, Sturm S, Kroy K & Keyser UF (2013) Dynamic single-molecule force spectroscopy using optical tweezers and nanopores. <i>Proceedings of SPIE</i> <b>8810</b>:88101F <a href="https://doi.org/10.1117/12.2027106">https://doi.org/10.1117/12.2027106</a></li>
 </ul>
+</div>
+	<div class="col-sm order-2">
+	</div>	
 </div>
 
 <div class="row">
@@ -139,11 +163,13 @@ description: ---
 </div>
 
 <div class="row">
+	<div class="col-sm-8 order-1">
 	<ul>
-<li>Plavchan P, Gueth T, <b>Laohakunakorn N</b> & Parks JR (2013) The identification of 93 day periodic photometric variability for YSO YLW 16A. <i>Astronomy and Astrophysics</i> <b>554</b>:A110 <a href="https://doi.org/10.1051/0004-6361/201220747">https://doi.org/10.1051/0004-6361/201220747</a></li>
-</ul>
-</div>
-
+	<li>Plavchan P, Gueth T, <b>Laohakunakorn N</b> & Parks JR (2013) The identification of 93 day periodic photometric variability for YSO YLW 16A. <i>Astronomy and Astrophysics</i> <b>554</b>:A110 <a href="https://doi.org/10.1051/0004-6361/201220747">https://doi.org/10.1051/0004-6361/201220747</a></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	</div>	
 </div>
 
 ---
