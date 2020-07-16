@@ -7,9 +7,16 @@ description: ---
 <div class="container-fluid">
 
 <div class="row">
-	<ul>
-<li>Lavickova B, <b>Laohakunakorn N</b> &#38 Maerkl SJ (2020) A self-regenerating synthetic cell model. <i>biorXiv</i> <a href="https://doi.org/10.1101/2020.07.03.185900">https://doi.org/10.1101/2020.07.03.185900</a> <i>One of the most exciting challenges in future cell-free research is developing systems which can sustainably regenerate their own components. Building such biomolecular 'universal constructors' will elucidate fundamental principles of biochemical autocatalysis, and provide a strategy to power future artificial cells. Here we demonstrate the first steps in using the PURE system to regenerate some of its components, inside controlled microfluidic chemostat reactors. We use our microfluidic platform to assess the regeneration potential of the system, and begin to unravel the critical role that resource allocation and competition play in maintaining robustness of self-regeneration.</i></li>
-</ul>
+	<div class="col-sm-6 order-1">
+		<ul>
+	<li>Lavickova B, <b>Laohakunakorn N</b> &#38 Maerkl SJ (2020) A self-regenerating synthetic cell model. <i>biorXiv</i> <a href="https://doi.org/10.1101/2020.07.03.185900">https://doi.org/10.1101/2020.07.03.185900</a> <i>One of the most exciting challenges in future cell-free research is developing systems which can sustainably regenerate their own components. Building such biomolecular 'universal constructors' will elucidate fundamental principles of biochemical autocatalysis, and provide a strategy to power future artificial cells. Here we demonstrate the first steps in using the PURE system to regenerate some of its components, inside controlled microfluidic chemostat reactors. We use our microfluidic platform to assess the regeneration potential of the system, and begin to unravel the critical role that resource allocation and competition play in maintaining robustness of self-regeneration.</i></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	<figure>
+	<img src="/assets/images/logo_regen.png" width="100%" alt="regeneration" class="float-left">
+	</figure>
+	</div>
 </div>
 
 <div class="row">
