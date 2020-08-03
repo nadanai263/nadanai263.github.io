@@ -27,11 +27,10 @@ description: ---
 <h3><a href="{{ BASE_PATH }}/pages/news.html">News</a></h3>
 
 <ul>
+	<p><li>24 Jul 2020 &#187; A second publication for this summer is out: this time, Nadanai's short <a href="https://doi.org/10.3389/fbioe.2020.00788">perspectives piece</a> on rational biodesign with cell-free systems.</li></p>
 	<p><li>4 Jul 2020 &#187; We just published a new <a href="https://doi.org/10.1101/2020.07.03.185900">preprint</a> on self-regenerating cell-free systems, in collaboration with <a href="http://lbnc.epfl.ch/">LBNC</a>. </li></p>
 	<p><li>25 May 2020 &#187; Many congratulations to Maria and Baird for completing their Honours projects! </li></p>
 	<p><li>18 May 2020 &#187; We welcome Ying, Yehezkiel, and Yutong, who are joining for their MSci projects, which at this time are all remotely-supervised computational studies. Read their profiles in the <a href="{{ BASE_PATH }}/pages/people.html">People</a> section.</li></p>
-	<p><li>24 Apr 2020 &#187; Nadanai will be giving a talk at the <a href="http://phdsymposium.embl.org/">22nd EMBL PhD Symposium</a> in November, post-lockdown hopefully. </li></p>
-	<p><li>24 Mar 2020 &#187; Although our wet lab is closed, we are making good progress with remote work. Our comprehensive review on cell-free, with collaborators from <a href="http://lbnc.epfl.ch/">LBNC</a>, has just been <a href="https://doi.org/10.3389/fbioe.2020.00213">published</a> today. We wish everyone all the best during these challenging times! </li></p>
 </ul>
 
 </div>
