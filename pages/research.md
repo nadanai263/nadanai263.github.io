@@ -22,7 +22,7 @@ The consequence of this approach is twofold: the first is a deeper understanding
 
 <h3>PhD Opportunities</h3>
 
-<h4>4 years, fully-funded [EASTBIO](http://www.eastscotbiodtp.ac.uk/) studentship - Scalable cell-free manufacturing of diverse therapeutic proteins<h4>. 
+<h4>4 years, fully-funded EASTBIO studentship - Scalable cell-free manufacturing of diverse therapeutic proteins<h4>
 
 Application deadline **24 August 2020**, project start **October 2020**. Apply [here](https://apps.bio.ed.ac.uk/pgr/checklist/project/1014).
 
