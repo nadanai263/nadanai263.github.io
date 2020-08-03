@@ -22,7 +22,9 @@ The consequence of this approach is twofold: the first is a deeper understanding
 
 <h3>PhD Opportunities</h3>
 
-<h4>4 years, fully-funded [EASTBIO](http://www.eastscotbiodtp.ac.uk/) studentship - Scalable cell-free manufacturing of diverse therapeutic proteins<h4>. Application deadline **24 August 2020**, project start **October 2020**. Apply [here](https://apps.bio.ed.ac.uk/pgr/checklist/project/1014).
+<h4>4 years, fully-funded [EASTBIO](http://www.eastscotbiodtp.ac.uk/) studentship - Scalable cell-free manufacturing of diverse therapeutic proteins<h4>. 
+
+Application deadline **24 August 2020**, project start **October 2020**. Apply [here](https://apps.bio.ed.ac.uk/pgr/checklist/project/1014).
 
 The aim of this project is to develop cell-free systems which are capable of producing a diverse range of therapeutically-relevant proteins, and investigate how they might be scaled up in an industrial setting. The PhD will be performed in partnership with [Fujifilm Diosynth Biotechnologies UK (FDBK)](https://fujifilmdiosynth.com/).
 
