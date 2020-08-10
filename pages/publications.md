@@ -56,7 +56,7 @@ description: ---
 <div class="row">
 	<div class="col-sm-8 order-1">
 	<ul>
-	<li><b>Laohakunakorn N</b>, Lavickova B, Swank Z, Laurent J & Maerkl SJ (2019) Steady-state cell-free gene expression with microfluidic chemostats. <i>protocols.io</i> <a href="https://doi.org/10.17504/protocols.io.46wgzfe">https://doi.org/10.17504/protocols.io.46wgzfe</a></li>
+	<li><b>Laohakunakorn N</b>, Lavickova B, Swank Z, Laurent J & Maerkl SJ (2019) Steady-state cell-free gene expression with microfluidic chemostats. <i>Methods in Molecular Biology</i> in press, <i>protocols.io</i> <a href="https://doi.org/10.17504/protocols.io.46wgzfe">https://doi.org/10.17504/protocols.io.46wgzfe</a></li>
 	</ul>
 	</div>
 	<div class="col-sm order-2">
