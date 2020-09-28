@@ -1,8 +1,12 @@
 ---
 layout: page
 title: Laohakunakorn Group
-tagline: Cell-free Biosystems Engineering  
+tagline: 
 description: ---
+<div class="container-fluid">
+	<div class="row">
+	<h4>Cell-free Biosystems Engineering</h4>
+</div>
 ---
 
 <div class="container-fluid">
