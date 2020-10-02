@@ -7,6 +7,8 @@ description: ---
 <div class="container-fluid">
 
 <ul>
+	<p><li>1 Oct 2020 &#187; Construction is underway for our first microscope and microfluidics setup.</li></p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our new microscope is taking shape. Next up: some microfluidics! <a href="https://t.co/FYWwkWQpxs">pic.twitter.com/FYWwkWQpxs</a></p>&mdash; Nadanai L (@nadanai263) <a href="https://twitter.com/nadanai263/status/1311708000223145986?ref_src=twsrc%5Etfw">October 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 	<p><li>24 Aug 2020 &#187; Congratulations to Ying, Yehezkiel, and Yutong for completing their MSc dissertations!</li></p>
 	<p><li>3 Aug 2020 &#187; We are recruiting! We have a 4-year fully-funded <a href="http://www.eastscotbiodtp.ac.uk/">EASTBIO</a> PhD position available for a project entitled 'Scalable cell-free manufacturing of diverse therapeutic proteins'. The project aims to develop strategies to produce important therapeutic proteins at the industrial scale, and will be in close collaboration with <a href="https://fujifilmdiosynth.com/">Fujifilm Diosynth Biotechnologies</a>. This position is open to UK as well as EU students already resident in the UK for 3 years. More information can be found <a href="{{ BASE_PATH }}/pages/research.html">here</a>. You can apply directly on the graduate school website <a href="https://apps.bio.ed.ac.uk/pgr/checklist/project/1014">here</a>. The deadline is 24th August.</li></p>
 	<p><li>24 Jul 2020 &#187; A second publication for this summer is out: this time, Nadanai's short <a href="https://doi.org/10.3389/fbioe.2020.00788">perspectives piece</a> on rational biodesign with cell-free systems.</li></p>
@@ -24,7 +26,6 @@ description: ---
 	<p><li>23 Dec 2019 &#187; <a href="https://doi.org/10.5281/zenodo.3591963">Preprint</a> online for our new review of cell-free synbio, just in time for the holidays! Have a great break everyone, and looking forward to the new year.</li></p>
 
   <p><li>11 Dec 2019 &#187; It's the end-of-year conference season! Nadanai presented his work at <a href="https://www.eventsforce.net/biochemsoc/frontend/reg/thome.csp?pageID=22575&eventID=52&traceRedir=2">SBUK 2019</a> in Warwick, and the <a href="https://www.aiche.org/sbe/conferences/cell-free-systems-conference/2019">Cell Free Systems Conference</a> in Boston. </li></p>
-
 
  <p><li>01 Nov 2019 &#187; 3 new PhD projects are now online. Check them out <a href="https://www.ed.ac.uk/biology/prospective-students/postgraduate-research/apply-for-a-phd/findaphd">here</a>. </li></p>
  <p><li>31 Oct 2019 &#187; We've moved into our new lab space in the Roger Land Building! </li></p>
