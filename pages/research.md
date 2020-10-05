@@ -29,3 +29,12 @@ The aim of this project is to develop cell-free systems which are capable of pro
 ---
 
 We are also recruiting PhD students for an **October 2021** start, for projects related to metabolic engineering, automation, and computational modelling using cell-free systems. If you are interested in opportunities to work with us please send a CV, cover letter, and the names of two referees directly to [Nadanai](mailto:nadanai.laohakunakorn@ed.ac.uk).
+
+---
+
+We gratefully acknowledge funding from
+
+<a href="http://www.eastscotbiodtp.ac.uk/"><img src="/assets/images/eastbio.png" width="35%" alt="Eastbio"/></a> &nbsp;
+<a href="https://www.carnegie-trust.org/"><img src="/assets/images/carnegie.png" width="30%" alt="Carnegie"/></a> &nbsp;
+<a href="https://wellcome.org/"><img src="/assets/images/wellcome.png" width="10%" alt="Wellcome"/></a> &nbsp;
+<a href="https://fujifilmdiosynth.com/"><img src="/assets/images/fdb.jpg" width="20%" alt="FDB"/></a> &nbsp;
