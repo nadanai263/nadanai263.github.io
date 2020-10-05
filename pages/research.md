@@ -33,7 +33,7 @@ We are also recruiting PhD students for an **October 2021** start, for projects 
 ---
 
 <h3>Funding</h3>
-We gratefully acknowledge the support of the following institutions:
+We gratefully acknowledge support from the following organizations:
 
 <a href="http://www.eastscotbiodtp.ac.uk/"><img src="/assets/images/eastbio.png" width="60%" alt="Eastbio"/></a> &nbsp;
 <a href="https://www.carnegie-trust.org/"><img src="/assets/images/carnegie.png" width="38%" alt="Carnegie"/></a> &nbsp;
