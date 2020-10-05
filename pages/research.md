@@ -35,7 +35,8 @@ We are also recruiting PhD students for an **October 2021** start, for projects 
 <h3>Funding</h3>
 We gratefully acknowledge the support of the following institutions:
 
-<a href="http://www.eastscotbiodtp.ac.uk/"><img src="/assets/images/eastbio.png" width="45%" alt="Eastbio"/></a> &nbsp;
-<a href="https://www.carnegie-trust.org/"><img src="/assets/images/carnegie.png" width="35%" alt="Carnegie"/></a> &nbsp;
+<a href="http://www.eastscotbiodtp.ac.uk/"><img src="/assets/images/eastbio.png" width="60%" alt="Eastbio"/></a> &nbsp;
+<a href="https://www.carnegie-trust.org/"><img src="/assets/images/carnegie.png" width="40%" alt="Carnegie"/></a> &nbsp;
 <a href="https://wellcome.org/"><img src="/assets/images/wellcome.png" width="10%" alt="Wellcome"/></a> &nbsp;
 <a href="https://fujifilmdiosynth.com/"><img src="/assets/images/fdb.jpg" width="20%" alt="FDB"/></a> &nbsp;
+<a href="https://darwintrust.bio.ed.ac.uk/"><img src="/assets/images/dt.png" width="15%" alt="Darwin"/></a> &nbsp;
