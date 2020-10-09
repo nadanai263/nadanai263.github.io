@@ -29,6 +29,20 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
+				<p><b>Alex Perkins</b> is a BBSRC doctoral student working on the scaling up of industrial cell-free protein expression in partnership with Fujifilm Diosynth Biotechnologies. Joining the group from Imperial College, he completed an MRes in Synthetic Biology under the watchful eyes of Drs Polizzi and Ceroni where he worked on optimising quorum-sensing devices using directed evolution and investigating metabolic burden via RNA-seq analysis. In the private sector, he spent a stint working under Dr Martin on neonatal stem-cell storage and differentiation at Cells4Life and collaborated with OpenCell to develop a cheap, opensource, automated, high-throughput Covid-19 RT-qPCR testing system. As a fresh-faced undergraduate, he obtained a Biomed BSc from UCL where he focused on molecular mechanisms of HepC-induced cellular changes and the lasting effects of Ebola virus during convalescence. Originally hailing from the Sussex countryside, he can be found cooking, coding, and writing in the third person. He is interested in how modern computing and statistical methods can be applied to Bio Big Data to find better solutions in bioengineering applications. <br>
+			<a href="mailto:a.j.p.perkins@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> <a href="https://twitter.com/APerks42"><i class="fab fa-twitter-square"></i></a> <a href="https://github.com/aperkins19"><i class="fab fa-github-square"></i></a> <a href="https://www.linkedin.com/in/alex-perkins-923480158/"><i class="fab fa-linkedin"></i></a> <a href="https://www.researchgate.net/profile/Alex_Perkins13"><i class="fab fa-researchgate"></i></a>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/AP.jpg" width="100%" alt="NL" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
 				<p><b>Yehezkiel Victorio</b> is fascinated by the intricacies of bacterial life, especially the molecular mechanisms governing different functions in the bacterial cell. After graduating with both Bachelors (Microbiology) and Masters (Biotechnology) degrees from Institut Teknologi Bandung under the supervision of Dr. Maelita R. Moeis, Yehezkiel is now pursuing his second masters as a Synthetic Biology and Biotechnology student at the University of Edinburgh. Yehezkiel is currently working in Dr Laohakunakorn's lab for his dissertation project, on a bioinformatics study of the <i>E. coli</i> cell-free system.</p>
 			</div>
 			<div class="col-sm order-2">

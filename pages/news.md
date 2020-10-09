@@ -7,6 +7,9 @@ description: ---
 <div class="container-fluid">
 
 <ul>
+	<p><li>9 Oct 2020 &#187; A very warm welcome to our first PhD student Alex Perkins. Read more about him n the <a href="{{ BASE_PATH }}/pages/people.html">People</a> section.</li></p>
+	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A very warm welcome to <a href="https://twitter.com/APerks42?ref_src=twsrc%5Etfw">@APerks42</a> who is starting his PhD project in our lab, generously supported by <a href="https://twitter.com/EastbioDTP?ref_src=twsrc%5Etfw">@EastbioDTP</a> and <a href="https://twitter.com/FujifilmDiosyn?ref_src=twsrc%5Etfw">@FujifilmDiosyn</a>. Looking forward to our work together!</p>&mdash; Nadanai L (@nadanai263) <a href="https://twitter.com/nadanai263/status/1313590678396559363?ref_src=twsrc%5Etfw">October 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+	
 	<p><li>1 Oct 2020 &#187; Construction is underway for our first microscope and microfluidics setup.</li></p>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our new microscope is taking shape. Next up: some microfluidics! <a href="https://t.co/FYWwkWQpxs">pic.twitter.com/FYWwkWQpxs</a></p>&mdash; Nadanai L (@nadanai263) <a href="https://twitter.com/nadanai263/status/1311708000223145986?ref_src=twsrc%5Etfw">October 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
