@@ -27,6 +27,10 @@ description: ---
 <h3><a href="{{ BASE_PATH }}/pages/news.html">News</a></h3>
 
 <ul>
+	<p><li>28 Oct 2020 &#187; Thank you for the opportunity to present a keynote at CINBI 2020! </li></p>
+
+	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It was a pleasure to present at <a href="https://twitter.com/2020Cinbi?ref_src=twsrc%5Etfw">@2020Cinbi</a>. Thanks to the organisers for the invitation, and for hosting a great conference! <a href="https://twitter.com/hashtag/CINBI2020?src=hash&amp;ref_src=twsrc%5Etfw">#CINBI2020</a> <a href="https://twitter.com/hashtag/synbio?src=hash&amp;ref_src=twsrc%5Etfw">#synbio</a></p>&mdash; Nadanai L (@nadanai263) <a href="https://twitter.com/nadanai263/status/1321401494923595777?ref_src=twsrc%5Etfw">October 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+	
 	<p><li>6 Oct 2020 &#187; A very warm welcome to our first PhD student Alex Perkins. Read more about him in the <a href="{{ BASE_PATH }}/pages/people.html">People</a> section.</li></p>
 	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A very warm welcome to <a href="https://twitter.com/APerks42?ref_src=twsrc%5Etfw">@APerks42</a> who is starting his PhD project in our lab, generously supported by <a href="https://twitter.com/EastbioDTP?ref_src=twsrc%5Etfw">@EastbioDTP</a> and <a href="https://twitter.com/FujifilmDiosyn?ref_src=twsrc%5Etfw">@FujifilmDiosyn</a>. Looking forward to our work together!</p>&mdash; Nadanai L (@nadanai263) <a href="https://twitter.com/nadanai263/status/1313590678396559363?ref_src=twsrc%5Etfw">October 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 	<p><li>1 Oct 2020 &#187; Construction is underway for our first microscope and microfluidics setup.</li></p>
