@@ -7,6 +7,10 @@ description: ---
 <div class="container-fluid">
 
 <ul>
+	<p><li>11 Dec 2020 &#187; Our self-regeneration paper is finally published, in time for the holidays. Great collaboration with Barbora Lavickova and Sebastian Maerkl at <a href="http://lbnc.epfl.ch/">LBNC</a>: </li></p>
+
+	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Very proud of our work published today, demonstrating regeneration of components in a purified <a href="https://twitter.com/hashtag/cellfree?src=hash&amp;ref_src=twsrc%5Etfw">#cellfree</a> system, in collaboration with Barbora Lavickova and <a href="https://twitter.com/SebastianMaerkl?ref_src=twsrc%5Etfw">@SebastianMaerkl</a> at <a href="https://twitter.com/MaerklLab?ref_src=twsrc%5Etfw">@MaerklLab</a>. <a href="https://t.co/nbyfe639zJ">https://t.co/nbyfe639zJ</a></p>&mdash; Nadanai L (@nadanai263) <a href="https://twitter.com/nadanai263/status/1337372721265651719?ref_src=twsrc%5Etfw">December 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+	
 	<p><li>28 Oct 2020 &#187; Thank you for the opportunity to present a keynote at CINBI 2020! </li></p>
 
 	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It was a pleasure to present at <a href="https://twitter.com/2020Cinbi?ref_src=twsrc%5Etfw">@2020Cinbi</a>. Thanks to the organisers for the invitation, and for hosting a great conference! <a href="https://twitter.com/hashtag/CINBI2020?src=hash&amp;ref_src=twsrc%5Etfw">#CINBI2020</a> <a href="https://twitter.com/hashtag/synbio?src=hash&amp;ref_src=twsrc%5Etfw">#synbio</a></p>&mdash; Nadanai L (@nadanai263) <a href="https://twitter.com/nadanai263/status/1321401494923595777?ref_src=twsrc%5Etfw">October 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
