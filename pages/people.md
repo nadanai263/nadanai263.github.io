@@ -29,6 +29,23 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
+				<p><b>Surendra Yadav</b> is a Darwin Trust doctoral student who's working to construct synthetic metabolism to efficiently power PURE cell-free systems. Before joining the University of Edinburgh for his Ph.D, he completed his Masters from the Indian Institute of Science Education and Research, Mohali, India. During his Master's thesis, he worked under the supervision of Prof. Anand K. Bachhawat to investigate the role of 6-phosphogluconate dehydrogenase(6PGDH) in cellular metabolism of Saccharomyces cerevisiae. Being a curious undergrad student he tried to dive and gain experience in different fields of biology by doing various internships and summer research projects.  In his undergraduate studies he worked with Dr. Lolitika Mandal at IISER Mohali to understand hematopoiesis, and utilized the UAS-GAL4 bipartite system for the development of various uncommon traits in Drosophila melanogaster such as ectopic eyes. He was intrigued by the field of synthetic biology and its useful applications while he was undergoing his Masters thesis, and decided to pursue his Ph.D in cell-free synthetic biology. Surendra is a cricket enthusiast, and also likes to spend his free-time playing guitar and sipping tea. <br>
+			<a href="mailto:s.yadav-3@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> <a href="https://twitter.com/SurendraYadavIN"><i class="fab fa-twitter-square"></i></a>  
+			</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/SY.png" width="100%" alt="NL" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
 				<p><b>Alex Perkins</b> is a BBSRC doctoral student working on the scaling up of industrial cell-free protein expression in partnership with Fujifilm Diosynth Biotechnologies. Joining the group from Imperial College, he completed an MRes in Synthetic Biology under the watchful eyes of Drs Polizzi and Ceroni where he worked on optimising quorum-sensing devices using directed evolution and investigating metabolic burden via RNA-seq analysis. In the private sector, he spent a stint working under Dr Martin on neonatal stem-cell storage and differentiation at Cells4Life and collaborated with OpenCell to develop a cheap, opensource, automated, high-throughput Covid-19 RT-qPCR testing system. As a fresh-faced undergraduate, he obtained a Biomed BSc from UCL where he focused on molecular mechanisms of HepC-induced cellular changes and the lasting effects of Ebola virus during convalescence. Originally hailing from the Sussex countryside, he can be found cooking, coding, and writing in the third person. He is interested in how modern computing and statistical methods can be applied to Bio Big Data to find better solutions in bioengineering applications. <br>
 			<a href="mailto:a.j.p.perkins@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> <a href="https://twitter.com/APerks42"><i class="fab fa-twitter-square"></i></a> <a href="https://github.com/aperkins19"><i class="fab fa-github-square"></i></a> <a href="https://www.linkedin.com/in/alex-perkins-923480158/"><i class="fab fa-linkedin"></i></a> <a href="https://www.researchgate.net/profile/Alex_Perkins13"><i class="fab fa-researchgate"></i></a>
 			</p>
