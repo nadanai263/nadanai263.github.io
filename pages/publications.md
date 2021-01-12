@@ -9,6 +9,19 @@ description: ---
 <div class="row">
 	<div class="col-sm-8 order-1">
 	<ul>
+	<li><b>Laohakunakorn N</b>, Lavickova B, Swank Z, Laurent J & Maerkl SJ (2021) Steady-state cell-free gene expression with microfluidic chemostats.  <i>In: Menolascina F. (eds) Synthetic Gene Circuits. Methods in Molecular Biology</i> <b>2229</b> <a href="https://doi.org/10.1007/978-1-0716-1032-9_9">https://doi.org/10.1007/978-1-0716-1032-9_9</a></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	<figure>
+	<img src="/assets/images/logo_chemostat.png" width="100%" alt="chemostat" class="float-left">
+	</figure>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-sm-8 order-1">
+	<ul>
 	<li>Lavickova B, <b>Laohakunakorn N</b> & Maerkl SJ (2020) A partially self-regenerating synthetic cell. <i>Nature Communications</i> <b>11</b>:6340 <a href="https://doi.org/10.1038/s41467-020-20180-6">https://doi.org/10.1038/s41467-020-20180-6</a> <i>One of the most exciting challenges in future cell-free research is developing systems which can sustainably regenerate their own components. Building such biomolecular 'universal constructors' will elucidate fundamental principles of biochemical autocatalysis, and provide a strategy to power future artificial cells. Here we demonstrate the first steps in using the PURE system to regenerate some of its components, inside controlled microfluidic chemostat reactors. We use our microfluidic platform to assess the regeneration potential of the system, and begin to unravel the critical role that resource allocation and competition play in maintaining robustness of self-regeneration.</i></li>
 	</ul>
 	</div>
@@ -42,26 +55,13 @@ description: ---
 <div class="row">
 	<div class="col-sm-8 order-1">
 	<ul>
-	<li>Swank* Z, <b>Laohakunakorn* N</b> & Maerkl SJ (2019) Cell-free gene regulatory network engineering with synthetic transcription factors. <i>PNAS</i> <b>116</b>:5892-5901 <a href="https://doi.org/10.1073/pnas.1816591116">https://doi.org/10.1073/pnas.1816591116</a> (* Joint first authors).
+	<li>Swank* Z, <b>Laohakunakorn* N</b> & Maerkl SJ (2019) Cell-free gene regulatory network engineering with synthetic transcription factors. <i>Proc. Natl. Acad. Sci. U.S.A.</i> <b>116</b>:5892-5901 <a href="https://doi.org/10.1073/pnas.1816591116">https://doi.org/10.1073/pnas.1816591116</a> (* Joint first authors).
 	<i>This paper demonstrates the use of high-throughput, integrated microfluidic devices for characterising the biophysical properties of cell-free gene regulation. We used the device to rapidly characterise a synthetic repressor library, and the results were used to direct the development of strong, cooperative repressors which were assembled to create logic gates in cell-free gene circuits.</i> Featured in <a href="https://actu.epfl.ch/news/engineering-cellular-function-without-living-cel-3/">EPFL news</a>.</li>
 	</ul>
 	</div>
 	<div class="col-sm order-2">
 	<figure>
 	<img src="/assets/images/logo_ZF.png" width="100%" alt="zincfingers" class="float-left">
-	</figure>
-	</div>
-</div>
-
-<div class="row">
-	<div class="col-sm-8 order-1">
-	<ul>
-	<li><b>Laohakunakorn N</b>, Lavickova B, Swank Z, Laurent J & Maerkl SJ (2019) Steady-state cell-free gene expression with microfluidic chemostats. <i>Methods in Molecular Biology</i> (in press), <i>protocols.io</i> <a href="https://doi.org/10.17504/protocols.io.46wgzfe">https://doi.org/10.17504/protocols.io.46wgzfe</a></li>
-	</ul>
-	</div>
-	<div class="col-sm order-2">
-	<figure>
-	<img src="/assets/images/logo_chemostat.png" width="100%" alt="chemostat" class="float-left">
 	</figure>
 	</div>
 </div>
