@@ -61,6 +61,22 @@ description: ---
 ---
 
 <div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
+				<p><b>Sasirasa Pratumsuwan</b> is in her final year of completing her biological sciences undergraduate studies, with an honours in biochemistry and she hopes to further pursue healthcare biotechnology in the near future. For her senior honours project in Dr Laohakunakorn’s lab, Sasirasa is currently working on designing and assessing synthetic in vitro metabolic pathways to improve cell-free protein synthesis efficiency. <br>
+			    </p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/SP.jpg" width="100%" alt="NL" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+<div class="container-fluid">
 <h3>Alumni</h3>
 </div>
 
