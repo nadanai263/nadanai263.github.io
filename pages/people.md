@@ -63,6 +63,22 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
+				<p><b>Bastien Mollet</b> is a graduate student from the ENS of Lyon in France. Initially studying general biology, he extended his curiosity in a cross disciplinary masters degree about complex systems. To him, synthetic biology is the perfect playground to combine theoretical knowledge, creativity, and real world applications. In his first year of the masters degree he took part in the development of a network-based analysis tool for spatial transcriptomic data. His project at Edinburgh is to implement an optimal experimental design method for cell-free systems. He is a nature lover fond of hiking. <br>
+			    </p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/BM.jpg" width="100%" alt="NL" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
 				<p><b>Sasirasa Pratumsuwan</b> is in her final year of completing her biological sciences undergraduate studies, with an honours in biochemistry and she hopes to further pursue healthcare biotechnology in the near future. For her senior honours project in Dr Laohakunakorn’s lab, Sasirasa is currently working on designing and assessing synthetic in vitro metabolic pathways to improve cell-free protein synthesis efficiency. <br>
 			    </p>
 			</div>
