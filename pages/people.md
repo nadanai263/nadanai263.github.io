@@ -3,6 +3,12 @@ layout: page
 title: People
 description: ---
 ---
+<div class="container-fluid">
+	<figure>
+		<img src="/assets/images/lab2021.png" class="img-fluid" alt="lab">
+		</figure>
+</div>
+---
 
 <div class="container-fluid">
 	<div class="row">
