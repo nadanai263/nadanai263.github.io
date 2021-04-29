@@ -5,7 +5,7 @@ description: ---
 ---
 <div class="container-fluid">
 	<figure>
-		<img src="/assets/images/lab2021.png" class="img-fluid" alt="lab" width="80%">
+		<img src="/assets/images/lab2021.png" class="img-fluid" alt="lab" width="70%">
 		</figure>
 </div>
 ---
