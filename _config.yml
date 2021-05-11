@@ -8,7 +8,7 @@ exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "
 # so be sure to set them if your theme uses them.
 #
 title : Nadanai Laohakunakorn
-author :
+author : Nadanai Laohakunakorn
   name : Nadanai Laohakunakorn
   email : nadanai.laohakunakorn@ed.ac.uk
   github : nadanai263
