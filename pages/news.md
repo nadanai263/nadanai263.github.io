@@ -7,7 +7,8 @@ description: ---
 <div class="container-fluid">
 
 <ul>
-	
+	<p><li>10 May 2021 &#187; We welcome Meijie who is joining us as a new MSc student this summer. Read all about her <a href="{{ BASE_PATH }}/pages/people.html">here</a>.</li></p>
+
 	<p><li>15 Mar 2021 &#187; A new studentship has just been advertised as part of the IBioIC CTP programme, between ours and Chris French's <a href="http://frenchlab.bio.ed.ac.uk">lab</a>, and in collaboration with the Scotch Whisky Research Institute. The aim is to develop cell-free biosensors to monitor whisky quality. Funding is available for UK or EU students resident in the UK for 3 years prior to start of studentship. More info and apply <a href="https://www.findaphd.com/phds/project/development-of-biosensor-technology-for-the-measurement-and-control-of-off-note-flavours-in-the-scotch-whisky-industry/?p130850">here</a> by the deadline of 9th April 2021.  </li></p>
 
 	<p><li>11 Mar 2021 &#187; Nadanai is back at SynthSys to present at the Open Centre Meeting, on self-regeneration in cell-free systems.</li></p>
