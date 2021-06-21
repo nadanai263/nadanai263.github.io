@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Laohakunakorn Group
-tagline: Synthetic Biophysical Systems
+tagline: 
 description: ---
 ---
 
