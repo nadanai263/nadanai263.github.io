@@ -69,12 +69,12 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
-				<p><b>Bastien Mollet</b> is a graduate student from the ENS of Lyon in France. Initially studying general biology, he extended his curiosity in a cross disciplinary masters degree about complex systems. To him, synthetic biology is the perfect playground to combine theoretical knowledge, creativity, and real world applications. In his first year of the masters degree he took part in the development of a network-based analysis tool for spatial transcriptomic data. His project at Edinburgh is to implement an optimal experimental design method for cell-free systems. He is a nature lover fond of hiking. <br>
+				<p><b>Meijie Liu</b>, from China, obtained her bachelor’s degree in Biological Science from Sichuan Agricultural University in 2014. Then she worked as a volunteer teacher for two years in the Teach for China organization. Currently, she is a masters student in the Biotechnology programme at the University of Edinburgh. Meijie is now working in Dr. Laohakunakorn’s lab group for her dissertation project focusing on computational screening and analyzing of the optimal set of proteins to enhance the performance of the PURE system. <br>
 			    </p>
 			</div>
 			<div class="col-sm order-2">
 			<figure>
-			<img src="/assets/images/BM.jpg" width="100%" alt="BM" class="float-left">
+			<img src="/assets/images/ML.jpeg" width="100%" alt="ML" class="float-left">
 				</figure>
 			</div>
 	</div>
@@ -85,12 +85,34 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
-				<p><b>Meijie Liu</b>, from China, obtained her bachelor’s degree in Biological Science from Sichuan Agricultural University in 2014. Then she worked as a volunteer teacher for two years in the Teach for China organization. Currently, she is a masters student in the Biotechnology programme at the University of Edinburgh. Meijie is now working in Dr. Laohakunakorn’s lab group for her dissertation project focusing on computational screening and analyzing of the optimal set of proteins to enhance the performance of the PURE system. <br>
+				<p><b>Dominik Kopčak</b> is an undergraduate student from Slovakia studying biological sciences at the University of Edinburgh. He is currently working as an EPSRC Undergraduate Vacation Intern analysing the effects of transcription-translation complex formation on cell-free protein synthesis. He is interested in how physical laws shape and constrain organisms and biological processes in general.  <br>
 			    </p>
 			</div>
 			<div class="col-sm order-2">
 			<figure>
-			<img src="/assets/images/ML.jpeg" width="100%" alt="ML" class="float-left">
+			<img src="/assets/images/DK.jpg" width="100%" alt="DK" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+<div class="container-fluid">
+<h3>Alumni</h3>
+</div>
+
+<br>
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
+				<p><b>Bastien Mollet</b> is a graduate student from the ENS of Lyon in France. Initially studying general biology, he extended his curiosity in a cross disciplinary masters degree about complex systems. To him, synthetic biology is the perfect playground to combine theoretical knowledge, creativity, and real world applications. In his first year of the masters degree he took part in the development of a network-based analysis tool for spatial transcriptomic data. His project at Edinburgh is to implement an optimal experimental design method for cell-free systems. He is a nature lover fond of hiking. <br>
+			    </p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/BM.jpg" width="100%" alt="BM" class="float-left">
 				</figure>
 			</div>
 	</div>
@@ -113,12 +135,6 @@ description: ---
 </div>
 
 ---
-
-<div class="container-fluid">
-<h3>Alumni</h3>
-</div>
-
-<br>
 
 <div class="container-fluid">
 	<div class="row">
