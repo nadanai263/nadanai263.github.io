@@ -7,6 +7,8 @@ description: ---
 <div class="container-fluid">
 
 <ul>
+	<p><li>21 July 2021 &#187; Our microfluidics setup is ready to go, and we are now advertising a <b>Leverhulme Trust funded PhD project</b> to bring it to fruition. Please see the <a href="{{ BASE_PATH }}/pages/research.html">project description</a> for more details.</li></p>
+	
 	<p><li>21 June 2021 &#187; Summer is here, and with it a change of personnel and activities. We say goodbye to Sasirasa and Bastien, and welcome <a href="{{ BASE_PATH }}/pages/people.html">Dominik</a>, who has been awarded an EPSRC undergraduate vacation internship to work with us for the next couple of months.</li></p>
 	
 	<p><li>10 May 2021 &#187; We welcome Meijie who is joining us as a new MSc student this summer. Read all about her <a href="{{ BASE_PATH }}/pages/people.html">here</a>.</li></p>

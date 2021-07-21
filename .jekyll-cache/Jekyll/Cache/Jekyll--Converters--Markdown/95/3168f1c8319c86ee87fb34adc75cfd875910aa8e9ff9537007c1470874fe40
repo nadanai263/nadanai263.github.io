@@ -1,4 +1,4 @@
-I"V*<div class="container-fluid">
+I"5<div class="container-fluid">
 	<div class="row">
 		<div class="col-sm-8 order-1">
 			<p><b>Dr Nadanai Laohakunakorn</b>, originally from Bangkok, obtained his BA/MSci in Natural Sciences (Physics) from Trinity College, Cambridge in 2010. He remained in Cambridge to carry out his PhD under the supervision of <a href="http://people.bss.phy.cam.ac.uk/~ufk20/">Prof Ulrich Keyser</a>, where he studied nanopores and single-molecule biophysics. In particular, his work focused on electrically-driven fluid flows generated within the confined geometries of nanopores, and he developed techniques to measure and characterise these effects using optical tweezers. After defending his thesis in 2015, he moved to Lausanne where he worked with <a href="http://lbnc.epfl.ch/">Prof Sebastian Maerkl</a> at EPFL, on the new and growing field of cell-free synthetic biology. His work there focused on combining microfluidic devices with cell-free gene expression systems for high-throughput and rapid prototyping of genetic parts and circuits. In 2019 he received a Chancellor's Fellowship in Biotechnology at the University of Edinburgh, where he has established a lab for quantitative engineering of cell-free systems. <br />
@@ -29,7 +29,7 @@
 			</div>
 			<div class="col-sm order-2">
 			<figure>
-			<img src="/assets/images/SY.png" width="100%" alt="NL" class="float-left" />
+			<img src="/assets/images/SY.png" width="100%" alt="SY" class="float-left" />
 				</figure>
 			</div>
 	</div>
@@ -46,7 +46,7 @@
 			</div>
 			<div class="col-sm order-2">
 			<figure>
-			<img src="/assets/images/AP.jpg" width="100%" alt="NL" class="float-left" />
+			<img src="/assets/images/AP.jpg" width="100%" alt="AP" class="float-left" />
 				</figure>
 			</div>
 	</div>
@@ -57,12 +57,50 @@
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
-				<p><b>Bastien Mollet</b> is a graduate student from the ENS of Lyon in France. Initially studying general biology, he extended his curiosity in a cross disciplinary masters degree about complex systems. To him, synthetic biology is the perfect playground to combine theoretical knowledge, creativity, and real world applications. In his first year of the masters degree he took part in the development of a network-based analysis tool for spatial transcriptomic data. His project at Edinburgh is to the implement an optimal experimental design method for cell-free systems. He is a nature lover fond of hiking. <br />
+				<p><b>Meijie Liu</b>, from China, obtained her bachelor’s degree in Biological Science from Sichuan Agricultural University in 2014. Then she worked as a volunteer teacher for two years in the Teach for China organization. Currently, she is a masters student in the Biotechnology programme at the University of Edinburgh. Meijie is now working in Dr. Laohakunakorn’s lab group for her dissertation project focusing on computational screening and analyzing of the optimal set of proteins to enhance the performance of the PURE system. <br />
 			    </p>
 			</div>
 			<div class="col-sm order-2">
 			<figure>
-			<img src="/assets/images/BM.jpg" width="100%" alt="NL" class="float-left" />
+			<img src="/assets/images/ML.jpeg" width="100%" alt="ML" class="float-left" />
+				</figure>
+			</div>
+	</div>
+</div>
+
+<hr />
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
+				<p><b>Dominik Kopčak</b> is an undergraduate student from Slovakia studying biological sciences at the University of Edinburgh. He is currently working as an EPSRC Undergraduate Vacation Intern analysing the effects of transcription-translation complex formation on cell-free protein synthesis. He is interested in how physical laws shape and constrain organisms and biological processes in general.  <br />
+			    </p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/DK.jpg" width="100%" alt="DK" class="float-left" />
+				</figure>
+			</div>
+	</div>
+</div>
+
+<hr />
+
+<div class="container-fluid">
+<h3>Alumni</h3>
+</div>
+
+<p><br /></p>
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
+				<p><b>Bastien Mollet</b> is a graduate student from the ENS of Lyon in France. Initially studying general biology, he extended his curiosity in a cross disciplinary masters degree about complex systems. To him, synthetic biology is the perfect playground to combine theoretical knowledge, creativity, and real world applications. In his first year of the masters degree he took part in the development of a network-based analysis tool for spatial transcriptomic data. His project at Edinburgh is to implement an optimal experimental design method for cell-free systems. He is a nature lover fond of hiking. <br />
+			    </p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/BM.jpg" width="100%" alt="BM" class="float-left" />
 				</figure>
 			</div>
 	</div>
@@ -78,19 +116,13 @@
 			</div>
 			<div class="col-sm order-2">
 			<figure>
-			<img src="/assets/images/SP.jpg" width="100%" alt="NL" class="float-left" />
+			<img src="/assets/images/SP.jpg" width="100%" alt="SP" class="float-left" />
 				</figure>
 			</div>
 	</div>
 </div>
 
 <hr />
-
-<div class="container-fluid">
-<h3>Alumni</h3>
-</div>
-
-<p><br /></p>
 
 <div class="container-fluid">
 	<div class="row">
@@ -157,5 +189,62 @@
 			<div class="col-sm order-2">
 			</div>
 	</div>
+</div>
+
+<hr />
+<div class="container-fluid">
+<h3>Alumni</h3>
+</div>
+
+<div class="container-fluid">
+<div class="row">
+
+	<p><b>Baird McIlwraith</b>, 4th year Honours student (Edinburgh).</p>
+
+</div>
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-sm">
+		<figure>
+		<img src="/assets/images/BM.jpg" class="img-fluid" alt="lab" width="80%" />
+		</figure>
+		</div>
+		<div class="col-sm">
+		<figure>
+		<img src="/assets/images/SP.jpg" class="img-fluid" alt="lab" width="80%" />
+		</figure>
+		</div>
+		<div class="col-sm">
+		<figure>
+		<img src="/assets/images/YY.jpg" class="img-fluid" alt="lab" width="80%" />
+		</figure>
+		</div>
+		<div class="col-sm">
+		<figure>
+		<img src="/assets/images/YV.jpg" class="img-fluid" alt="lab" width="80%" />
+		</figure>
+		</div>
+		<div class="col-sm">
+		<figure>
+		<img src="/assets/images/MF.jpg" class="img-fluid" alt="lab" width="80%" />
+		</figure>
+		</div>
+	</div>
+	<div class="row">
+	<div class="col-sm">
+		<figure>
+		<img src="/assets/images/lab2021.png" class="img-fluid" alt="lab" width="100%" />
+		</figure>
+		</div>
+	<div class="col-sm">
+		<figure>
+		<img src="/assets/images/labdinner.jpg" class="img-fluid" alt="lab" width="100%" />
+		</figure>
+		</div>
+	</div>
+	
+</div>
+---
 </div>
 :ET

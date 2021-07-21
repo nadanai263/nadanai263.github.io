@@ -1,0 +1,55 @@
+I"�<div class="container-fluid">
+	<figure>
+		<img src="/assets/images/CF_logo4.png" class="img-fluid" alt="CFlogo" />
+		</figure>
+</div>
+
+<p>Synthetic biology is a rapidly growing field set to make profound impact in numerous industries including manufacturing, healthcare, agriculture, and sustainable energy, as well as our fundamental understanding of life itself. However, engineering synthetic biological systems reliably has proven to be a tremendously challenging task.</p>
+
+<p>One promising approach is to use cell-free gene expression systems. These are <em>in vitro</em> systems that mimic the cellular environment and can be integrated with microfluidic technologies to rapidly prototype and screen synthetic gene circuits, prior to their deployment <em>in vivo</em>. This speeds up the synthetic biology design cycle, but also perhaps more powerfully, releases gene expression from the confines of the cell. In this way, the cell-free extracts themselves can be viewed as functional liquids, programmed by DNA.</p>
+
+<p><strong>The aim of our research is to harness these <em>in vitro</em> biomolecular mechanisms in a controlled and quantitative manner.</strong></p>
+
+<p>The consequence of this approach is twofold: the first is a deeper understanding of life, as we attempt to control and manipulate genetic and metabolic systems which have been crafted over billions of years of evolution. The second is the development of powerful cell-free applications which, unlike synthetic cellular systems, are not limited by the strict requirements to maintain life.</p>
+
+<hr />
+
+<h3>Opportunities</h3>
+
+<p><strong>Cell-free protein engineering using high throughput microfluidics</strong></p>
+<ul>
+  <li>3-year funding for UK/(settled) EU students only</li>
+  <li>deadline <strong>Tuesday 31 August 2021</strong></li>
+  <li>Apply directly <a href="https://apps.bio.ed.ac.uk/pgr/checklist/project/1124">here</a>.</li>
+</ul>
+
+<p>Applications are welcome for a fully-funded 3-year PhD studentship as part of a Leverhulme Trust project entitled ‘Life not as we know it: biological selection without cells’. The project will be jointly supervised by Dr Nadanai Laohakunakorn and <a href="https://regan.bio.ed.ac.uk/">Prof Lynne Regan</a>.</p>
+
+<p>The power of selection to identify the fittest for a particular niche has shaped the natural world. In the laboratory, efforts to engineer, screen, select, and evolve proteins has led to breakthroughs in understanding biological processes as well as identification of proteins with novel or significantly improved activities. However, the majority of these screening and selection efforts have relied on engineering cellular hosts to express the protein of interest. Complementary methods involving in vitro screening and selection have the potential to overcome many limitations of cell-based approaches.</p>
+
+<p>The aim of the Leverhulme project is to combine a powerful DNA library generation method with surface immobilisation and cell-free protein synthesis, before screening the resulting reactions at high throughput using microfluidic devices [1-3]. This approach will integrate multiple complementary techniques required to create and screen targeted libraries for protein design entirely in vitro.</p>
+
+<p>The role of the successful PhD student will be to develop, characterise, and deploy the microfluidics platform which forms a key component of this project. They will be responsible for designing, manufacturing, and testing multilayer microfluidic devices, and carrying out high-throughput cell-free experiments to screen the resulting proteins for desired activity. Depending on the interests of the student, it is also possible to extend the work to develop low-cost, open source implementations of the platform. The student will have access to state-of-the-art cleanroom microfabrication facilities located in the Scottish Microelectronics Centre, and will join a vibrant and interdisciplinary community in the Institute for Quantitative Biology, Biochemistry, and Biotechnology at Edinburgh.</p>
+
+<p>The ideal candidate will be friendly, a good communicator, willing to learn, highly motivated, and able to work in a collaborative setting. They will be in possession of a strong quantitative background in engineering/physics/biophysics or related disciplines. Experience in any of the following areas is highly desirable: microfluidics, photo/soft lithography, programming (LabView, Python, AutoCAD), microscopy. The successful candidate will work as part of a collaborative group, with significant expertise in molecular biological and biochemical manipulations. Therefore, prior experience working in a molecular biology wet lab, and collaborating with biologists, is a plus.</p>
+
+<ol>
+  <li><a href="https://www.pnas.org/content/116/13/5892">Swank, Z., Laohakunakorn, N., and Maerkl, S. J. Cell-free gene-regulatory network engineering with synthetic transcription factors. PNAS 116:13, 5892-5901 (2019)</a></li>
+  <li><a href="https://www.frontiersin.org/articles/10.3389/fbioe.2020.00788/full">Laohakunakorn N. Cell-free systems: a proving ground for rational biodesign. Frontiers Bioeng. Biotechnol 8:788 (2020)</a></li>
+  <li><a href="https://pubs.acs.org/doi/10.1021/cb9002464">Cortajarena A. L. et al. Designed proteins to modulate cellular networks. ACS Chem Biol. 5:6 545-552 (2010)</a></li>
+</ol>
+
+<p><strong>Funding notes</strong>: This is a fully funded 3 year studentship from the Leverhulme Trust. Applications will only be accepted from UK candidates or EU candidates with residency/(pre)settled status.</p>
+
+<hr />
+
+<h3>Funding</h3>
+<p>We gratefully acknowledge support from the following organizations:</p>
+
+<p><a href="http://www.eastscotbiodtp.ac.uk/"><img src="/assets/images/eastbio.png" width="60%" alt="Eastbio" /></a>  
+<a href="https://www.carnegie-trust.org/"><img src="/assets/images/carnegie.png" width="38%" alt="Carnegie" /></a>  
+<a href="https://wellcome.org/"><img src="/assets/images/wellcome.png" width="10%" alt="Wellcome" /></a>  
+<a href="https://fujifilmdiosynth.com/"><img src="/assets/images/fdb.jpg" width="20%" alt="FDB" /></a>  
+<a href="https://darwintrust.bio.ed.ac.uk/"><img src="/assets/images/dt.png" width="15%" alt="Darwin" /></a>  
+<a href="https://darwintrust.bio.ed.ac.uk/"><img src="/assets/images/lever.jpg" width="15%" alt="Darwin" /></a>  </p>
+:ET
