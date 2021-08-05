@@ -63,6 +63,23 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
+				<p><b>Michael Stam</b> is a PhD student funded by the CDT in Biomedical AI. He holds a BSc in Mathematics from the University of Edinburgh and works on using machine/deep learning for de novo protein design with cell-free systems, in collaboration with Chris Wood’s and Nadanai Laohakunakorn’s labs at the School of Biological Sciences. <br>
+			<a href="mailto:michael.stam@ed.ac.uk"><i class="fas fa-envelope"></i></a> 
+			</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/MS.jpg" width="100%" alt="MS" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
 				<p><b>Meijie Liu</b>, from China, obtained her bachelor’s degree in Biological Science from Sichuan Agricultural University in 2014. Then she worked as a volunteer teacher for two years in the Teach for China organization. Currently, she is a masters student in the Biotechnology programme at the University of Edinburgh. Meijie is now working in Dr. Laohakunakorn’s lab group for her dissertation project focusing on computational screening and analyzing of the optimal set of proteins to enhance the performance of the PURE system. <br>
 			    </p>
 			</div>
