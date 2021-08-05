@@ -63,7 +63,7 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
-				<p><b>Michael Stam</b> is a PhD student funded by the CDT in Biomedical AI. He holds a BSc in Mathematics from the University of Edinburgh and works on using machine/deep learning for de novo protein design with cell-free systems, in collaboration with Chris Wood’s and Nadanai Laohakunakorn’s labs at the School of Biological Sciences. <br>
+				<p><b>Michael Stam</b> is a PhD student funded by the CDT in Biomedical AI. He holds a BSc in Mathematics from the University of Edinburgh and works on using machine/deep learning for de novo protein design with cell-free systems, in collaboration with Chris Wood's and Diego Oyarzún's groups. <br>
 			<a href="mailto:michael.stam@ed.ac.uk"><i class="fas fa-envelope"></i></a> 
 			</p>
 			</div>
