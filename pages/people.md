@@ -80,22 +80,6 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
-				<p><b>Meijie Liu</b>, from China, obtained her bachelor’s degree in Biological Science from Sichuan Agricultural University in 2014. Then she worked as a volunteer teacher for two years in the Teach for China organization. Currently, she is a masters student in the Biotechnology programme at the University of Edinburgh. Meijie is now working in Dr. Laohakunakorn’s lab group for her dissertation project focusing on computational screening and analyzing of the optimal set of proteins to enhance the performance of the PURE system. <br>
-			    </p>
-			</div>
-			<div class="col-sm order-2">
-			<figure>
-			<img src="/assets/images/ML.jpeg" width="100%" alt="ML" class="float-left">
-				</figure>
-			</div>
-	</div>
-</div>
-
----
-
-<div class="container-fluid">
-	<div class="row">
-			<div class="col-sm-9 order-1">
 				<p><b>Dominik Kopčak</b> is an undergraduate student from Slovakia studying biological sciences at the University of Edinburgh. He is currently working as an EPSRC Undergraduate Vacation Intern analysing the effects of transcription-translation complex formation on cell-free protein synthesis. He is interested in how physical laws shape and constrain organisms and biological processes in general.  <br>
 			    </p>
 			</div>
@@ -116,6 +100,7 @@ description: ---
 <div class="container-fluid">
 <div class="row">
 	<ul class="list-group">
+		<li class="list-group-item" style="border: none"><b>Meijie Liu</b>, MSc student (Edinburgh).</li>
 		<li class="list-group-item" style="border: none"><b>Bastien Mollet</b>, VRes exchange student (ENS Lyon).</li>
 		<li class="list-group-item" style="border: none"><b>Sasirasa Pratumsuwan</b>, undergraduate honours student (Edinburgh).</li>
 		<li class="list-group-item" style="border: none"><b>Yehezkiel Victorio</b>, MSc student (Edinburgh).</li>
@@ -130,6 +115,11 @@ description: ---
 
 <div class="container-fluid">
 	<div class="row">
+		<div class="col-sm">
+		<figure>
+		<img src="/assets/images/ML.jpeg" class="img-fluid" alt="lab" width="80%">
+		</figure>
+		</div>
 		<div class="col-sm">
 		<figure>
 		<img src="/assets/images/BM.jpg" class="img-fluid" alt="lab" width="80%">
