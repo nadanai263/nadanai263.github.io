@@ -12,7 +12,7 @@ description: ---
 
 Synthetic biology is a rapidly growing field set to make profound impact in numerous industries including manufacturing, healthcare, agriculture, and sustainable energy, as well as our fundamental understanding of life itself. However, engineering synthetic biological systems reliably has proven to be a tremendously challenging task.
 
-One promising approach is to use cell-free gene expression systems. These are *in vitro* systems that mimic the cellular environment and can be integrated with microfluidic technologies to rapidly prototype and screen synthetic gene circuits, prior to their deployment *in vivo*. This speeds up the synthetic biology design cycle, but also perhaps more powerfully, releases gene expression from the confines of the cell. In this way, the cell-free extracts themselves can be viewed as functional liquids, programmed by DNA.
+One promising approach is to use cell-free gene expression systems. These are *in vitro* systems that mimic the cellular environment and can be integrated with microfluidic technologies to rapidly prototype and screen synthetic gene circuits, prior to their deployment *in vivo*. This speeds up the synthetic biology design cycle, but also perhaps more powerfully, releases gene expression from the confines of the cell. In this way, the cell-free extracts themselves can be viewed as functional aqueous solutions, programmed by DNA.
 
 **The aim of our research is to harness these *in vitro* biomolecular mechanisms in a controlled and quantitative manner.**
 
@@ -21,6 +21,26 @@ The consequence of this approach is twofold: the first is a deeper understanding
 ---
 
 <h3>Opportunities</h3>
+
+There are two new postdoc positions available as part of our UKRI Future Leaders Fellowship research programme. The application deadline will be end of October, and links to the application portal and full job descriptions will be made available as soon as the system comes online (most likely within the next couple of weeks). In the meantime, a brief description of the projects is given below.
+
+
+
+**4-year postdoc: Coupling cell-free protein synthesis with synthetic metabolism** 
+* 4-year funding for all candidates
+* Expected start date: January 2022
+
+The aim of this project is to engineer an efficient synthetic metabolism to power cell-free protein synthesis. This will involve metabolomics-guided biodesign of novel pathways, where metabolomic analysis of cell-free protein synthesis reactions will be used to inform de novo pathway design, construction, and testing. The unique combination of rigorous metabolomic analysis with creative biodesign and synthetic biology should appeal to candidates from a wide range of backgrounds. Successful candidates will have an excellent demonstrated track record of research in metabolomics, metabolism, or synthetic biology. The project will be carried out in collaboration with <a href="https://burgess.bio.ed.ac.uk/">Dr Karl Burgess</a> and the <a href="https://www.ed.ac.uk/biology/research/facilities/edinomics">EdinOmics</a> facility.
+
+
+
+**4-year postdoc: Machine learning guided proteome expansion of the PURE system** 
+* 4-year funding for all candidates
+* Expected start date: January 2022
+
+The aim of this project is to improve the performance of cell-free protein synthesis reactions by combining machine learning and high throughput screening. The candidate will develop machine learning algorithms to guide a combinatorially difficult screening problem, implement the experimental screening pipeline on the world-class lab automation facilities in the <a href="https://www.ed.ac.uk/biology/research/facilities/edinburgh-genome-foundry">Edinburgh Genome Foundry</a>, and use the combination to drive performance improvements in a key synthetic biological system. Successful candidates will have an excellent demonstrated track record of research in machine learning, design of experiments, high-throughput screening and automation, or synthetic biology, as well as expertise in coding and data analysis. This project will be in collaboration with <a href="https://homepages.inf.ed.ac.uk/doyarzun/">Dr Diego Oyarzún</a>.
+
+---
 
 **3-year PhD: Cell-free protein engineering using high throughput microfluidics** 
 * 3-year funding for UK/(settled) EU students only
