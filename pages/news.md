@@ -7,6 +7,8 @@ description: ---
 <div class="container-fluid">
 
 <ul>
+	<p><li>14 September 2021 &#187; We are advertising two postdoc positions as part of our new UKRI Future Leaders Fellowship programme. One is in machine learning and high-throughput screening, and the other is in synthetic metabolism, both applied to cell-free reactions. Full details and links to apply <a href="{{ BASE_PATH }}/pages/research.html">here</a>. Please circulate widely!
+	
 	<p><li>8 September 2021 &#187; We are thrilled to announce that Nadanai has been awarded a <b>UKRI Future Leaders Fellowship</b>. This £1.5M, 4-year grant will help us kick-start our research into regenerative cell-free systems, and we are very excited to advertise two new postdoctoral positions to work on this project. Read more about the opportunities <a href="{{ BASE_PATH }}/pages/research.html">here</a>. The news has been featured on the <a href="https://www.ed.ac.uk/news/2021/visionary-research-celebrated-with-fellowships?utm_campaign=cam_news2021&utm_content=1631100903&utm_medium=social&utm_source=linkedin">university</a> as well as <a href="https://www.ed.ac.uk/biology/news-events/news-2021/nadanai-laohakunakorn-awarded-ukri-future-leaders">school</a> webpages.</li></p>
 
 	<p><li>30 August 2021 &#187; We say congratulations and goodbye to Meijie who will be returning to China after successfully completing her MSc project.</li></p>

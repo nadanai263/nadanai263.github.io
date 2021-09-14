@@ -22,21 +22,19 @@ The consequence of this approach is twofold: the first is a deeper understanding
 
 <h3>Opportunities</h3>
 
-There are two new postdoc positions available as part of our UKRI Future Leaders Fellowship research programme. The application deadline will be end of October, and links to the application portal and full job descriptions will be made available as soon as the system comes online (most likely within the next couple of weeks). In the meantime, a brief description of the projects is given below.
-
-
+There are two new postdoc positions available as part of our UKRI Future Leaders Fellowship research programme. The application deadline will be end of October. A brief description of the projects is given below, as well as links to the full job adverts. 
 
 **4-year postdoc: Coupling cell-free protein synthesis with synthetic metabolism** 
 * 4-year funding for all candidates
 * Expected start date: January 2022
+* Full details and apply <a href="https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1984">here</a>.
 
 The aim of this project is to engineer an efficient synthetic metabolism to power cell-free protein synthesis. This will involve metabolomics-guided biodesign of novel pathways, where metabolomic analysis of cell-free protein synthesis reactions will be used to inform de novo pathway design, construction, and testing. The unique combination of rigorous metabolomic analysis with creative biodesign and synthetic biology should appeal to candidates from a wide range of backgrounds. Successful candidates will have an excellent demonstrated track record of research in metabolomics, metabolism, or synthetic biology. The project will be carried out in collaboration with <a href="https://burgess.bio.ed.ac.uk/">Dr Karl Burgess</a> and the <a href="https://www.ed.ac.uk/biology/research/facilities/edinomics">EdinOmics</a> facility.
-
-
 
 **4-year postdoc: Machine learning guided proteome expansion of the PURE system** 
 * 4-year funding for all candidates
 * Expected start date: January 2022
+* Full details and apply <a href="https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1985">here</a>.
 
 The aim of this project is to improve the performance of cell-free protein synthesis reactions by combining machine learning and high throughput screening. The candidate will develop machine learning algorithms to guide a combinatorially difficult screening problem, implement the experimental screening pipeline on the world-class lab automation facilities in the <a href="https://www.ed.ac.uk/biology/research/facilities/edinburgh-genome-foundry">Edinburgh Genome Foundry</a>, and use the combination to drive performance improvements in a key synthetic biological system. Successful candidates will have an excellent demonstrated track record of research in machine learning, design of experiments, high-throughput screening and automation, or synthetic biology, as well as expertise in coding and data analysis. This project will be in collaboration with <a href="https://homepages.inf.ed.ac.uk/doyarzun/">Dr Diego Oyarzún</a>.
 
