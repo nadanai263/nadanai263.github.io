@@ -40,29 +40,6 @@ The aim of this project is to improve the performance of cell-free protein synth
 
 ---
 
-**3-year PhD: Cell-free protein engineering using high throughput microfluidics** 
-* 3-year funding for UK/(settled) EU students only
-* deadline **Tuesday 31 August 2021** for a **January 2022** start
-* Apply directly <a href="https://apps.bio.ed.ac.uk/pgr/checklist/project/1124">here</a>.
-
-Applications are welcome for a fully-funded 3-year PhD studentship as part of a Leverhulme Trust project entitled ‘Life not as we know it: biological selection without cells’. The project will be jointly supervised by Dr Nadanai Laohakunakorn and <a href="https://regan.bio.ed.ac.uk/">Prof Lynne Regan</a>.
-
-The power of selection to identify the fittest for a particular niche has shaped the natural world. In the laboratory, efforts to engineer, screen, select, and evolve proteins has led to breakthroughs in understanding biological processes as well as identification of proteins with novel or significantly improved activities. However, the majority of these screening and selection efforts have relied on engineering cellular hosts to express the protein of interest. Complementary methods involving in vitro screening and selection have the potential to overcome many limitations of cell-based approaches.
-
-The aim of the Leverhulme project is to combine a powerful DNA library generation method with surface immobilisation and cell-free protein synthesis, before screening the resulting reactions at high throughput using microfluidic devices [1-3]. This approach will integrate multiple complementary techniques required to create and screen targeted libraries for protein design entirely in vitro.
-
-The role of the successful PhD student will be to develop, characterise, and deploy the microfluidics platform which forms a key component of this project. They will be responsible for designing, manufacturing, and testing multilayer microfluidic devices, and carrying out high-throughput cell-free experiments to screen the resulting proteins for desired activity. Depending on the interests of the student, it is also possible to extend the work to develop low-cost, open source implementations of the platform. The student will have access to state-of-the-art cleanroom microfabrication facilities located in the Scottish Microelectronics Centre, and will join a vibrant and interdisciplinary community in the Institute for Quantitative Biology, Biochemistry, and Biotechnology at Edinburgh. 
-
-The ideal candidate will be friendly, a good communicator, willing to learn, highly motivated, and able to work in a collaborative setting. They will be in possession of a strong quantitative background in engineering/physics/biophysics or related disciplines. Experience in any of the following areas is highly desirable: microfluidics, photo/soft lithography, programming (LabView, Python, AutoCAD), microscopy. The successful candidate will work as part of a collaborative group, with significant expertise in molecular biological and biochemical manipulations. Therefore, prior experience working in a molecular biology wet lab, and collaborating with biologists, is a plus. 
-
-1. <a href="https://www.pnas.org/content/116/13/5892">Swank, Z., Laohakunakorn, N., and Maerkl, S. J. Cell-free gene-regulatory network engineering with synthetic transcription factors. PNAS 116:13, 5892-5901 (2019)</a>
-2. <a href="https://www.frontiersin.org/articles/10.3389/fbioe.2020.00788/full">Laohakunakorn N. Cell-free systems: a proving ground for rational biodesign. Frontiers Bioeng. Biotechnol 8:788 (2020)</a>
-3. <a href="https://pubs.acs.org/doi/10.1021/cb9002464">Cortajarena A. L. et al. Designed proteins to modulate cellular networks. ACS Chem Biol. 5:6 545-552 (2010)</a>
-
-**Funding notes**: This is a fully funded 3 year studentship from the Leverhulme Trust. Applications will only be accepted from UK candidates or EU candidates with residency/(pre)settled status. 
-
----
-
 <h3>Funding</h3>
 We gratefully acknowledge support from the following organizations:
 
