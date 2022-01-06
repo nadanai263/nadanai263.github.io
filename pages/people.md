@@ -35,7 +35,7 @@ description: ---
 			</div>
 			<div class="col-sm order-2">
 			<figure>
-			<img src="/assets/images/SPa.png" width="100%" alt="SY" class="float-left">
+			<img src="/assets/images/SPa.jpg" width="100%" alt="SY" class="float-left">
 				</figure>
 			</div>
 	</div>
