@@ -29,6 +29,23 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
+				<p><b>Sarah Paterson</b> is a PhD student funded by the Leverhulme Trust working on cell-free protein synthesis using high throughput microfluidics. She holds a Master's in pharmacy from the University of Strathclyde as well as an MSc in Biomedical Engineering. Sarah gained experience in cell culture working within the start-up company “ScreenIn3D” using microfluidic platforms to create 3D tumour microenvironments for drug screening assays. She is interested in applying engineering principles to the design and construction of biological systems. As a keen runner you’ll find Sarah running around muddy fields on weekends competing in cross country races.<br>
+			<a href="mailto:s.paterson-10@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a>
+			</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/SPa.png" width="100%" alt="SY" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
 				<p><b>Surendra Yadav</b> is a Darwin Trust doctoral student who's working to construct synthetic metabolism to efficiently power PURE cell-free systems. Before joining the University of Edinburgh for his Ph.D, he completed his Masters from the Indian Institute of Science Education and Research, Mohali, India. During his Master's thesis, he worked under the supervision of Prof. Anand K. Bachhawat to investigate the role of 6-phosphogluconate dehydrogenase in cellular metabolism of Saccharomyces cerevisiae. Being a curious undergrad student he tried to dive and gain experience in different fields of biology by doing various internships and summer research projects.  In his undergraduate studies he worked with Dr. Lolitika Mandal at IISER Mohali to understand hematopoiesis, and utilized the UAS-GAL4 bipartite system for the development of various uncommon traits in Drosophila melanogaster such as ectopic eyes. He was intrigued by the field of synthetic biology and its useful applications while he was undergoing his Masters thesis, and decided to pursue his Ph.D in cell-free synthetic biology. Surendra is a cricket enthusiast, and also likes to spend his free-time playing guitar and sipping tea. <br>
 			<a href="mailto:s.yadav-3@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> <a href="https://twitter.com/SurendraYadavIN"><i class="fab fa-twitter-square"></i></a>  
 			</p>
@@ -70,6 +87,22 @@ description: ---
 			<div class="col-sm order-2">
 			<figure>
 			<img src="/assets/images/MS.jpg" width="100%" alt="MS" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
+				<p><b>Tim Bosse</b> is a doing an Honours project measuring translation processivity in cell-free systems, by designing DNA constructs with spectrally distinct fluorescent proteins to determine at which point translation stops due to ribosome dissociation. In his own words: 'I was born in Britain but my mum is Russian and dad is German. I also spent 3 years living in Dubai when I was in my teens. All this culminated in my love for cosmopolitan, international settings, making Edinburgh an environment I cherish. At Edinburgh I study Biochemistry. At school I adored chemistry but yearned to see it in a more invigorating setting such as in the edifice of Biology; whenever I think this I imagine the intricacies of the workings of iron ions in haemoglobin. In my spare time I spend as much time reading as possible, and through this also learning/improving my languages. I enjoy fencing, swimming and basketball; though, playing the latter I managed to break my arm for a second time in my life!'
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/TB.jpg" width="100%" alt="DK" class="float-left">
 				</figure>
 			</div>
 	</div>
