@@ -69,7 +69,7 @@ description: ---
 			</div>
 			<div class="col-sm order-2">
 			<figure>
-			<img src="/assets/images/AP.jpg" width="100%" alt="AP" class="float-left">
+			<img src="/assets/images/AP.png" width="100%" alt="AP" class="float-left">
 				</figure>
 			</div>
 	</div>
