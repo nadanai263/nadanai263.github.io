@@ -35,7 +35,7 @@ description: ---
 			</div>
 			<div class="col-sm order-2">
 			<figure>
-			<img src="/assets/images/SPa.jpg" width="100%" alt="SY" class="float-left">
+			<img src="/assets/images/SPa.jpg" width="100%" alt="SP" class="float-left">
 				</figure>
 			</div>
 	</div>
@@ -103,7 +103,24 @@ description: ---
 			</div>
 			<div class="col-sm order-2">
 			<figure>
-			<img src="/assets/images/TB.jpg" width="100%" alt="DK" class="float-left">
+			<img src="/assets/images/TB.jpg" width="100%" alt="TB" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
+				<p><b>Yan Ting Hee</b> is a 4th year Biotechnology undergraduate at the University of Edinburgh. Her Honours project currently focuses on the expression of thrombin in cell free systems. She is interested in the endless possibilities found in synthetic biology and hopes to learn more about it for future applications. Originally from Malaysia, in her free time she enjoys learning more about the local cuisine or can be found reading a good book.  <br>
+				</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/YTH.jpg" width="100%" alt="YTH" class="float-left">
 				</figure>
 			</div>
 	</div>

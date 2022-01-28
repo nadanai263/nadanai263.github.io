@@ -27,6 +27,8 @@ description: ---
 <h3><a href="{{ BASE_PATH }}/pages/news.html">News</a></h3>
 
 <ul>
+	<p><li>24 January 2022 &#187; We have two undergraduate Honours students joining us this term, Yan Ting Hee and Tim Bosse, to work on cell-free protein expression. We are very excited to welcome them into the lab for the first undergraduate wet-lab projects in two years!
+
 	<p><li>21 January 2022 &#187; A very warm welcome to Sarah Paterson, who has just finished her first week with us. She is a new PhD student working on a Leverhulme-funded project to carry out protein engineering using cell-free systems and microfluidics. Read more about her <a href="{{ BASE_PATH }}/pages/people.html">here</a>. 
 		
 	<p><li>14 September 2021 &#187; We are advertising two postdoc positions as part of our new UKRI Future Leaders Fellowship research programme. One is in machine learning and high-throughput screening, and the other is in synthetic metabolism, both applied to cell-free reactions. Full details and links to apply <a href="{{ BASE_PATH }}/pages/research.html">here</a>. Please circulate widely!
