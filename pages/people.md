@@ -29,6 +29,23 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
+				<p><b>Dr Antonios Bougas</b> is working on a collaborative project between the Laohakunakorn group and the Burgess group at the EdinOmics facility. He is investigating the role of metabolites derived from energy regeneration pathways and their impact on protein synthesis which is used to power cell-free systems. Originally from Corinthia, he graduated from the Department of Biology, University of Patras, Greece. Subsequently, he secured a PhD fellowship through the competitive call from the Greek State Scholarships Foundation and carried on his postgraduate studies at the Department of Biochemistry, School of Medicine, Patras. During that time, he focused on the study of both eukaryotic and bacterial ribosomes, in the process of evaluating novel protein synthesis inhibitors. Specifically, he investigated the kinetics and context-specificity of antibiotics targeting the bacterial ribosome, as well as their effect on the emerging translatome using high-throughput techniques. During his leisure time he enjoys playing basketball with friends and practising amateur photography as an excuse to travel to new places. <br>
+			<a href="mailto:tony.bougas@ed.ac.uk"><i class="fas fa-envelope"></i></a>
+			</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/TBo.jpg" width="100%" alt="SP" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
 				<p><b>Sarah Paterson</b> is a PhD student funded by the Leverhulme Trust working on cell-free protein synthesis using high throughput microfluidics. She holds a Master's in pharmacy from the University of Strathclyde as well as an MSc in Biomedical Engineering. Sarah gained experience in cell culture working within the start-up company “ScreenIn3D” using microfluidic platforms to create 3D tumour microenvironments for drug screening assays. She is interested in applying engineering principles to the design and construction of biological systems. As a keen runner you’ll find Sarah running around muddy fields on weekends competing in cross country races.<br>
 			<a href="mailto:s.paterson-10@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a>
 			</p>
