@@ -7,6 +7,7 @@ description: ---
 <div class="container-fluid">
 
 <ul>
+<p><li>28 June 2022 &#187; Nadanai gave an interview for BioPOD, the School of Biological Sciences podcast, where he discusses his background, how he became interested in synthetic biology, and his current research in cell-free systems. You can listen to the episode <a href="https://podcasts.apple.com/gb/podcast/biology-without-the-cells-with-dr-nadanai-laohakunakorn/id1465890427?i=1000567963984/">here.</a> </li></p>
 
 <p><li>20 June 2022 &#187; We welcome Paula Paredes Vergara, an undergraduate student from Glasgow University, who starts a summer internship in our group to work on assembly methods to construct DNA templates for CFPS reactions. </li></p>
 
