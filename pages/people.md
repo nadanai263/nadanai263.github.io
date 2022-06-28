@@ -109,31 +109,12 @@ description: ---
 	</div>
 </div>
 
-
-
 ---
+
 <div class="container-fluid">
 <h3>Alumni</h3>
 </div>
 
-<div class="container-fluid">
-<div class="row">
-	<ul class="list-group">
-		<li class="list-group-item" style="border: none"><b>Tim Bosse</b>, Hons student (Edinburgh)</li>	
-		<li class="list-group-item" style="border: none"><b>Yan Ting Hee</b>, Hons student (Edinburgh)</li>	
-		<li class="list-group-item" style="border: none"><b>Dominik Kopčak</b>, Undergraduate student (Edinburgh)</li>	
-		<li class="list-group-item" style="border: none"><b>Meijie Liu</b>, MSc student (Edinburgh)</li>
-		<li class="list-group-item" style="border: none"><b>Bastien Mollet</b>, VRes exchange student (ENS Lyon)</li>
-		<li class="list-group-item" style="border: none"><b>Sasirasa Pratumsuwan</b>, Hons student (Edinburgh)</li>
-		<li class="list-group-item" style="border: none"><b>Yehezkiel Victorio</b>, MSc student (Edinburgh)</li>
-		<li class="list-group-item" style="border: none"><b>Ying Yang</b>, MSc and IGEM student (Edinburgh)</li>
-		<li class="list-group-item" style="border: none"><b>Yutong Ke</b>, MSc student (Edinburgh)</li>
-		<li class="list-group-item" style="border: none"><b>Maria Fernandez</b>, Hons student (Edinburgh)</li>
-		<li class="list-group-item" style="border: none"><b>Baird McIlwraith</b>, Hons student (Edinburgh)</li>
-	</ul>
-</div>
-</div>
----
 
 <div class="container-fluid">
 	<div class="row">
@@ -185,6 +166,29 @@ description: ---
 		</figure>
 		</div>
 	</div>
+</div>
+
+<div class="container-fluid">
+<div class="row">
+	<ul class="list-group">
+		<li class="list-group-item" style="border: none"><b>Tim Bosse</b>, Hons student (Edinburgh)</li>	
+		<li class="list-group-item" style="border: none"><b>Yan Ting Hee</b>, Hons student (Edinburgh)</li>	
+		<li class="list-group-item" style="border: none"><b>Dominik Kopčak</b>, Undergraduate student (Edinburgh)</li>	
+		<li class="list-group-item" style="border: none"><b>Meijie Liu</b>, MSc student (Edinburgh)</li>
+		<li class="list-group-item" style="border: none"><b>Bastien Mollet</b>, VRes exchange student (ENS Lyon)</li>
+		<li class="list-group-item" style="border: none"><b>Sasirasa Pratumsuwan</b>, Hons student (Edinburgh)</li>
+		<li class="list-group-item" style="border: none"><b>Yehezkiel Victorio</b>, MSc student (Edinburgh)</li>
+		<li class="list-group-item" style="border: none"><b>Ying Yang</b>, MSc and IGEM student (Edinburgh)</li>
+		<li class="list-group-item" style="border: none"><b>Yutong Ke</b>, MSc student (Edinburgh)</li>
+		<li class="list-group-item" style="border: none"><b>Maria Fernandez</b>, Hons student (Edinburgh)</li>
+		<li class="list-group-item" style="border: none"><b>Baird McIlwraith</b>, Hons student (Edinburgh)</li>
+	</ul>
+</div>
+</div>
+
+---
+
+<div class="container-fluid">
 	<div class="row">
 	<div class="col-sm">
 		<figure>
