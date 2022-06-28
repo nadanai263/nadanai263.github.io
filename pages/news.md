@@ -8,36 +8,33 @@ description: ---
 
 <ul>
 
-<p><li>19 May 2022 &#187; Nadanai gives a talk together with Jane Alexander at the Galvanised seminar series, organised by the Edinburgh Futures Institute. We discuss our <a href="https://www.shorelineofinfinity.com/product/biopolis-tales-of-urban-biology/">Biopolis</a> collaboration and our shared interests in the creative process in science and art. We had a great dicsussion with a very engaged audience. Thank you for the opportunity! 
- </li></p>
+<p><li>19 May 2022 &#187; We welcome Paula Paredes Vergara, an undergraduate student from Glasgow University, who starts a summer internship in our group to work on assembly methods to construct DNA templates for CFPS reactions. </li></p>
+
+<p><li>19 May 2022 &#187; Nadanai gives a talk together with Jane Alexander at the Galvanised seminar series, organised by the Edinburgh Futures Institute. We discuss our <a href="https://www.shorelineofinfinity.com/product/biopolis-tales-of-urban-biology/">Biopolis</a> collaboration and our shared interests in the creative process in science and art. We had a great dicsussion with a very engaged audience. Thank you for the opportunity! </li></p>
  <p><figure>
- <img src="/assets/images/Biopolis.png" width="40%" alt="social">
+ <img src="/assets/images/Biopolis.png" width="30%" alt="social">
  </figure></p>
- </li></p>
 
-<p><li>21 April 2022 &#187; Our first FLF postdoc, Tony Bougas, starts. He will be working on metabolomics of cell-free reactions. You can find out more about him <a href="{{ BASE_PATH }}/pages/people.html">here</a>.
- </li></p>
 
-<p><li>13 May 2022 &#187; We say goodbye to Yan Ting, Tim, Katie, and Dominik, who have successfully completed their rotations. We wish them all the best for the future! 
+<p><li>21 April 2022 &#187; Our first FLF postdoc, Tony Bougas, starts. He will be working on metabolomics of cell-free reactions. You can find out more about him <a href="{{ BASE_PATH }}/pages/people.html">here</a>.</li></p>
+
+<p><li>13 May 2022 &#187; We say goodbye to Yan Ting, Tim, Katie, and Dominik, who have successfully completed their rotations. We wish them all the best for their future careers.</li></p>
 <p><figure>
- <img src="/assets/images/social.jpeg" width="75%" alt="social">
+ <img src="/assets/images/social.jpeg" width="50%" alt="social">
  </figure></p>
- </li></p>
+
 
 <p><li>6 March 2022 &#187; Nadanai gives a talk at the 4th International Yeditepe University Genetics and Bioengineering Student Congress - sadly online, otherwise it would have been a great trip to Istanbul. Many thanks for the invitation!</li></p> 
 
-<p><li>4 March 2022 &#187; Our new Opentrons arrives. Cue some very excited PhD students.
+<p><li>4 March 2022 &#187; Our new Opentrons arrives. Cue some very excited PhD students. </li></p>
 <p><figure>
- <img src="/assets/images/ot2.jpeg" width="75%" alt="ot2">
+ <img src="/assets/images/ot2.jpeg" width="50%" alt="ot2">
  </figure></p>
- </li></p>
 
-<p><li>14 February 2022 &#187; We welcome Katie to a rotation project in our lab. Katie is a student on the Wellcome Integrative Cell Mechanisms PhD programme, and she will be learning about microfluidics as well as working with our new microarraying robot, nicknamed `Gus'. 
+<p><li>14 February 2022 &#187; We welcome Katie to a rotation project in our lab. Katie is a student on the Wellcome Integrative Cell Mechanisms PhD programme, and she will be learning about microfluidics as well as working with our new microarraying robot, nicknamed `Gus'.</li></p>
 <p><figure>
- <img src="/assets/images/gus.jpeg" width="75%" alt="gus">
+ <img src="/assets/images/gus.jpeg" width="50%" alt="gus">
  </figure></p>
- </li></p>
-
 
 <p><li>24 January 2022 &#187; We have two undergraduate Honours students joining us this term, Yan Ting Hee and Tim Bosse, to work on cell-free protein expression. We are very excited to welcome them into the lab for the first undergraduate wet-lab projects in two years!</li></p>
 
@@ -97,7 +94,7 @@ description: ---
 
  <p><li>11 Dec 2019 &#187; It's the end-of-year conference season! Nadanai presented his work at <a href="https://www.eventsforce.net/biochemsoc/frontend/reg/thome.csp?pageID=22575&eventID=52&traceRedir=2">SBUK 2019</a> in Warwick, and the <a href="https://www.aiche.org/sbe/conferences/cell-free-systems-conference/2019">Cell Free Systems Conference</a> in Boston. </li></p>
 
- <p><li>01 Nov 2019 &#187; 3 new PhD projects are now online. Check them out <a href="https://www.ed.ac.uk/biology/prospective-students/postgraduate-research/apply-for-a-phd/findaphd">here</a>. </li></p>
+ <p><li>01 Nov 2019 &#187; 3 new PhD projects are now online. Check them out <a href="https://www.ed.ac.uk/biology/prospective-students/postgraduate-research/apply-for-a-phd/findaphd">here</a>.</li></p>
  <p><li>31 Oct 2019 &#187; We've moved into our new lab space in the Roger Land Building! </li></p>
  <p><figure>
    <img src="/assets/images/lab1.jpg" width="75%" alt="lab_1">

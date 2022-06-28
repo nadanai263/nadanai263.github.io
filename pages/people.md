@@ -109,55 +109,6 @@ description: ---
 	</div>
 </div>
 
----
-
-
-<div class="container-fluid">
-	<div class="row">
-			<div class="col-sm-9 order-1">
-				<p><b>Tim Bosse</b> is a doing an Honours project measuring translation processivity in cell-free systems, by designing DNA constructs with spectrally distinct fluorescent proteins to determine at which point translation stops due to ribosome dissociation. In his own words: 'I was born in Britain but my mum is Russian and dad is German. I also spent 3 years living in Dubai when I was in my teens. All this culminated in my love for cosmopolitan, international settings, making Edinburgh an environment I cherish. At Edinburgh I study Biochemistry. At school I adored chemistry but yearned to see it in a more invigorating setting such as in the edifice of Biology; whenever I think this I imagine the intricacies of the workings of iron ions in haemoglobin. In my spare time I spend as much time reading as possible, and through this also learning/improving my languages. I enjoy fencing, swimming and basketball; though, playing the latter I managed to break my arm for a second time in my life!' <br>
-				</p>
-			</div>
-			<div class="col-sm order-2">
-			<figure>
-			<img src="/assets/images/TB.jpg" width="100%" alt="TB" class="float-left">
-				</figure>
-			</div>
-	</div>
-</div>
-
----
-
-
-<div class="container-fluid">
-	<div class="row">
-			<div class="col-sm-9 order-1">
-				<p><b>Yan Ting Hee</b> is a 4th year Biotechnology undergraduate at the University of Edinburgh. Her Honours project currently focuses on the expression of thrombin in cell free systems. She is interested in the endless possibilities found in synthetic biology and hopes to learn more about it for future applications. Originally from Malaysia, in her free time she enjoys learning more about the local cuisine or can be found reading a good book.  <br>
-				</p>
-			</div>
-			<div class="col-sm order-2">
-			<figure>
-			<img src="/assets/images/YTH.jpg" width="100%" alt="YTH" class="float-left">
-				</figure>
-			</div>
-	</div>
-</div>
-
----
-
-<div class="container-fluid">
-	<div class="row">
-			<div class="col-sm-9 order-1">
-				<p><b>Dominik Kopčak</b> is an undergraduate student from Slovakia studying biological sciences at the University of Edinburgh. He is currently working as an EPSRC Undergraduate Vacation Intern analysing the effects of transcription-translation complex formation on cell-free protein synthesis. He is interested in how physical laws shape and constrain organisms and biological processes in general.  <br>
-			    </p>
-			</div>
-			<div class="col-sm order-2">
-			<figure>
-			<img src="/assets/images/DK.jpg" width="100%" alt="DK" class="float-left">
-				</figure>
-			</div>
-	</div>
-</div>
 
 
 ---
@@ -168,14 +119,17 @@ description: ---
 <div class="container-fluid">
 <div class="row">
 	<ul class="list-group">
+		<li class="list-group-item" style="border: none"><b>Tim Bosse</b>, Hons student (Edinburgh)</li>	
+		<li class="list-group-item" style="border: none"><b>Yan Ting Hee</b>, Hons student (Edinburgh)</li>	
+		<li class="list-group-item" style="border: none"><b>Dominik Kopčak</b>, Undergraduate student (Edinburgh)</li>		
 		<li class="list-group-item" style="border: none"><b>Meijie Liu</b>, MSc student (Edinburgh)</li>
 		<li class="list-group-item" style="border: none"><b>Bastien Mollet</b>, VRes exchange student (ENS Lyon)</li>
-		<li class="list-group-item" style="border: none"><b>Sasirasa Pratumsuwan</b>, undergraduate honours student (Edinburgh)</li>
+		<li class="list-group-item" style="border: none"><b>Sasirasa Pratumsuwan</b>, Hons student (Edinburgh)</li>
 		<li class="list-group-item" style="border: none"><b>Yehezkiel Victorio</b>, MSc student (Edinburgh)</li>
 		<li class="list-group-item" style="border: none"><b>Ying Yang</b>, MSc and IGEM student (Edinburgh)</li>
 		<li class="list-group-item" style="border: none"><b>Yutong Ke</b>, MSc student (Edinburgh)</li>
-		<li class="list-group-item" style="border: none"><b>Maria Fernandez</b>, undergraduate honours student (Edinburgh)</li>
-		<li class="list-group-item" style="border: none"><b>Baird McIlwraith</b>, undergraduate honours student (Edinburgh)</li>
+		<li class="list-group-item" style="border: none"><b>Maria Fernandez</b>, Hons student (Edinburgh)</li>
+		<li class="list-group-item" style="border: none"><b>Baird McIlwraith</b>, Hons student (Edinburgh)</li>
 	</ul>
 </div>
 </div>
@@ -184,6 +138,15 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-sm">
+		<figure>
+		<img src="/assets/images/YTH.jpeg" class="img-fluid" alt="lab" width="80%">
+		</figure>
+		<figure>
+		<img src="/assets/images/TB.jpeg" class="img-fluid" alt="lab" width="80%">
+		</figure>
+		<figure>
+		<img src="/assets/images/DK.jpeg" class="img-fluid" alt="lab" width="80%">
+		</figure>
 		<figure>
 		<img src="/assets/images/ML.jpeg" class="img-fluid" alt="lab" width="80%">
 		</figure>
