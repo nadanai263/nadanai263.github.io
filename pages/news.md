@@ -31,7 +31,7 @@ description: ---
  <img src="/assets/images/ot2.jpg" width="50%" alt="ot2">
  </figure></p>
 
-<p><li>14 February 2022 &#187; We welcome Katie to a rotation project in our lab. Katie is a student on the Wellcome Integrative Cell Mechanisms PhD programme, and she will be learning about microfluidics as well as working with our new microarraying robot, nicknamed `Gus'.</li></p>
+<p><li>14 February 2022 &#187; We welcome Katie Bexley to a rotation project in our lab. Katie is a student on the Wellcome Integrative Cell Mechanisms PhD programme, and she will be learning about microfluidics as well as working with our new microarraying robot, nicknamed `Gus'.</li></p>
 <p><figure>
  <img src="/assets/images/gus.jpg" width="50%" alt="gus">
  </figure></p>
