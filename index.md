@@ -39,7 +39,7 @@ description: ---
 
 <p><li>13 May 2022 &#187; We say goodbye to Yan Ting, Tim, Katie, and Dominik, who have successfully completed their rotations. We wish them all the best for their future careers.</li></p>
 <p><figure>
- <img src="/assets/images/social.jpeg" width="50%" alt="social">
+ <img src="/assets/images/social.jpg" width="50%" alt="social">
  </figure></p>
 
 
@@ -47,12 +47,12 @@ description: ---
 
 <p><li>4 March 2022 &#187; Our new Opentrons arrives. Cue some very excited PhD students. </li></p>
 <p><figure>
- <img src="/assets/images/ot2.jpeg" width="50%" alt="ot2">
+ <img src="/assets/images/ot2.jpg" width="50%" alt="ot2">
  </figure></p>
 
 <p><li>14 February 2022 &#187; We welcome Katie to a rotation project in our lab. Katie is a student on the Wellcome Integrative Cell Mechanisms PhD programme, and she will be learning about microfluidics as well as working with our new microarraying robot, nicknamed `Gus'.</li></p>
 <p><figure>
- <img src="/assets/images/gus.jpeg" width="50%" alt="gus">
+ <img src="/assets/images/gus.jpg" width="50%" alt="gus">
  </figure></p>
 
 <p><li>24 January 2022 &#187; We have two undergraduate Honours students joining us this term, Yan Ting Hee and Tim Bosse, to work on cell-free protein expression. We are very excited to welcome them into the lab for the first undergraduate wet-lab projects in two years!</li></p>
