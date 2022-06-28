@@ -121,7 +121,7 @@ description: ---
 	<ul class="list-group">
 		<li class="list-group-item" style="border: none"><b>Tim Bosse</b>, Hons student (Edinburgh)</li>	
 		<li class="list-group-item" style="border: none"><b>Yan Ting Hee</b>, Hons student (Edinburgh)</li>	
-		<li class="list-group-item" style="border: none"><b>Dominik Kopčak</b>, Undergraduate student (Edinburgh)</li>		
+		<li class="list-group-item" style="border: none"><b>Dominik Kopčak</b>, Undergraduate student (Edinburgh)</li>	
 		<li class="list-group-item" style="border: none"><b>Meijie Liu</b>, MSc student (Edinburgh)</li>
 		<li class="list-group-item" style="border: none"><b>Bastien Mollet</b>, VRes exchange student (ENS Lyon)</li>
 		<li class="list-group-item" style="border: none"><b>Sasirasa Pratumsuwan</b>, Hons student (Edinburgh)</li>
@@ -139,14 +139,20 @@ description: ---
 	<div class="row">
 		<div class="col-sm">
 		<figure>
-		<img src="/assets/images/YTH.jpeg" class="img-fluid" alt="lab" width="80%">
+		<img src="/assets/images/YTH.jpg" class="img-fluid" alt="lab" width="80%">
 		</figure>
+		</div>
+		<div class="col-sm">
 		<figure>
-		<img src="/assets/images/TB.jpeg" class="img-fluid" alt="lab" width="80%">
+		<img src="/assets/images/TB.jpg" class="img-fluid" alt="lab" width="80%">
 		</figure>
+		</div>
+		<div class="col-sm">
 		<figure>
-		<img src="/assets/images/DK.jpeg" class="img-fluid" alt="lab" width="80%">
+		<img src="/assets/images/DK.jpg" class="img-fluid" alt="lab" width="80%">
 		</figure>
+		</div>
+		<div class="col-sm">
 		<figure>
 		<img src="/assets/images/ML.jpeg" class="img-fluid" alt="lab" width="80%">
 		</figure>
