@@ -225,7 +225,6 @@ description: ---
 		<img src="/assets/images/dinner.jpg" class="img-fluid" alt="lab" width="100%">
 		</figure>
 		</div>
-	</div>
 	<div class="col-sm">
 		<figure>
 		<img src="/assets/images/NLself.jpg" class="img-fluid" alt="lab" width="90%">
