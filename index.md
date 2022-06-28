@@ -27,35 +27,41 @@ description: ---
 <h3><a href="{{ BASE_PATH }}/pages/news.html">News</a></h3>
 
 <ul>
-	<p><li>24 January 2022 &#187; We have two undergraduate Honours students joining us this term, Yan Ting Hee and Tim Bosse, to work on cell-free protein expression. We are very excited to welcome them into the lab for the first undergraduate wet-lab projects in two years!
+<p><li>20 June 2022 &#187; We welcome Paula Paredes Vergara, an undergraduate student from Glasgow University, who starts a summer internship in our group to work on assembly methods to construct DNA templates for CFPS reactions. </li></p>
 
-	<p><li>21 January 2022 &#187; A very warm welcome to Sarah Paterson, who has just finished her first week with us. She is a new PhD student working on a Leverhulme-funded project to carry out protein engineering using cell-free systems and microfluidics. Read more about her <a href="{{ BASE_PATH }}/pages/people.html">here</a>. 
-		
-	<p><li>14 September 2021 &#187; We are advertising two postdoc positions as part of our new UKRI Future Leaders Fellowship research programme. One is in machine learning and high-throughput screening, and the other is in synthetic metabolism, both applied to cell-free reactions. Full details and links to apply <a href="{{ BASE_PATH }}/pages/research.html">here</a>. Please circulate widely!
+<p><li>19 May 2022 &#187; Nadanai gives a talk together with Jane Alexander at the Galvanised seminar series, organised by the Edinburgh Futures Institute. We discuss our <a href="https://www.shorelineofinfinity.com/product/biopolis-tales-of-urban-biology/">Biopolis</a> collaboration and our shared interests in the creative process in science and art. We had a great dicsussion with a very engaged audience. Thank you for the opportunity! </li></p>
+ <p><figure>
+ <img src="/assets/images/Biopolis.png" width="30%" alt="social">
+ </figure></p>
 
-	<p><li>8 September 2021 &#187; We are thrilled to announce that Nadanai has been awarded a <b>UKRI Future Leaders Fellowship</b>. This £1.5M, 4-year grant will help us kick-start our research into regenerative cell-free systems, and we are very excited to advertise two new postdoctoral positions to work on this project. Read more about the opportunities <a href="{{ BASE_PATH }}/pages/research.html">here</a>. The news has been featured on the <a href="https://www.ed.ac.uk/news/2021/visionary-research-celebrated-with-fellowships?utm_campaign=cam_news2021&utm_content=1631100903&utm_medium=social&utm_source=linkedin">university</a> as well as <a href="https://www.ed.ac.uk/biology/news-events/news-2021/nadanai-laohakunakorn-awarded-ukri-future-leaders">school</a> webpages.</li></p>
 
-	<p><li>30 August 2021 &#187; We say congratulations and goodbye to Meijie who will be returning to China after successfully completing her MSc project.</li></p>
+<p><li>21 April 2022 &#187; Our first FLF postdoc, Tony Bougas, starts. He will be working on metabolomics of cell-free reactions. You can find out more about him <a href="{{ BASE_PATH }}/pages/people.html">here</a>.</li></p>
 
-	<p><li>21 July 2021 &#187; Our microfluidics setup is ready to go, and we are now advertising a <b>Leverhulme Trust funded PhD project</b> to bring it to fruition. Please see the <a href="{{ BASE_PATH }}/pages/research.html">project description</a> for more details.</li></p>
+<p><li>13 May 2022 &#187; We say goodbye to Yan Ting, Tim, Katie, and Dominik, who have successfully completed their rotations. We wish them all the best for their future careers.</li></p>
+<p><figure>
+ <img src="/assets/images/social.jpeg" width="50%" alt="social">
+ </figure></p>
 
-	<p><li>21 June 2021 &#187; Summer is here, and with it a change of personnel and activities. We say goodbye to Sasirasa and Bastien, and welcome <a href="{{ BASE_PATH }}/pages/people.html">Dominik</a>, who has been awarded an EPSRC undergraduate vacation internship to work with us for the next couple of months.</li></p>
 
-	<p><li>10 May 2021 &#187; We welcome Meijie who is joining us as a new MSc student this summer. Read all about her <a href="{{ BASE_PATH }}/pages/people.html">here</a>.</li></p>
+<p><li>6 March 2022 &#187; Nadanai gives a talk at the 4th International Yeditepe University Genetics and Bioengineering Student Congress - sadly online, otherwise it would have been a great trip to Istanbul. Many thanks for the invitation!</li></p> 
 
-	<p><li>15 Mar 2021 &#187; A new studentship has just been advertised as part of the IBioIC CTP programme, between ours and Chris French's <a href="http://frenchlab.bio.ed.ac.uk">lab</a>, and in collaboration with the Scotch Whisky Research Institute. The aim is to develop cell-free biosensors to monitor whisky quality. Funding is available for UK or EU students resident in the UK for 3 years prior to start of studentship. More info and apply <a href="https://www.findaphd.com/phds/project/development-of-biosensor-technology-for-the-measurement-and-control-of-off-note-flavours-in-the-scotch-whisky-industry/?p130850">here</a> by the deadline of 9th April 2021.  </li></p>
+<p><li>4 March 2022 &#187; Our new Opentrons arrives. Cue some very excited PhD students. </li></p>
+<p><figure>
+ <img src="/assets/images/ot2.jpeg" width="50%" alt="ot2">
+ </figure></p>
 
-	<p><li>11 Mar 2021 &#187; Nadanai is back at SynthSys to present at the Open Centre Meeting, on self-regeneration in cell-free systems.</li></p>
+<p><li>14 February 2022 &#187; We welcome Katie to a rotation project in our lab. Katie is a student on the Wellcome Integrative Cell Mechanisms PhD programme, and she will be learning about microfluidics as well as working with our new microarraying robot, nicknamed `Gus'.</li></p>
+<p><figure>
+ <img src="/assets/images/gus.jpeg" width="50%" alt="gus">
+ </figure></p>
 
-	<p><li>8 Feb 2021 &#187; We are very excited to be supporting the new International Directed Evolution Competition (<a href="https://idec.io/">IDEC</a>), which aims to harness irrational design to complement existing rational design efforts for engineering biology. Find out more information, and how you can take part, at their website. </li></p>
+<p><li>24 January 2022 &#187; We have two undergraduate Honours students joining us this term, Yan Ting Hee and Tim Bosse, to work on cell-free protein expression. We are very excited to welcome them into the lab for the first undergraduate wet-lab projects in two years!</li></p>
 
-	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A new competition harnessing one of the most powerful approaches in <a href="https://twitter.com/hashtag/synbio?src=hash&amp;ref_src=twsrc%5Etfw">#synbio</a> today: very excited to see what we can produce with brilliant students + <a href="https://twitter.com/hashtag/directedevolution?src=hash&amp;ref_src=twsrc%5Etfw">#directedevolution</a> <a href="https://t.co/xly5majIzD">https://t.co/xly5majIzD</a></p>&mdash; Nadanai L (@nadanai263) <a href="https://twitter.com/nadanai263/status/1358709339440218112?ref_src=twsrc%5Etfw">February 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-	
-	<p><li>11 Jan 2021 &#187; Happy new year everyone! Delighted to welcome two new starts to the lab: Surendra Yadav, a new PhD student who is joining us from India, and Bastien Mollet, a visiting Masters student from France. Have a look at their biographies on the <a href="{{ BASE_PATH }}/pages/people.html">People</a> section. </li></p>
+<p><li>21 January 2022 &#187; A very warm welcome to Sarah Paterson, who has just finished her first week with us. She is a new PhD student working on a Leverhulme-funded project to carry out protein engineering using cell-free systems and microfluidics. Read more about her <a href="{{ BASE_PATH }}/pages/people.html">here</a>.</li></p> 
 
-	<p><li>11 Dec 2020 &#187; Our self-regeneration paper is finally published, in time for the holidays. Great collaboration with Barbora Lavickova and Sebastian Maerkl at <a href="http://lbnc.epfl.ch/">LBNC</a>: </li></p>
+<p><li>14 September 2021 &#187; We are advertising two postdoc positions as part of our new UKRI Future Leaders Fellowship programme. One is in machine learning and high-throughput screening, and the other is in synthetic metabolism, both applied to cell-free reactions. Full details and links to apply <a href="{{ BASE_PATH }}/pages/research.html">here</a>. Please circulate widely!</li></p>
 
-	<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Very proud of our work published today, demonstrating regeneration of components in a purified <a href="https://twitter.com/hashtag/cellfree?src=hash&amp;ref_src=twsrc%5Etfw">#cellfree</a> system, in collaboration with Barbora Lavickova and <a href="https://twitter.com/SebastianMaerkl?ref_src=twsrc%5Etfw">@SebastianMaerkl</a> at <a href="https://twitter.com/MaerklLab?ref_src=twsrc%5Etfw">@MaerklLab</a>. <a href="https://t.co/nbyfe639zJ">https://t.co/nbyfe639zJ</a></p>&mdash; Nadanai L (@nadanai263) <a href="https://twitter.com/nadanai263/status/1337372721265651719?ref_src=twsrc%5Etfw">December 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<p><li>8 September 2021 &#187; We are thrilled to announce that Nadanai has been awarded a <b>UKRI Future Leaders Fellowship</b>. This £1.5M, 4-year grant will help us kick-start our research into regenerative cell-free systems, and we are very excited to advertise two new postdoctoral positions to work on this project. Read more about the opportunities <a href="{{ BASE_PATH }}/pages/research.html">here</a>. The news has been featured on the <a href="https://www.ed.ac.uk/news/2021/visionary-research-celebrated-with-fellowships?utm_campaign=cam_news2021&utm_content=1631100903&utm_medium=social&utm_source=linkedin">university</a> as well as <a href="https://www.ed.ac.uk/biology/news-events/news-2021/nadanai-laohakunakorn-awarded-ukri-future-leaders">school</a> webpages.</li></p>
 
 </ul>
 

@@ -180,6 +180,18 @@ description: ---
 	<div class="row">
 	<div class="col-sm">
 		<figure>
+		<img src="/assets/images/meeting.jpeg" class="img-fluid" alt="lab" width="100%">
+		</figure>
+		</div>
+	<div class="col-sm">
+		<figure>
+		<img src="/assets/images/social2.jpg" class="img-fluid" alt="lab" width="100%">
+		</figure>
+		</div>
+	</div>
+	<div class="row">
+	<div class="col-sm">
+		<figure>
 		<img src="/assets/images/lab2021.png" class="img-fluid" alt="lab" width="100%">
 		</figure>
 		</div>

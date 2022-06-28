@@ -8,7 +8,7 @@ description: ---
 
 <ul>
 
-<p><li>19 May 2022 &#187; We welcome Paula Paredes Vergara, an undergraduate student from Glasgow University, who starts a summer internship in our group to work on assembly methods to construct DNA templates for CFPS reactions. </li></p>
+<p><li>20 June 2022 &#187; We welcome Paula Paredes Vergara, an undergraduate student from Glasgow University, who starts a summer internship in our group to work on assembly methods to construct DNA templates for CFPS reactions. </li></p>
 
 <p><li>19 May 2022 &#187; Nadanai gives a talk together with Jane Alexander at the Galvanised seminar series, organised by the Edinburgh Futures Institute. We discuss our <a href="https://www.shorelineofinfinity.com/product/biopolis-tales-of-urban-biology/">Biopolis</a> collaboration and our shared interests in the creative process in science and art. We had a great dicsussion with a very engaged audience. Thank you for the opportunity! </li></p>
  <p><figure>
