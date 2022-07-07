@@ -9,6 +9,16 @@ description: ---
 <div class="row">
 	<div class="col-sm-8 order-1">
 	<ul>
+	<li>Thornton, EL, Paterson SM, Gidden Z, Horrocks MH, <b>Laohakunakorn N</b> & Regan L (2022) Self-assembling protein surfaces for in situ capture of cell-free-synthesized proteins. <i>Frontiers in Bioengineering and Biotechnology</i> <b>10</b> <a href="https://doi.org/10.3389/fbioe.2022.915035">https://doi.org/10.3389/fbioe.2022.915035</a></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-sm-8 order-1">
+	<ul>
 	<li><b>Laohakunakorn N</b>, Lavickova B, Swank Z, Laurent J & Maerkl SJ (2021) Steady-state cell-free gene expression with microfluidic chemostats.  <i>In: Menolascina F. (eds) Synthetic Gene Circuits. Methods in Molecular Biology</i> <b>2229</b> <a href="https://doi.org/10.1007/978-1-0716-1032-9_9">https://doi.org/10.1007/978-1-0716-1032-9_9</a></li>
 	</ul>
 	</div>
