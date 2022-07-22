@@ -42,11 +42,6 @@ description: ---
 </div>
 
 ---
-<div class="container-fluid">
-<h3>Current members</h3>
-</div>
-
-<br>
 
 <div class="container-fluid">
 	<div class="row">
@@ -256,7 +251,7 @@ description: ---
 	<div class="row">
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/meeting2.jpg" class="img-fluid" alt="lab" width="100%">
+		<img src="/assets/images/meeting2.jpg" class="img-fluid" alt="lab" width="120%">
 		</figure>
 		</div>
 	<div class="col-sm">
