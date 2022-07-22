@@ -9,6 +9,8 @@ description: ---
 <ul>
 <p><li>7 July 2022 &#187; Congratulations to Sarah who has published a paper, in collaboration with Ella Thornton, Zoe Gidden, Mathew Horrocks, and Lynne Regan, on a new surface immobilisation technique for cell-free synthesised proteins. Read it <a href="https://doi.org/10.3389/fbioe.2022.915035">here</a>! </li></p>
 
+<p><li>4 July 2022 &#187; Our second FLF postdoc, Sahan Liyanagedera, has just started; he'll be working on high-throughput screens of purified cell-free reactions in collaboration with the Edinburgh Genome Foundry. Read more about him <a href="{{ BASE_PATH }}/pages/people.html">here</a>.</li></p>
+
 <p><li>28 June 2022 &#187; Nadanai gave an interview for BioPOD, the School of Biological Sciences podcast, where he discusses his background, how he became interested in synthetic biology, and his current research in cell-free systems. You can listen to the episode <a href="https://podcasts.apple.com/gb/podcast/biology-without-the-cells-with-dr-nadanai-laohakunakorn/id1465890427?i=1000567963984/">here.</a> </li></p>
 
 <p><li>20 June 2022 &#187; We welcome Paula Paredes Vergara, an undergraduate student from Glasgow University, who starts a summer internship in our group to work on assembly methods to construct DNA templates for CFPS reactions. </li></p>

@@ -29,13 +29,35 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
+				<p><b>Dr Sahan Liyanagedera</b> is working in collaboration with the Edinburgh Genome Foundry on developing high-throughput methods to screen the PURE system against putative components which are hypothesised to enhance either its yield or its function. Originally from Sri Lanka, he grew up in London and went on to study Biomedical Sciences at the Peninsula School of Medicine, University of Plymouth and graduated in 2015. Excited by the rapid advances in Biotechnology, he pursued a Masters in Research in Synthetic Biology at UCL under the supervision of Dr Darren Nesbeth. Here he developed a de-novo Transketolase and Transaminase fusion enzyme that could be utilised for the one-pot synthesis of chiral amino-alcohols in the industrially relevant host <em>Pichia pastoris</em>. In 2017 he secured a 4-year EPSRC-funded PhD position in the lab of Dr Vishwesh Kulkarni at the University of Warwick. During this time, he developed the TXTL-based SpyPhage Platform that enables the rapid cell-free production and post-translational modification of bacteriophages for phage therapy. In his spare time, he enjoys playing football and cricket with friends and long bicycle rides on gravel tracks in the countryside.  <br>
+			<a href="mailto:sliyanag@exseed.ed.ac.uk"><i class="fas fa-envelope"></i></a> <a href="https://www.linkedin.com/in/sahan-b-w-liyanagedera-1b2a7a124/"><i class="fab fa-linkedin"></i></a>
+			</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/SL.png" width="100%" alt="SL" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+<div class="container-fluid">
+<h3>Current members</h3>
+</div>
+
+<br>
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
 				<p><b>Dr Antonios Bougas</b> is working on a collaborative project between the Laohakunakorn group and the Burgess group at the EdinOmics facility. He is investigating the role of metabolites derived from energy regeneration pathways and their impact on protein synthesis which is used to power cell-free systems. Originally from Corinthia, he graduated from the Department of Biology, University of Patras, Greece. Subsequently, he secured a PhD fellowship through the competitive call from the Greek State Scholarships Foundation and carried on his postgraduate studies at the Department of Biochemistry, School of Medicine, Patras. During that time, he focused on the study of both eukaryotic and bacterial ribosomes, in the process of evaluating novel protein synthesis inhibitors. Specifically, he investigated the kinetics and context-specificity of antibiotics targeting the bacterial ribosome, as well as their effect on the emerging translatome using high-throughput techniques. During his leisure time he enjoys playing basketball with friends and practising amateur photography as an excuse to travel to new places. <br>
 			<a href="mailto:tony.bougas@ed.ac.uk"><i class="fas fa-envelope"></i></a>
 			</p>
 			</div>
 			<div class="col-sm order-2">
 			<figure>
-			<img src="/assets/images/TBo.jpg" width="100%" alt="SP" class="float-left">
+			<img src="/assets/images/TBo.jpg" width="100%" alt="AB" class="float-left">
 				</figure>
 			</div>
 	</div>
@@ -104,6 +126,23 @@ description: ---
 			<div class="col-sm order-2">
 			<figure>
 			<img src="/assets/images/MS.jpg" width="100%" alt="MS" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
+				<p><b>Paula Paredes Vergara</b>: I’m an undergraduate student currently studying for an MSci in biochemistry at the University of Glasgow. During June-August 2022 I’ll be working in Dr Laohakunakorn’s group to design and test a strategy for assembling linear DNA templates for use in cell-free protein synthesis (CFPS) reactions. I’ll be using Golden Gate assembly to create these templates and explore this technique for the design of circularized DNA templates as well. With this project I hope to establish protocols and demonstrate that this technique can be very useful and less time consuming than the current cloning methods used in CFPS. My aim during my time here is to learn new molecular techniques and explore the field of synthetic biology which already greatly interests me. <br>
+			<a href="mailto:michael.stam@ed.ac.uk"><i class="fas fa-envelope"></i></a> <a href="https://www.linkedin.com/in/paula-paredes-vergara-a82b261a3/"><i class="fab fa-linkedin"></i></a> 
+			</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/PPV.jpeg" width="100%" alt="PPV" class="float-left">
 				</figure>
 			</div>
 	</div>
@@ -227,7 +266,7 @@ description: ---
 		</div>
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/NLself.jpg" class="img-fluid" alt="lab" width="90%">
+		<img src="/assets/images/NLself.jpg" class="img-fluid" alt="lab" width="60%">
 		</figure>
 		</div>
 	</div>
