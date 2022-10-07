@@ -27,6 +27,8 @@ description: ---
 <h3><a href="{{ BASE_PATH }}/pages/news.html">News</a></h3>
 
 <ul>
+<p><li>3 October 2022 &#187; At the start of a new academic year, we say goodbye to Paula after a very successful summer project. We welcome <a href="{{ BASE_PATH }}/pages/people.html">Christoph Wagner</a>, a new PhD student co-supervised with Andrea Weisse's group, who will be working on regenerating cell-free systems. And we congratulate Sahan on publishing his paper on <a href="https://doi.org/10.1021/acssynbio.2c00244"> phage engineering in cell-free</a>. Lots of good news all around! </li></p>
+
 <p><li>7 July 2022 &#187; Congratulations to Sarah who has published a paper, in collaboration with Ella Thornton, Zoe Gidden, Mathew Horrocks, and Lynne Regan, on a new surface immobilisation technique for cell-free synthesised proteins. Read it <a href="https://doi.org/10.3389/fbioe.2022.915035">here</a>! </li></p>
 
 <p><li>4 July 2022 &#187; Our second FLF postdoc, Sahan Liyanagedera, has just started; he'll be working on high-throughput screens of purified cell-free reactions in collaboration with the Edinburgh Genome Foundry. Read more about him <a href="{{ BASE_PATH }}/pages/people.html">here</a>.</li></p>
