@@ -63,6 +63,23 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
+				<p><b>Christoph Wagner</b> is an EASTBIO-funded PhD student, researching the ability of cells to self-regenerate their components. He is carrying out his work jointly between the Laohakunakorn group, where he conducts cell-free microfluidics experiments on maximally controlled transcription-translation systems, and the Weisse group in IQB3, where his results inform models to predict the self-regenerating behaviour. He wants to understand, what parameters govern this aspect of life and how we can optimise them in the context of synthetic cells. After betraying the love for his hometown Cologne, he both finished his Bachelor's in Quantitative Biology and subsequently studied his Master's in Synthetic Biology in Düsseldorf, Germany. There, he explored the possibility of quantitatively engineering a plant's phenotype by means of genetic modification, which sparked his enthusiasm for interfacing nature and technology. In his free time, you may find him writing short stories on his blog about all things science, practicing amateur woodworking or running, usually in circles.<br>
+			<a href="mailto:c.s.wagner@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a>
+			</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/CW.jpg" width="100%" alt="CW" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
 				<p><b>Sarah Paterson</b> is a PhD student funded by the Leverhulme Trust working on cell-free protein synthesis using high throughput microfluidics. She holds a Master's in pharmacy from the University of Strathclyde as well as an MSc in Biomedical Engineering. Sarah gained experience in cell culture working within the start-up company “ScreenIn3D” using microfluidic platforms to create 3D tumour microenvironments for drug screening assays. She is interested in applying engineering principles to the design and construction of biological systems. As a keen runner you’ll find Sarah running around muddy fields on weekends competing in cross country races.<br>
 			<a href="mailto:s.paterson-10@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a>
 			</p>
@@ -129,29 +146,13 @@ description: ---
 ---
 
 <div class="container-fluid">
-	<div class="row">
-			<div class="col-sm-9 order-1">
-				<p><b>Paula Paredes Vergara</b>: I’m an undergraduate student currently studying for an MSci in biochemistry at the University of Glasgow. During June-August 2022 I’ll be working in Dr Laohakunakorn’s group to design and test a strategy for assembling linear DNA templates for use in cell-free protein synthesis (CFPS) reactions. I’ll be using Golden Gate assembly to create these templates and explore this technique for the design of circularized DNA templates as well. With this project I hope to establish protocols and demonstrate that this technique can be very useful and less time consuming than the current cloning methods used in CFPS. My aim during my time here is to learn new molecular techniques and explore the field of synthetic biology which already greatly interests me. <br>
-			<a href="mailto:michael.stam@ed.ac.uk"><i class="fas fa-envelope"></i></a> <a href="https://www.linkedin.com/in/paula-paredes-vergara-a82b261a3/"><i class="fab fa-linkedin"></i></a> 
-			</p>
-			</div>
-			<div class="col-sm order-2">
-			<figure>
-			<img src="/assets/images/PPV.jpeg" width="100%" alt="PPV" class="float-left">
-				</figure>
-			</div>
-	</div>
-</div>
-
----
-
-<div class="container-fluid">
 <h3>Alumni</h3>
 </div>
 
 <div class="container-fluid">
 <div class="row">
 	<ul class="list-group">
+		<li class="list-group-item" style="border: none"><b>Paula Paredes Vergara</b>, Summer student (University of Glasgow)</li>	
 		<li class="list-group-item" style="border: none"><b>Tim Bosse</b>, Hons student (Edinburgh)</li>	
 		<li class="list-group-item" style="border: none"><b>Yan Ting Hee</b>, Hons student (Edinburgh)</li>	
 		<li class="list-group-item" style="border: none"><b>Dominik Kopčak</b>, Undergraduate student (Edinburgh)</li>	
@@ -170,6 +171,11 @@ description: ---
 
 <div class="container-fluid">
 	<div class="row">
+		<div class="col-sm">
+		<figure>
+		<img src="/assets/images/PPV.jpeg" class="img-fluid" alt="lab" width="80%">
+		</figure>
+		</div>
 		<div class="col-sm">
 		<figure>
 		<img src="/assets/images/YTH.jpg" class="img-fluid" alt="lab" width="80%">
