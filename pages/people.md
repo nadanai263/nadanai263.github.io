@@ -283,19 +283,7 @@ description: ---
 		</div>
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/NLself.jpg" class="img-fluid" alt="lab" width="60%">
-		</figure>
-		</div>
-	</div>
-	<div class="row">
-	<div class="col-sm">
-		<figure>
-		<img src="/assets/images/surendra.jpg" class="img-fluid" alt="lab" width="50%">
-		</figure>
-		</div>
-	<div class="col-sm">
-		<figure>
-		<img src="/assets/images/social3.jpeg" class="img-fluid" alt="lab" width="35%">
+		<img src="/assets/images/social3.jpeg" class="img-fluid" alt="lab" width="100%">
 		</figure>
 		</div>
 	</div>
