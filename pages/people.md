@@ -30,7 +30,7 @@ description: ---
 	<div class="row">
 			<div class="col-sm-9 order-1">
 				<p><b>Dr Sahan Liyanagedera</b> is working in collaboration with the Edinburgh Genome Foundry on developing high-throughput methods to screen the PURE system against putative components which are hypothesised to enhance either its yield or its function. Originally from Sri Lanka, he grew up in London and went on to study Biomedical Sciences at the Peninsula School of Medicine, University of Plymouth and graduated in 2015. Excited by the rapid advances in Biotechnology, he pursued a Masters in Research in Synthetic Biology at UCL under the supervision of Dr Darren Nesbeth. Here he developed a de-novo Transketolase and Transaminase fusion enzyme that could be utilised for the one-pot synthesis of chiral amino-alcohols in the industrially relevant host <em>Pichia pastoris</em>. In 2017 he secured a 4-year EPSRC-funded PhD position in the lab of Dr Vishwesh Kulkarni at the University of Warwick. During this time, he developed the TXTL-based SpyPhage Platform that enables the rapid cell-free production and post-translational modification of bacteriophages for phage therapy. In his spare time, he enjoys playing football and cricket with friends and long bicycle rides on gravel tracks in the countryside.  <br>
-			<a href="mailto:sliyanag@exseed.ed.ac.uk"><i class="fas fa-envelope"></i></a> <a href="https://www.linkedin.com/in/sahan-b-w-liyanagedera-1b2a7a124/"><i class="fab fa-linkedin"></i></a><a href="https://twitter.com/SLiyanagedera"><i class="fab fa-twitter-square"></i></a>
+			<a href="mailto:sliyanag@exseed.ed.ac.uk"><i class="fas fa-envelope"></i></a> <a href="https://www.linkedin.com/in/sahan-b-w-liyanagedera-1b2a7a124/"><i class="fab fa-linkedin"></i></a> <a href="https://twitter.com/SLiyanagedera"><i class="fab fa-twitter-square"></i></a>
 			</p>
 			</div>
 			<div class="col-sm order-2">
@@ -63,7 +63,7 @@ description: ---
 	<div class="row">
 			<div class="col-sm-9 order-1">
 				<p><b>Dr Sandy Nelson</b> is a PhD student funded by the CDT in Biomedical AI. He is researching robust biodesign for cell-free systems using probabilistic approaches, working jointly with the <a href="https://michaelgutmann.github.io/">Gutmann</a> group (Informatics), the Laohakunakorn group and the Weiße group (IQB3). He studied physics and experimental psychology at Durham University then a PhD in cognitive science at Edinburgh University. While there, he was involved in research projects at the School of Informatics on computational models of memory and text processing. In 2017 Sandy joined DeepMind as founding product manager for its Science Team. He program managed the application of machine learning to protein folding and problems in physics including glassy dynamics and Density Functional Theory. Before DeepMind, Sandy spent 10 years at Amazon as a Senior Software Development Manager, where he was responsible for worldwide dynamic personalised merchandising and led teams mining the product catalogue for relationships that drove features like AutoRip, movie discovery on Fire TV and music discovery on Echo. <br>
-			<a href="mailto:sandy.nelson@ed.ac.uk"><i class="fas fa-envelope"></i></a><a href="https://www.linkedin.com/in/sandywrnelson/"><i class="fab fa-linkedin"></i></a>
+			<a href="mailto:sandy.nelson@ed.ac.uk"><i class="fas fa-envelope"></i></a> <a href="https://www.linkedin.com/in/sandywrnelson/"><i class="fab fa-linkedin"></i></a>
 			</p>
 			</div>
 			<div class="col-sm order-2">
@@ -278,7 +278,7 @@ description: ---
 		</div>
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/dinner.jpg" class="img-fluid" alt="lab" width="100%">
+		<img src="/assets/images/dinner.jpg" class="img-fluid" alt="lab" width="110%">
 		</figure>
 		</div>
 	<div class="col-sm">
@@ -286,16 +286,16 @@ description: ---
 		<img src="/assets/images/NLself.jpg" class="img-fluid" alt="lab" width="60%">
 		</figure>
 		</div>
-	<div class="col-sm">
-		<figure>
-		<img src="/assets/images/surendra.jpg" class="img-fluid" alt="lab" width="60%">
-		</figure>
-		</div>
 	</div>
 	<div class="row">
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/social3.jpeg" class="img-fluid" alt="lab" width="25%">
+		<img src="/assets/images/surendra.jpg" class="img-fluid" alt="lab" width="50%">
+		</figure>
+		</div>
+	<div class="col-sm">
+		<figure>
+		<img src="/assets/images/social3.jpeg" class="img-fluid" alt="lab" width="35%">
 		</figure>
 		</div>
 	</div>
