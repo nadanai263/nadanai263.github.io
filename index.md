@@ -27,6 +27,8 @@ description: ---
 <h3><a href="{{ BASE_PATH }}/pages/news.html">News</a></h3>
 
 <ul>
+<p><li>16 January 2023 &#187; We welcome Dev Vaidya to our lab to begin an honours project investigating cell-free enzyme encapsulation, as well as Aarushi Ruhela, a PhD student co-supervised with Jamie Marland, who will study electronic interfaces to cell-free reactions. </li></p>
+
 <p><li>3 October 2022 &#187; At the start of a new academic year, we say goodbye to Paula after a very successful summer project. We welcome <a href="{{ BASE_PATH }}/pages/people.html">Christoph Wagner</a>, a new PhD student co-supervised with Andrea Weisse's group, who will be working on regenerating cell-free systems. And we congratulate Sahan on publishing his paper on <a href="https://doi.org/10.1021/acssynbio.2c00244"> phage engineering in cell-free</a>. Lots of good news all around! </li></p>
 
 <p><li>7 July 2022 &#187; Congratulations to Sarah who has published a paper, in collaboration with Ella Thornton, Zoe Gidden, Mathew Horrocks, and Lynne Regan, on a new surface immobilisation technique for cell-free synthesised proteins. Read it <a href="https://doi.org/10.3389/fbioe.2022.915035">here</a>! </li></p>
