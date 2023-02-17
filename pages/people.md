@@ -162,6 +162,40 @@ description: ---
 ---
 
 <div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
+				<p><b>Aarushi Ruhela/b> is a PhD student funded by the University of Edinburgh, working on the interface of electronics and synthetic biology. She is co-supervised by Dr Jamie Marland in the School of Engineering, where she will be working on developing a multiplexed electronic readout system for biochemical reactions inside microfluidic devices. In the Laohakunakorn group, she is currently working to prepare optimised <em>E.coli</em> lysates to express horseradish peroxidase, which will be used as a reporter for her electronic system.  Aarushi moved to UK from India in 2021 because of her keen interests to learn and explore cancer research. She did her MRes from the Imperial College London in cancer technology where she developed a microfluidics device to study the interaction between cancer organoids and immune cells. Later, she joined the Institute of Cancer Research to explore more about the cancer biology and study the heterogeneity in PDAC. She is a biochemical engineer from her undergraduate degree; therefore, she has a good experience with always working on the bridge between biology and engineering. In her free time, she loves to read about philosophy and write small quotes. In addition, she also enjoys painting and photography.   <br>
+			<a href="mailto:a.ruhela@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> 
+			</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/AR.jpeg" width="100%" alt="AR" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
+				<p><b>Dev Vaidya</b> is a BSc honours student studying Molecular Biology. He worked over the summer as member and leader of the <a href="https://idec-teams.github.io/2022_Edinburgh-UHAS_Ghana/">iDEC</a> and <a href="https://2022.igem.wiki/edinburgh-uhas-ghana/team">iGEM</a> teams at the university, which investigated the directed evolution of metallothioneins and cell-free transcriptional biosensors for heavy metals. This is where he got introduced to cell-free systems. He is currently pursuing a project on tethering enzymes in an ATP regeneration pathway. In his free time, Dev likes to cook spicy food, take care of challenging houseplants and play the piano.  <br>
+			<a href="mailto:d.vaidya@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> 
+			</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/DV.jpg" width="100%" alt="DV" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+<div class="container-fluid">
 <h3>Alumni</h3>
 </div>
 
