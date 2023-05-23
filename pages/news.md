@@ -9,10 +9,17 @@ description: ---
 <ul>
 <p><li>1 May 2023 &#187; We welcome Junming Li to start her MSc in our lab, continuing on Dev's excellent work involving encapsulated enzymes in cell-free systems.</li></p>
 
-<p><li>22 April 2023 &#187; We had fine weather for our group hike at the Hermitage in Dunkeld!</li></p>
- <p><figure>
- <img src="/assets/images/hike.jpg" width="40%" alt="social">
- </figure></p>
+<p><li>22 April 2023 &#187; We had fine weather for our group hike at the Hermitage in Dunkeld:</li></p>
+<div class="container-fluid">
+  <div class="row">
+  <div class="col-sm">
+    <figure>
+     <img src="/assets/images/hike.jpg" width="40%" alt="social">
+    </figure>
+    </div>
+  </div>
+</div>
+
 
 <p><li>21 March 2023 &#187; Nadanai gives a talk at the <a href="https://www.munich-iapbp.de/engineering-life">Engineering Life</a> conference at MIAPbP in Munich. It was a very interesting workshop, with plenty of discussions about the big questions in synthetic biology!</li></p>
 
