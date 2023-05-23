@@ -8,17 +8,7 @@ description: ---
 	<div class="row">
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/hike2.jpg" class="img-fluid" alt="hike2" width="30%">
-		</figure>
-		</div>
-	<div class="col-sm">
-		<figure>
-		<img src="/assets/images/hike_crop.jpg" class="img-fluid" alt="hike2" width="50%">
-		</figure>
-		</div>
-	<div class="col-sm">
-		<figure>
-		<img src="/assets/images/hike3.jpg" class="img-fluid" alt="hike3" width="20%">
+		<img src="/assets/images/social.png" class="img-fluid" alt="social" width="90%">
 		</figure>
 		</div>
 	</div>
