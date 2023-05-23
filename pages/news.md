@@ -14,12 +14,11 @@ description: ---
   <div class="row">
   <div class="col-sm">
     <figure>
-     <img src="/assets/images/hike.jpg" width="40%" alt="social">
+     <img src="/assets/images/hike_crop.jpg" width="60%" alt="social">
     </figure>
     </div>
   </div>
 </div>
-
 
 <p><li>21 March 2023 &#187; Nadanai gives a talk at the <a href="https://www.munich-iapbp.de/engineering-life">Engineering Life</a> conference at MIAPbP in Munich. It was a very interesting workshop, with plenty of discussions about the big questions in synthetic biology!</li></p>
 

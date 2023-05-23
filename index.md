@@ -35,7 +35,7 @@ description: ---
   <div class="row">
   <div class="col-sm">
     <figure>
-     <img src="/assets/images/hike.jpg" width="40%" alt="social">
+     <img src="/assets/images/hike_crop.jpg" width="40%" alt="social">
     </figure>
     </div>
   </div>

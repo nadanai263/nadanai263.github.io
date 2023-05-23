@@ -8,7 +8,7 @@ description: ---
 	<div class="row">
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/hike2.jpg" class="img-fluid" alt="hike2" width="50%">
+		<img src="/assets/images/hike2.jpg" class="img-fluid" alt="hike2" width="30%">
 		</figure>
 		</div>
 	<div class="col-sm">
@@ -18,7 +18,7 @@ description: ---
 		</div>
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/hike3.jpg" class="img-fluid" alt="hike3" width="40%">
+		<img src="/assets/images/hike3.jpg" class="img-fluid" alt="hike3" width="20%">
 		</figure>
 		</div>
 	</div>
