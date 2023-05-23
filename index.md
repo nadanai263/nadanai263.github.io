@@ -32,9 +32,9 @@ description: ---
 
 <p><li>22 April 2023 &#187; We had fine weather for our group hike at the Hermitage in Dunkeld!</li></p>
  <p><figure>
- <img src="/assets/images/hike.png" width="40%" alt="social">
+ <img src="/assets/images/hike.jpg" width="40%" alt="social">
  </figure></p>
- 
+
 <p><li>21 March 2023 &#187; Nadanai gives a talk at the <a href="https://www.munich-iapbp.de/engineering-life">Engineering Life</a> conference at MIAPbP in Munich. It was a very interesting workshop, with plenty of discussions about the big questions in synthetic biology!</li></p>
 
 <p><li>16 January 2023 &#187; We welcome Dev Vaidya to our lab to begin an honours project investigating cell-free enzyme encapsulation, as well as Aarushi Ruhela, a PhD student co-supervised with Jamie Marland in the School of Engineering, who will study electronic interfaces to cell-free reactions. </li></p>

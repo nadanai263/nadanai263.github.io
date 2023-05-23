@@ -50,6 +50,7 @@ We gratefully acknowledge support from the following organizations:
 
 <a href="http://www.eastscotbiodtp.ac.uk/"><img src="/assets/images/eastbio.png" width="60%" alt="Eastbio"/></a> &nbsp;
 <a href="https://www.carnegie-trust.org/"><img src="/assets/images/carnegie.png" width="38%" alt="Carnegie"/></a> &nbsp;
+<a href="https://www.leverhulme.ac.uk/"><img src="/assets/images/logo_FLF.png" width="35%" alt="FLF"/></a> &nbsp;
 <a href="https://wellcome.org/"><img src="/assets/images/wellcome.png" width="10%" alt="Wellcome"/></a> &nbsp;
 <a href="https://fujifilmdiosynth.com/"><img src="/assets/images/fdb.jpg" width="20%" alt="FDB"/></a> &nbsp;
 <a href="https://darwintrust.bio.ed.ac.uk/"><img src="/assets/images/dt.png" width="15%" alt="Darwin"/></a> &nbsp;
