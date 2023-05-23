@@ -7,6 +7,10 @@ description: ---
 <div class="container-fluid">
 
 <ul>
+<p><li>1 May 2023 &#187; We welcome Junming Li to start her MSc in our lab, continuing on Dev's excellent work involving encapsulated enzymes in cell-free systems.</li></p>
+
+<p><li>21 March 2023 &#187; Nadanai gives a talk at the <a href="https://www.munich-iapbp.de/engineering-life">Engineering Life</a> conference at MIAPbP in Munich. It was a very interesting workshop, with plenty of discussions about the big questions in synthetic biology!</li></p>
+
 <p><li>16 January 2023 &#187; We welcome Dev Vaidya to our lab to begin an honours project investigating cell-free enzyme encapsulation, as well as Aarushi Ruhela, a PhD student co-supervised with Jamie Marland in the School of Engineering, who will study electronic interfaces to cell-free reactions. </li></p>
 
 <p><li>3 October 2022 &#187; At the start of a new academic year, we say goodbye to Paula after a very successful summer project. We welcome <a href="{{ BASE_PATH }}/pages/people.html">Christoph Wagner</a>, a new PhD student co-supervised with Andrea Weisse's group, who will be working on regenerating cell-free systems. And we congratulate Sahan on publishing his paper on <a href="https://doi.org/10.1021/acssynbio.2c00244"> phage engineering in cell-free</a>. Lots of good news all around! </li></p>

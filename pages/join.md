@@ -3,7 +3,25 @@ layout: page
 title: Joining us
 description: ---
 ---
-We are actively recruiting exceptionally motivated candidates. If you share our vision of reliable, quantitative engineering in synthetic biology, and would like to find out more about opportunities with us, please don't hesitate to contact Nadanai directly.
+
+<div class="container-fluid">
+	<div class="row">
+	<div class="col-sm">
+		<figure>
+		<img src="/assets/images/hike2.jpg" class="img-fluid" alt="hike2" width="50%">
+		</figure>
+		</div>
+	<div class="col-sm">
+		<figure>
+		<img src="/assets/images/hike3.jpg" class="img-fluid" alt="hike3" width="50%">
+		</figure>
+		</div>
+	</div>
+</div>
+
+We do not currently have any vacancies. 
+
+However, if you share our vision of mastering cell-free synthetic biology and would like to find out more potential future opportunities with us, please don't hesitate to contact Nadanai directly.
 
 Numerous funding opportunities for **PhD students** are listed on the University [website](https://www.ed.ac.uk/student-funding/postgraduate). These include the [Darwin Trust](https://darwintrust.bio.ed.ac.uk/), [Commonwealth](https://www.ed.ac.uk/student-funding/postgraduate/international/other-funding/commonwealth), and [Carnegie](https://www.carnegie-trust.org/award-schemes/carnegie-phd-scholarships/) scholarships as well as national scholarships. General information about the PhD programme can be found [here](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=12).
 
