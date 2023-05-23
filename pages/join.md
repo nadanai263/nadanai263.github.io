@@ -13,7 +13,12 @@ description: ---
 		</div>
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/hike3.jpg" class="img-fluid" alt="hike3" width="50%">
+		<img src="/assets/images/hike_crop.jpg" class="img-fluid" alt="hike2" width="50%">
+		</figure>
+		</div>
+	<div class="col-sm">
+		<figure>
+		<img src="/assets/images/hike3.jpg" class="img-fluid" alt="hike3" width="40%">
 		</figure>
 		</div>
 	</div>
