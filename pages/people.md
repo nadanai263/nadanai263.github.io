@@ -187,7 +187,7 @@ description: ---
 			</div>
 			<div class="col-sm order-2">
 			<figure>
-			<img src="/assets/images/JL.jpg" width="100%" alt="DV" class="float-left">
+			<img src="/assets/images/JL.jpg" width="100%" alt="JL" class="float-left">
 				</figure>
 			</div>
 	</div>
@@ -195,6 +195,22 @@ description: ---
 
 ---
 
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
+				<p><b>Matthew Hardcastle</b> is a BSc Honours student studying Biotechnology. He first worked with cell free protein synthesis as an iCM summer intern in the Regan Lab, incorporating different reaction additives in order to maximise protein yield. This experience led to his current research project where he is exploring the effect of using lysate produced from acid-stressed E.coli on the  yield and pH homeostasis of cell free protein synthesis. In his spare time, he loves to swim, garden, and bake (badly).  <br>
+			<a href="mailto:m.hardcastle@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> 
+			</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/MH.png" width="100%" alt="MH" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
