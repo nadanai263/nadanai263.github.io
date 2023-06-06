@@ -181,6 +181,23 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
+				<p><b>Junming Li</b> is an MSc student studying Biotechnology. Due to her interest in cell-free protein synthesis systems, she has joined the group for her master's thesis. She is currently working on spatial control strategies for improving the efficiency of cell-free protein synthesis, specifically focusing on encapsulating metabolic pathways in virus-like particles. Before joining the University of Edinburgh for her Msc, she completed her undergraduate degree majoring in biology, in China. In her free time, she enjoys diving and painting on weekends.  <br>
+			<a href="mailto:j.li-312@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> 
+			</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/JL.jpg" width="100%" alt="DV" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
 				<p><b>Dev Vaidya</b> is a BSc honours student studying Molecular Biology. He worked over the summer as member and leader of the <a href="https://idec-teams.github.io/2022_Edinburgh-UHAS_Ghana/">iDEC</a> and <a href="https://2022.igem.wiki/edinburgh-uhas-ghana/team">iGEM</a> teams at the university, which investigated the directed evolution of metallothioneins and cell-free transcriptional biosensors for heavy metals. This is where he got introduced to cell-free systems. He is currently pursuing a project on tethering enzymes in an ATP regeneration pathway. In his free time, Dev likes to cook spicy food, take care of challenging houseplants and play the piano.  <br>
 			<a href="mailto:d.vaidya@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> 
 			</p>
