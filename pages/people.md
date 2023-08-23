@@ -176,55 +176,6 @@ description: ---
 	</div>
 </div>
 
----
-
-<div class="container-fluid">
-	<div class="row">
-			<div class="col-sm-9 order-1">
-				<p><b>Junming Li</b> is an MSc student studying Biotechnology. Due to her interest in cell-free protein synthesis systems, she has joined the group for her master's thesis. She is currently working on spatial control strategies for improving the efficiency of cell-free protein synthesis, specifically focusing on encapsulating metabolic pathways in virus-like particles. Before joining the University of Edinburgh for her Msc, she completed her undergraduate degree majoring in biology, in China. In her free time, she enjoys diving and painting on weekends.  <br>
-			<a href="mailto:j.li-312@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> 
-			</p>
-			</div>
-			<div class="col-sm order-2">
-			<figure>
-			<img src="/assets/images/JL.jpg" width="100%" alt="JL" class="float-left">
-				</figure>
-			</div>
-	</div>
-</div>
-
----
-
-<div class="container-fluid">
-	<div class="row">
-			<div class="col-sm-9 order-1">
-				<p><b>Matthew Hardcastle</b> is a BSc Honours student studying Biotechnology. He first worked with cell free protein synthesis as an iCM summer intern in the Regan Lab, incorporating different reaction additives in order to maximise protein yield. This experience led to his current research project where he is exploring the effect of using lysate produced from acid-stressed E.coli on the  yield and pH homeostasis of cell free protein synthesis. In his spare time, he loves to swim, garden, and bake (badly).  <br>
-			<a href="mailto:m.hardcastle@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> 
-			</p>
-			</div>
-			<div class="col-sm order-2">
-			<figure>
-			<img src="/assets/images/MH.png" width="100%" alt="MH" class="float-left">
-				</figure>
-			</div>
-	</div>
-</div>
-
----
-<div class="container-fluid">
-	<div class="row">
-			<div class="col-sm-9 order-1">
-				<p><b>Dev Vaidya</b> is a BSc honours student studying Molecular Biology. He worked over the summer as member and leader of the <a href="https://idec-teams.github.io/2022_Edinburgh-UHAS_Ghana/">iDEC</a> and <a href="https://2022.igem.wiki/edinburgh-uhas-ghana/team">iGEM</a> teams at the university, which investigated the directed evolution of metallothioneins and cell-free transcriptional biosensors for heavy metals. This is where he got introduced to cell-free systems. He is currently pursuing a project on tethering enzymes in an ATP regeneration pathway. In his free time, Dev likes to cook spicy food, take care of challenging houseplants and play the piano.  <br>
-			<a href="mailto:d.vaidya@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> 
-			</p>
-			</div>
-			<div class="col-sm order-2">
-			<figure>
-			<img src="/assets/images/DV.jpg" width="100%" alt="DV" class="float-left">
-				</figure>
-			</div>
-	</div>
-</div>
 
 ---
 
@@ -235,6 +186,9 @@ description: ---
 <div class="container-fluid">
 <div class="row">
 	<ul class="list-group">
+		<li class="list-group-item" style="border: none"><b>Junming Li</b>, MSc student (Edinburgh)</li>	
+		<li class="list-group-item" style="border: none"><b>Matthew Hardcastle</b>, Hons student (Edinburgh)</li>	
+		<li class="list-group-item" style="border: none"><b>Dev Vaidya</b>, Hons student (Edinburgh)</li>	
 		<li class="list-group-item" style="border: none"><b>Paula Paredes Vergara</b>, Summer student (University of Glasgow)</li>	
 		<li class="list-group-item" style="border: none"><b>Tim Bosse</b>, Hons student (Edinburgh)</li>	
 		<li class="list-group-item" style="border: none"><b>Yan Ting Hee</b>, Hons student (Edinburgh)</li>	
@@ -256,9 +210,26 @@ description: ---
 	<div class="row">
 		<div class="col-sm">
 		<figure>
+		<img src="/assets/images/JL.jpg" class="img-fluid" alt="lab" width="80%">
+		</figure>
+		</div>
+		<div class="col-sm">
+		<figure>
+		<img src="/assets/images/MH.png" class="img-fluid" alt="lab" width="80%">
+		</figure>
+		</div>
+		<div class="col-sm">
+		<figure>
+		<img src="/assets/images/DV.jpg" class="img-fluid" alt="lab" width="80%">
+		</figure>
+		</div>
+		<div class="col-sm">
+		<figure>
 		<img src="/assets/images/PPV.jpeg" class="img-fluid" alt="lab" width="80%">
 		</figure>
 		</div>
+	</div>
+	<div class="row">
 		<div class="col-sm">
 		<figure>
 		<img src="/assets/images/YTH.jpg" class="img-fluid" alt="lab" width="80%">

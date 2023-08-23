@@ -7,6 +7,12 @@ description: ---
 <div class="container-fluid">
 
 <ul>
+<p><li>23 Aug 2023 &#187; Nadanai has just returned from the <a href="https://biogate.itu.edu.tr/">BioGate</a> competition, impressively hosted by students at the Istanbul Technical University.</li></p>
+
+<p><li>21 Aug 2023 &#187; Big congratulations to Junming and Matthew for finishing their MSc and Hons projects respectively. We enjoyed working with them and wish them all the best for their future careers.</li></p>
+
+<p><li>29 May 2023 &#187; Another warm welcome to Matthew Hardcastle, who will join the lab to work on acid-stressed cell-free systems for his honours project.</li></p>
+
 <p><li>1 May 2023 &#187; We welcome Junming Li to start her MSc in our lab, continuing on Dev's excellent work involving encapsulated enzymes in cell-free systems.</li></p>
 
 <p><li>22 April 2023 &#187; We had fine weather for our group hike at the Hermitage in Dunkeld:</li></p>
