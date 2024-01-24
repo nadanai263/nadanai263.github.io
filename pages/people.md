@@ -176,6 +176,26 @@ description: ---
 	</div>
 </div>
 
+---
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
+				<p><b>Ryan Lee</b> is a visiting PhD student from the <a href="https://choulab.netlify.app/">Chou Lab</a> located at the University of Toronto. Before joining the Department of Biomedical Engineering at UofT in 2019, Ryan completed his BSc in Biology and Psychology at McMaster University. He currently studies DNA nanotechnology under the supervision of Prof Leo Chou, where he aims to create molecular computers for portable disease diagnostics. At the Laohakunakorn Lab, Ryan aims to integrate his molecular computers with the MITOMI microfluidic platform to prototype in vitro neural network algorithms. In addition to DNA nanotechnology, his other research interests include neuroscience, machine learning, and astronomy. If he is not in the lab, you may find him tinkering with electronics, cooking, or playing the electric guitar. 
+
+   <br>
+			<a href="mailto:r.c.l.lee@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> 
+			</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/RL.jpg" width="100%" alt="RL" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+
 
 ---
 
