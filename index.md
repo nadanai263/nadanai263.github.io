@@ -27,6 +27,12 @@ description: ---
 <h3><a href="{{ BASE_PATH }}/pages/news.html">News</a></h3>
 
 <ul>
+<p><li>18 Apr 2024 &#187; Congratulations to Surendra who just presented his PhD work at the <a href="https://syncell2024.sciencesconf.org/?lang=en">SynCell 2024</a> conference in Toulouse, France.</li></p>
+
+<p><li>14 Apr 2024 &#187; Michael's preprint on applying machine learning to study physiochemical properties of natural and engineered proteins is now out on <a href="https://doi.org/10.1101/2024.04.10.588835">bioRxiv</a>. A great collaboration with the <a href="https://homepages.inf.ed.ac.uk/doyarzun/">Oyarzún</a> and <a href="https://www.wellswoodresearchgroup.com/">Wells Wood</a> groups!</li></p>
+
+<p><li>15 Jan 2024 &#187; We welcome Ryan Lee, visiting PhD student from the <a href="https://choulab.netlify.app/">Chou lab</a> in Toronto, and Paula Juve, undergraduate honours student, who are both starting their projects in the lab today.</li></p>
+
 <p><li>23 Aug 2023 &#187; Nadanai has just returned from the <a href="https://biogate.itu.edu.tr/">BioGate</a> competition, impressively hosted by students at the Istanbul Technical University.</li></p>
 
 <p><li>21 Aug 2023 &#187; Big congratulations to Junming and Matthew for finishing their MSc and Hons projects respectively. We enjoyed working with them and wish them all the best for their future careers.</li></p>
