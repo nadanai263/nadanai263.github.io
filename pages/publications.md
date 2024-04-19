@@ -5,11 +5,29 @@ description: ---
 ---
 
 <div class="container-fluid">
+<h4>Preprint</h4>
+</div>
 
 <div class="row">
 	<div class="col-sm-8 order-1">
 	<ul>
-	<li>Thornton, EL, Paterson SM, Gidden Z, Horrocks MH, <b>Laohakunakorn N</b> & Regan L (2022) Self-assembling protein surfaces for in situ capture of cell-free-synthesized proteins. <i>Frontiers in Bioengineering and Biotechnology</i> <b>10</b> <a href="https://doi.org/10.3389/fbioe.2022.915035">https://doi.org/10.3389/fbioe.2022.915035</a></li>
+	<li>Stam MJ, Oyarzún DA, <b>Laohakunakorn N</b> & Wood CW (2024) Large scale analysis of predicted protein structures links model features to <i>in vivo</i> behaviour. <i>bioRxiv</i> <a href="https://doi.org/10.1101/2024.04.10.588835">https://doi.org/10.1101/2024.04.10.588835</a></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	</div>
+</div>
+
+---
+<div class="container-fluid">
+<h4>Peer-reviewed</h4>
+</div>
+
+
+<div class="row">
+	<div class="col-sm-8 order-1">
+	<ul>
+	<li>Thornton EL, Paterson SM, Gidden Z, Horrocks MH, <b>Laohakunakorn N</b> & Regan L (2022) Self-assembling protein surfaces for in situ capture of cell-free-synthesized proteins. <i>Frontiers in Bioengineering and Biotechnology</i> <b>10</b> <a href="https://doi.org/10.3389/fbioe.2022.915035">https://doi.org/10.3389/fbioe.2022.915035</a></li>
 	</ul>
 	</div>
 	<div class="col-sm order-2">
