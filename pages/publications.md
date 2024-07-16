@@ -18,6 +18,18 @@ description: ---
 	</div>
 </div>
 
+<div class="row">
+	<div class="col-sm-8 order-1">
+	<ul>
+	<li>Kriebisch C et al. (2024) A roadmap towards the synthesis of life <i>chemRxiv</i> <a href="https://doi.org/10.26434/chemrxiv-2024-tnx83">https://doi.org/10.26434/chemrxiv-2024-tnx83</a></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	</div>
+</div>
+
+
+
 ---
 <div class="container-fluid">
 <h4>Peer-reviewed</h4>
