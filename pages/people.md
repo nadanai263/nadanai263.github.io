@@ -173,8 +173,8 @@ description: ---
 <div class="container-fluid">
 <div class="row">
 	<ul class="list-group">
-		<li class="list-group-item" style="border: none"><b>Dr. Sandy Nelson</b>, PhD student</li>	
-		<li class="list-group-item" style="border: none"><b>Dr. Michael Stam</b>, PhD student</li>	
+		<li class="list-group-item" style="border: none"><b>Dr. Sandy Nelson</b>, PhD student (Edinburgh)</li>	
+		<li class="list-group-item" style="border: none"><b>Dr. Michael Stam</b>, PhD student (Edinburgh)</li>	
 		<li class="list-group-item" style="border: none"><b>Paula Juve</b>, Hons student (Edinburgh)</li>	
 		<li class="list-group-item" style="border: none"><b>Ryan Lee</b>, visiting PhD student (U. Toronto)</li>	
 		<li class="list-group-item" style="border: none"><b>Junming Li</b>, MSc student (Edinburgh)</li>	
@@ -204,7 +204,6 @@ description: ---
 		<img src="/assets/images/SN.png" class="img-fluid" alt="lab" width="80%">
 		</figure>
 		</div>
-	<div class="row">
 		<div class="col-sm">
 		<figure>
 		<img src="/assets/images/MS.jpg" class="img-fluid" alt="lab" width="80%">
