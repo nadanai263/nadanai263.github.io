@@ -62,23 +62,6 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
-				<p><b>Dr Sandy Nelson</b> is a PhD student funded by the CDT in Biomedical AI. He is researching robust biodesign for cell-free systems using probabilistic approaches, working jointly with the <a href="https://michaelgutmann.github.io/">Gutmann</a> group (Informatics), the Laohakunakorn group and the Weiße group (IQB3). He studied physics and experimental psychology at Durham University then a PhD in cognitive science at Edinburgh University. While there, he was involved in research projects at the School of Informatics on computational models of memory and text processing. In 2017 Sandy joined DeepMind as founding product manager for its Science Team. He program managed the application of machine learning to protein folding and problems in physics including glassy dynamics and Density Functional Theory. Before DeepMind, Sandy spent 10 years at Amazon as a Senior Software Development Manager, where he was responsible for worldwide dynamic personalised merchandising and led teams mining the product catalogue for relationships that drove features like AutoRip, movie discovery on Fire TV and music discovery on Echo. <br>
-			<a href="mailto:sandy.nelson@ed.ac.uk"><i class="fas fa-envelope"></i></a> <a href="https://www.linkedin.com/in/sandywrnelson/"><i class="fab fa-linkedin"></i></a>
-			</p>
-			</div>
-			<div class="col-sm order-2">
-			<figure>
-			<img src="/assets/images/SN.png" width="100%" alt="SN" class="float-left">
-				</figure>
-			</div>
-	</div>
-</div>
-
----
-
-<div class="container-fluid">
-	<div class="row">
-			<div class="col-sm-9 order-1">
 				<p><b>Christoph Wagner</b> is an EASTBIO-funded PhD student, researching the ability of cells to self-regenerate their components. He is carrying out his work jointly between the Laohakunakorn group, where he conducts cell-free microfluidics experiments on maximally controlled transcription-translation systems, and the Weiße group in IQB3, where his results inform models to predict the self-regenerating behaviour. He wants to understand, what parameters govern this aspect of life and how we can optimise them in the context of synthetic cells. After betraying the love for his hometown Cologne, he both finished his Bachelor's in Quantitative Biology and subsequently studied his Master's in Synthetic Biology in Düsseldorf, Germany. There, he explored the possibility of quantitatively engineering a plant's phenotype by means of genetic modification, which sparked his enthusiasm for interfacing nature and technology. In his free time, you may find him writing short stories on his blog about all things science, practicing amateur woodworking or running, usually in circles.<br>
 			<a href="mailto:c.s.wagner@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a>
 			</p>
@@ -144,22 +127,6 @@ description: ---
 
 ---
 
-<div class="container-fluid">
-	<div class="row">
-			<div class="col-sm-9 order-1">
-				<p><b>Michael Stam</b> is a PhD student funded by the CDT in Biomedical AI. He holds a BSc in Mathematics from the University of Edinburgh and works on using machine/deep learning for de novo protein design with cell-free systems, in collaboration with Chris Wood's and Diego Oyarzún's groups. <br>
-			<a href="mailto:michael.stam@ed.ac.uk"><i class="fas fa-envelope"></i></a> 
-			</p>
-			</div>
-			<div class="col-sm order-2">
-			<figure>
-			<img src="/assets/images/MS.jpg" width="100%" alt="MS" class="float-left">
-				</figure>
-			</div>
-	</div>
-</div>
-
----
 
 <div class="container-fluid">
 	<div class="row">
@@ -206,6 +173,9 @@ description: ---
 <div class="container-fluid">
 <div class="row">
 	<ul class="list-group">
+		<li class="list-group-item" style="border: none"><b>Dr. Sandy Nelson</b>, PhD student</li>	
+		<li class="list-group-item" style="border: none"><b>Dr. Michael Stam</b>, PhD student</li>	
+		<li class="list-group-item" style="border: none"><b>Paula Juve</b>, Hons student (Edinburgh)</li>	
 		<li class="list-group-item" style="border: none"><b>Ryan Lee</b>, visiting PhD student (U. Toronto)</li>	
 		<li class="list-group-item" style="border: none"><b>Junming Li</b>, MSc student (Edinburgh)</li>	
 		<li class="list-group-item" style="border: none"><b>Matthew Hardcastle</b>, Hons student (Edinburgh)</li>	
@@ -231,6 +201,17 @@ description: ---
 	<div class="row">
 		<div class="col-sm">
 		<figure>
+		<img src="/assets/images/SN.png" class="img-fluid" alt="lab" width="80%">
+		</figure>
+		</div>
+	<div class="row">
+		<div class="col-sm">
+		<figure>
+		<img src="/assets/images/MS.jpg" class="img-fluid" alt="lab" width="80%">
+		</figure>
+		</div>
+		<div class="col-sm">
+		<figure>
 		<img src="/assets/images/RL.jpg" class="img-fluid" alt="lab" width="80%">
 		</figure>
 		</div>
@@ -249,13 +230,13 @@ description: ---
 		<img src="/assets/images/DV.jpg" class="img-fluid" alt="lab" width="80%">
 		</figure>
 		</div>
+	</div>
+	<div class="row">
 		<div class="col-sm">
 		<figure>
 		<img src="/assets/images/PPV.jpeg" class="img-fluid" alt="lab" width="80%">
 		</figure>
 		</div>
-	</div>
-	<div class="row">
 		<div class="col-sm">
 		<figure>
 		<img src="/assets/images/YTH.jpg" class="img-fluid" alt="lab" width="80%">
