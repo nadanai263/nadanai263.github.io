@@ -39,6 +39,16 @@ description: ---
 <div class="row">
 	<div class="col-sm-8 order-1">
 	<ul>
+	<li>Thornton EL, Paterson SM, Stam MJ, Wood CW, <b>Laohakunakorn N</b> & Regan L (2024) Applications of cell free protein synthesis in protein design. <i>Protein Science</i> <b>33</b>:9 <a href=" https://doi.org/10.1002/pro.5148"> https://doi.org/10.1002/pro.5148</a></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-sm-8 order-1">
+	<ul>
 	<li>Thornton EL, Paterson SM, Gidden Z, Horrocks MH, <b>Laohakunakorn N</b> & Regan L (2022) Self-assembling protein surfaces for in situ capture of cell-free-synthesized proteins. <i>Frontiers in Bioengineering and Biotechnology</i> <b>10</b> <a href="https://doi.org/10.3389/fbioe.2022.915035">https://doi.org/10.3389/fbioe.2022.915035</a></li>
 	</ul>
 	</div>
