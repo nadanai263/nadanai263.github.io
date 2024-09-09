@@ -27,9 +27,9 @@ description: ---
 <h3><a href="{{ BASE_PATH }}/pages/news.html">News</a></h3>
 
 <ul>
-	<p><li>9 September 2024 &#187; Surendra's preprint is now out on Biorxiv! Please find it here: <a href="https://doi.org/10.1101/2024.09.06.611674">ATP regeneration from pyruvate in the PURE system</a>. Many congratulations for the stellar work throughout his PhD.</li></p>
+<p><li>9 September 2024 &#187; Surendra's preprint is now out on Biorxiv! Please find it here: <a href="https://doi.org/10.1101/2024.09.06.611674">ATP regeneration from pyruvate in the PURE system</a>. Many congratulations for the stellar work throughout his PhD.</li></p>
 
-<p><li>24 August 2024 &#187; Our review paper on <a href="https://doi.org/10.1002/pro.5148">`Applications of cell free protein synthesis in protein design'</a> is now published. Congratulations to Ella, Sara, and Michael who have contributed to this, and collaborators Chris W. Wood and Lynne Regan who led the study.</li></p>
+<p><li>24 August 2024 &#187; Our review paper on <a href="https://doi.org/10.1002/pro.5148">Applications of cell free protein synthesis in protein design</a> is now published. Congratulations to Ella, Sara, and Michael who have contributed to this, and collaborators Chris W. Wood and Lynne Regan who led the study.</li></p>
 
 <p><li>13 May 2024 &#187; We welcome Sanika to the lab to start her MSc project with us, on investigating alternative ATP regeneration pathways in PURE, and at the same time say goodbye to Ryan who goes back to Toronto, and Paula who has finished her degree.</li></p>
 
