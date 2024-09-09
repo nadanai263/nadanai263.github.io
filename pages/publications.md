@@ -11,6 +11,16 @@ description: ---
 <div class="row">
 	<div class="col-sm-8 order-1">
 	<ul>
+	<li>Yadav S, Perkins AJP, Liyanagedera SBW, Bougas A & <b>Laohakunakorn N</b> (2024) ATP regeneration from pyruvate in the PURE system. <i>bioRxiv</i> <a href="https://doi.org/10.1101/2024.09.06.611674">https://doi.org/10.1101/2024.09.06.611674 </a></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-sm-8 order-1">
+	<ul>
 	<li>Stam MJ, Oyarzún DA, <b>Laohakunakorn N</b> & Wood CW (2024) Large scale analysis of predicted protein structures links model features to <i>in vivo</i> behaviour. <i>bioRxiv</i> <a href="https://doi.org/10.1101/2024.04.10.588835">https://doi.org/10.1101/2024.04.10.588835</a></li>
 	</ul>
 	</div>
