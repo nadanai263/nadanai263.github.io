@@ -49,6 +49,16 @@ description: ---
 <div class="row">
 	<div class="col-sm-8 order-1">
 	<ul>
+	<li>Lee RC, Corsano A, Tseng CY, <b>Laohakunakorn N</b> & Chou LYT (2024) Rewireable building blocks for enzyme-powered DNA computing networks. <i>Journal of the American Chemical Society</i> <a href=" https://doi.org/10.1021/jacs.4c07221"> https://doi.org/10.1021/jacs.4c07221</a></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-sm-8 order-1">
+	<ul>
 	<li>Thornton EL, Paterson SM, Stam MJ, Wood CW, <b>Laohakunakorn N</b> & Regan L (2024) Applications of cell free protein synthesis in protein design. <i>Protein Science</i> <b>33</b>:9 <a href=" https://doi.org/10.1002/pro.5148"> https://doi.org/10.1002/pro.5148</a></li>
 	</ul>
 	</div>
