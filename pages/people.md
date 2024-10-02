@@ -144,25 +144,6 @@ description: ---
 </div>
 
 
----
-
-<div class="container-fluid">
-	<div class="row">
-			<div class="col-sm-9 order-1">
-				<p><b>Sanika Pradhan</b> is a masters's student in the University of Edinburgh's Synthetic Biology and Biotechnology programme, currently completing her master's project in exploring alternative ATP regeneration pathways in PURE system. She graduated with a Bachelor of Science degree in Industrial Microbiology affiliated with the University of Pune, India. During her undergraduate years, she interned in Genepath dx, a molecular diagnostic laboratory, and was part of a project studying the teratogenic effects of SSRI drugs on the chick embryo model system. She has been a part of the New York Academy of Science and presented her research poster at the Global STEM Alliance Summit in New York in 2019. Having gained exposure and developed curiosity towards synthetic biology, she decided to pursue this subject further. Along with this Sanika is passionate about astronomy and has been credited with a minor planet discovery. In her free time, she engages herself in SciART illustrations.
-
-   <br>
-			<a href="mailto:s.r.pradhan@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> 
-			</p>
-			</div>
-			<div class="col-sm order-2">
-			<figure>
-			<img src="/assets/images/SPr.jpg" width="100%" alt="SPr" class="float-left">
-				</figure>
-			</div>
-	</div>
-</div>
-
 
 ---
 
@@ -173,6 +154,7 @@ description: ---
 <div class="container-fluid">
 <div class="row">
 	<ul class="list-group">
+		<li class="list-group-item" style="border: none"><b>Sanika Pradhan</b>, MSc student (Edinburgh)</li>	
 		<li class="list-group-item" style="border: none"><b>Dr. Sandy Nelson</b>, PhD student (Edinburgh)</li>	
 		<li class="list-group-item" style="border: none"><b>Dr. Michael Stam</b>, PhD student (Edinburgh)</li>	
 		<li class="list-group-item" style="border: none"><b>Paula Juve</b>, Hons student (Edinburgh)</li>	
@@ -201,7 +183,7 @@ description: ---
 	<div class="row">
 		<div class="col-sm">
 		<figure>
-		<img src="/assets/images/SN.png" class="img-fluid" alt="lab" width="80%">
+		<img src="/assets/images/SPr.jpg" width="100%" alt="SPr" width="80%">
 		</figure>
 		</div>
 		<div class="col-sm">
@@ -224,13 +206,13 @@ description: ---
 		<img src="/assets/images/MH.png" class="img-fluid" alt="lab" width="80%">
 		</figure>
 		</div>
+	</div>
+	<div class="row">
 		<div class="col-sm">
 		<figure>
 		<img src="/assets/images/DV.jpg" class="img-fluid" alt="lab" width="80%">
 		</figure>
 		</div>
-	</div>
-	<div class="row">
 		<div class="col-sm">
 		<figure>
 		<img src="/assets/images/PPV.jpeg" class="img-fluid" alt="lab" width="80%">
