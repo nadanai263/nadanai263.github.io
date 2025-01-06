@@ -8,15 +8,7 @@ description: ---
 <h4>Preprint</h4>
 </div>
 
-<div class="row">
-	<div class="col-sm-8 order-1">
-	<ul>
-	<li>Yadav S, Perkins AJP, Liyanagedera SBW, Bougas A & <b>Laohakunakorn N</b> (2024) ATP regeneration from pyruvate in the PURE system. <i>bioRxiv</i> <a href="https://doi.org/10.1101/2024.09.06.611674">https://doi.org/10.1101/2024.09.06.611674 </a></li>
-	</ul>
-	</div>
-	<div class="col-sm order-2">
-	</div>
-</div>
+
 
 <div class="row">
 	<div class="col-sm-8 order-1">
@@ -45,6 +37,18 @@ description: ---
 <h4>Peer-reviewed</h4>
 </div>
 
+<div class="row">
+	<div class="col-sm-8 order-1">
+	<ul>
+	<li>Yadav S, Perkins AJP, Liyanagedera SBW, Bougas A & <b>Laohakunakorn N</b> (2025) ATP regeneration from pyruvate in the PURE system. <i>ACS Synthetic Biology</i> <a href="https://doi.org/10.1021/acssynbio.4c00697">https://doi.org/10.1021/acssynbio.4c00697 </a></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	<figure>
+	<img src="/assets/images/logo_PAP.png" width="100%" alt="PAP" class="float-left">
+	</figure>
+	</div>
+</div>
 
 <div class="row">
 	<div class="col-sm-8 order-1">
