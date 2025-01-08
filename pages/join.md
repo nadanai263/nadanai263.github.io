@@ -14,7 +14,6 @@ description: ---
 	</div>
 </div>
 
-We are currently hiring! We are looking for an exceptionally motivated and talented postdoctoral researcher to join our team, initially for one year (March 2025-March 2026). They will work on the bottom-up and rational enhancement of PURE using protein enhancers and synthetic metabolism. Please get in touch for more information if you are interested, view the advert <a href="https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11616">here</a>, and apply before <b>6 January 2025</b>.
 
 ---
 
