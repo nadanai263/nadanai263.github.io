@@ -9,6 +9,15 @@ description: ---
 </div>
 
 
+<div class="row">
+	<div class="col-sm-8 order-1">
+	<ul>
+	<li>Thornton EL, Boyle JT, <b>Laohakunakorn N</b> & Regan L (2025) Cell-free protein synthesis as a method to rapidly screen machine learning-directed protease variants. <i>bioRxiv</i> <a href="https://doi.org/10.1101/2025.01.24.634768">https://doi.org/10.1101/2025.01.24.634768</a></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	</div>
+</div>
 
 <div class="row">
 	<div class="col-sm-8 order-1">
