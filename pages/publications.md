@@ -66,6 +66,9 @@ description: ---
 	</ul>
 	</div>
 	<div class="col-sm order-2">
+	<figure>
+	<img src="/assets/images/logo_CFDNA.jpeg" width="100%" alt="PAP" class="float-left">
+	</figure>
 	</div>
 </div>
 
