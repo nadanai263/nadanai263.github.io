@@ -17,7 +17,7 @@ description: ---
 
 ---
 
-We do not currently have any vacancies for PhD students. However, if you share our vision of mastering cell-free synthetic biology and would like to find out more potential future opportunities with us, please don't hesitate to contact Nadanai directly.
+We do not currently have any vacancies.
 
 Numerous funding opportunities for **PhD students** are listed on the University [website](https://www.ed.ac.uk/student-funding/postgraduate). These include the [Darwin Trust](https://darwintrust.bio.ed.ac.uk/), [Commonwealth](https://www.ed.ac.uk/student-funding/postgraduate/international/other-funding/commonwealth), and [Carnegie](https://www.carnegie-trust.org/award-schemes/carnegie-phd-scholarships/) scholarships as well as national scholarships. General information about the PhD programme can be found [here](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=12).
 
