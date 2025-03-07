@@ -45,6 +45,22 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
+				<p><b>Dr Nicoll Zeballos Lema</b> is working as part of the UKRI FLF project Self-Sustaining Cell-Free Systems, focusing on improving the performance of PURE systems with the addition of protein-based enhancers. She graduated from the Universidad de Zaragoza with a BSc in Chemistry and an MSc in Molecular and Cell Biology. In 2019, she started her PhD in Heterogeneous biocatalysis under the supervision of Prof. Fernando Lopez Gallego at the Cic BiomaGUNE research centre in San Sebastián, Spain. In 2024, Nicoll joined the Wallace Lab in Edinburgh to work on enzyme immobilisation for accelerated reactions to improve industrial processes. In her free time, she enjoys playing basketball and cooking. <br>
+			<a href="mailto:nzeballo@ed.ac.uk"><i class="fas fa-envelope"></i></a>
+			</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/NZL.jpg" width="100%" alt="NZL" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+---
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
 				<p><b>Christoph Wagner</b> is an EASTBIO-funded PhD student, researching the ability of cells to self-regenerate their components. He is carrying out his work jointly between the Laohakunakorn group, where he conducts cell-free microfluidics experiments on maximally controlled transcription-translation systems, and the Weiße group in IQB3, where his results inform models to predict the self-regenerating behaviour. He wants to understand, what parameters govern this aspect of life and how we can optimise them in the context of synthetic cells. After betraying the love for his hometown Cologne, he both finished his Bachelor's in Quantitative Biology and subsequently studied his Master's in Synthetic Biology in Düsseldorf, Germany. There, he explored the possibility of quantitatively engineering a plant's phenotype by means of genetic modification, which sparked his enthusiasm for interfacing nature and technology. In his free time, you may find him writing short stories on his blog about all things science, practicing amateur woodworking or running, usually in circles.<br>
 			<a href="mailto:c.s.wagner@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a>
 			</p>
@@ -105,6 +121,24 @@ description: ---
 			<div class="col-sm order-2">
 			<figure>
 			<img src="/assets/images/AR.jpeg" width="100%" alt="AR" class="float-left">
+				</figure>
+			</div>
+	</div>
+</div>
+
+---
+
+
+<div class="container-fluid">
+	<div class="row">
+			<div class="col-sm-9 order-1">
+				<p><b>Shivangi Pandey:</b> I am a Master's student in Biotechnology at Gujarat Biotechnology University, currently undertaking a three-month student exchange program at the University of Edinburgh. My research focuses on "Testing E. coli cell-free systems for the production of ⍺-santalene" under the supervision of Dr. Kavita Yadav and Dr. Nadanai Laohakunakorn. My academic and research interests lie in synthetic biology, metabolic engineering, and cell-free biosynthesis, with a particular focus on developing sustainable and efficient biomanufacturing processes. Through this exchange program, I aim to enhance my expertise in cell-free systems, gain hands-on experience with cutting-edge techniques, and contribute to advancements in the field. I am passionate about exploring innovative biotechnological solutions and aspire to apply my knowledge to address real-world challenges in industrial biotechnology. This opportunity allows me to collaborate with experts, broaden my research perspectives, and work toward meaningful contributions in the field of cell-free biosynthesis.  <br>
+			<a href="mailto:s.pandey-9@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> 
+			</p>
+			</div>
+			<div class="col-sm order-2">
+			<figure>
+			<img src="/assets/images/SPan.jpg" width="100%" alt="SPan" class="float-left">
 				</figure>
 			</div>
 	</div>

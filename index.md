@@ -28,7 +28,9 @@ description: ---
 
 <ul>
 
-<p><li>4 January 2024 &#187; Our paper is published in ACS Synthetic Biology: <a href="https://pubs.acs.org/doi/10.1021/acssynbio.4c00697">ATP regeneration from pyruvate in the PURE system</a>. We describe a new ATP regeneration pathway for the PURE system, based on pyruvate and phosphate. Congratulations to everyone who contributed, particularly Surendra, who led the study.</li></p>
+<p><li>3 March 2025 &#187; We welcome two members to our group: Dr. Nicoll Zeballos Lema joins us from Stephen Wallace's lab to work on enhancement of PURE systems; and MSc exchange student Shivangi Pandey arrives from Kavita Yadav's group at the Gujarat Biotechnology University to look at cell-free systems for metabolic engineering.</li></p>
+
+<p><li>4 January 2025 &#187; Our paper is published in ACS Synthetic Biology: <a href="https://pubs.acs.org/doi/10.1021/acssynbio.4c00697">ATP regeneration from pyruvate in the PURE system</a>. We describe a new ATP regeneration pathway for the PURE system, based on pyruvate and phosphate. Congratulations to everyone who contributed, particularly Surendra, who led the study.</li></p>
 
 <p><li>5 December 2024 &#187; Massive congratulations to Dr. Alex Perkins for passing his viva today. We are extremely proud of his achievements, and as one of the 'founding members' of our group, his energy, enthusiasm, and friendship will be greatly missed by all of us. We wish him every success for the future! </li></p>
 <div class="container-fluid">
