@@ -13,7 +13,7 @@ description: ---
   <div class="row">
   <div class="col-sm">
     <figure>
-     <img src="/assets/images/SYviva.jpeg" width="60%" alt="SYviva">
+     <img src="/assets/images/SYviva.jpeg" width="50%" alt="SYviva">
     </figure>
     </div>
   </div>
