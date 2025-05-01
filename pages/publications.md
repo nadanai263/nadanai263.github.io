@@ -13,7 +13,7 @@ description: ---
 <div class="row">
 	<div class="col-sm-8 order-1">
 	<ul>
-	<li>Stam MJ, Oyarzún DA, <b>Laohakunakorn N</b> & Wood CW (2024) Large scale analysis of predicted protein structures links model features to <i>in vivo</i> behaviour. <i>bioRxiv</i> <a href="https://doi.org/10.1101/2024.04.10.588835">https://doi.org/10.1101/2024.04.10.588835</a></li>
+	<li>Stam MJ, Oyarzún DA, Laohakunakorn N & Wood CW (2024) Large scale analysis of predicted protein structures links model features to <i>in vivo</i> behaviour. <i>bioRxiv</i> <a href="https://doi.org/10.1101/2024.04.10.588835">https://doi.org/10.1101/2024.04.10.588835</a></li>
 	</ul>
 	</div>
 	<div class="col-sm order-2">
@@ -28,7 +28,7 @@ description: ---
 <div class="row">
 	<div class="col-sm-8 order-1">
 	<ul>
-	<li>Thornton EL, Boyle JT, <b>Laohakunakorn N</b> & Regan L (2025) Cell-free protein synthesis as a method to rapidly screen machine learning-generated protease variants. <i>ACS Synthetic Biology</i> <a href="https://doi.org/10.1021/acssynbio.5c00062">https://doi.org/10.1021/acssynbio.5c00062</a></li>
+	<li>Thornton EL, Boyle JT, Laohakunakorn N & Regan L (2025) Cell-free protein synthesis as a method to rapidly screen machine learning-generated protease variants. <i>ACS Synthetic Biology</i> <a href="https://doi.org/10.1021/acssynbio.5c00062">https://doi.org/10.1021/acssynbio.5c00062</a></li>
 	</ul>
 	</div>
 	<div class="col-sm order-2">
