@@ -138,6 +138,7 @@ description: ---
 <div class="container-fluid">
 <div class="row">
 	<ul class="list-group">
+		<li class="list-group-item" style="border: none"><b>Dr. Ella Thornton</b>, Postdoctoral researcher</li>
 		<li class="list-group-item" style="border: none"><b>Dr. Surendra Yadav</b>, PhD student</li>
 		<li class="list-group-item" style="border: none"><b>Dr. Alex Perkins</b>, PhD student</li>	
 		<li class="list-group-item" style="border: none"><b>Dr. Sahan Liyanagedera</b>, Postdoctoral researcher</li>	

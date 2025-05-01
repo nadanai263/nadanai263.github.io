@@ -9,15 +9,6 @@ description: ---
 </div>
 
 
-<div class="row">
-	<div class="col-sm-8 order-1">
-	<ul>
-	<li>Thornton EL, Boyle JT, <b>Laohakunakorn N</b> & Regan L (2025) Cell-free protein synthesis as a method to rapidly screen machine learning-directed protease variants. <i>bioRxiv</i> <a href="https://doi.org/10.1101/2025.01.24.634768">https://doi.org/10.1101/2025.01.24.634768</a></li>
-	</ul>
-	</div>
-	<div class="col-sm order-2">
-	</div>
-</div>
 
 <div class="row">
 	<div class="col-sm-8 order-1">
@@ -29,11 +20,24 @@ description: ---
 	</div>
 </div>
 
-
 ---
 <div class="container-fluid">
 <h4>Peer-reviewed</h4>
 </div>
+
+<div class="row">
+	<div class="col-sm-8 order-1">
+	<ul>
+	<li>Thornton EL, Boyle JT, <b>Laohakunakorn N</b> & Regan L (2025) Cell-free protein synthesis as a method to rapidly screen machine learning-generated protease variants. <i>ACS Synthetic Biology</i> <a href="https://doi.org/10.1021/acssynbio.5c00062">https://doi.org/10.1021/acssynbio.5c00062</a></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	<figure>
+	<img src="/assets/images/logo_ML.jpeg" width="100%" alt="chem" class="float-left">
+	</figure>
+	</div>
+</div>
+
 
 <div class="row">
 	<div class="col-sm-8 order-1">

@@ -28,6 +28,8 @@ description: ---
 
 <ul>
 
+<p><li>30 April 2025 &#187; Our paper combining cell-free screening of enzymes with machine learning is now <a href="https://doi.org/10.1021/acssynbio.5c00062">published</a>. Fantastic collaboration with the Regan lab, and many congratulations to Ella for her hard work to make this happen.</li></p>
+
 <p><li>14 March 2025 &#187; Two for two! Our second PhD student Dr. Surendra Yadav has just passed his viva today. Like Alex, Surendra was a founding member of the group and we will miss not only his expertise but also his cheerful presence. We wish him all the best for his future career! </li></p>
 <div class="container-fluid">
   <div class="row">
@@ -64,17 +66,6 @@ description: ---
     </div>
   </div>
 </div>
-
-<p><li>9 September 2024 &#187; Surendra's preprint is now out on Biorxiv! Please find it here: <a href="https://doi.org/10.1101/2024.09.06.611674">ATP regeneration from pyruvate in the PURE system</a>. Many congratulations for the stellar work throughout his PhD.</li></p>
-
-<p><li>24 August 2024 &#187; Our review paper on <a href="https://doi.org/10.1002/pro.5148">Applications of cell free protein synthesis in protein design</a> is now published. Congratulations to Ella, Sara, and Michael who have contributed to this, and collaborators Chris W. Wood and Lynne Regan who led the study.</li></p>
-
-<p><li>13 May 2024 &#187; We welcome Sanika to the lab to start her MSc project with us, on investigating alternative ATP regeneration pathways in PURE, and at the same time say goodbye to Ryan who goes back to Toronto, and Paula who has finished her degree.</li></p>
-
-<p><li>18 Apr 2024 &#187; Congratulations to Surendra who just presented his PhD work at the <a href="https://syncell2024.sciencesconf.org/?lang=en">SynCell 2024</a> conference in Toulouse, France.</li></p>
-
-<p><li>14 Apr 2024 &#187; Michael's preprint on applying machine learning to study physiochemical properties of natural and engineered proteins is now out on <a href="https://doi.org/10.1101/2024.04.10.588835">bioRxiv</a>. A great collaboration with the <a href="https://homepages.inf.ed.ac.uk/doyarzun/">Oyarzún</a> and <a href="https://www.wellswoodresearchgroup.com/">Wells Wood</a> groups!</li></p>
-
 
 </ul>
 
