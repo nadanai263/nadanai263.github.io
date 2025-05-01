@@ -42,7 +42,7 @@ description: ---
 <div class="row">
 	<div class="col-sm-8 order-1">
 	<ul>
-	<li>Kriebisch C et al. (2025) A roadmap towards the synthesis of life <i>Chem</i> 102399 <a href="https://doi.org/10.1016/j.chempr.2024.102399">https://doi.org/10.1016/j.chempr.2024.102399</a></li>
+	<li>Kriebisch C et al. (2025) A roadmap towards the synthesis of life <i>Chem</i> <b>11</b>:102399 <a href="https://doi.org/10.1016/j.chempr.2024.102399">https://doi.org/10.1016/j.chempr.2024.102399</a></li>
 	</ul>
 	</div>
 	<div class="col-sm order-2">
