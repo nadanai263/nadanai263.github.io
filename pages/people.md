@@ -115,13 +115,13 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
-				<p><b>Shivangi Pandey:</b> I am a Master's student in Biotechnology at Gujarat Biotechnology University, currently undertaking a three-month student exchange program at the University of Edinburgh. My research focuses on "Testing E. coli cell-free systems for the production of ⍺-santalene" under the supervision of Dr. Kavita Yadav and Dr. Nadanai Laohakunakorn. My academic and research interests lie in synthetic biology, metabolic engineering, and cell-free biosynthesis, with a particular focus on developing sustainable and efficient biomanufacturing processes. Through this exchange program, I aim to enhance my expertise in cell-free systems, gain hands-on experience with cutting-edge techniques, and contribute to advancements in the field. I am passionate about exploring innovative biotechnological solutions and aspire to apply my knowledge to address real-world challenges in industrial biotechnology. This opportunity allows me to collaborate with experts, broaden my research perspectives, and work toward meaningful contributions in the field of cell-free biosynthesis.  <br>
-			<a href="mailto:s.pandey-9@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> 
+				<p><b>Aran Purdy</b> is a Master's student in Synthetic Biology and Biotechnology at the University of Edinburgh, joining the Laohakunakorn group to contribute to a metabolomics-based investigation of cell-free protein synthesis (CFPS).  With an undergraduate degree in Genetics from University College Dublin, he is particularly interested in emerging biotechnologies that drive innovation in therapeutic development, biomanufacturing, and the interface between biology and engineering. His current project involves building a custom data analysis pipeline to track dynamic metabolic changes in CFPS reactions using untargeted LC-MS. By mapping metabolites to pathways, quantifying pathway activity, and identifying metabolic bottlenecks, he aims to better understand the biochemical constraints of CFPS and inform strategies for designing more efficient and self-sustaining cell-free systems. In his free time, you can find him playing football in the Meadows, experimenting with electronic music composition, and discovering new restaurants around the city.   <br>
+			<a href="mailto:a.purdy@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> 
 			</p>
 			</div>
 			<div class="col-sm order-2">
 			<figure>
-			<img src="/assets/images/SPan.jpg" width="100%" alt="SPan" class="float-left">
+			<img src="/assets/images/APu.jpg" width="100%" alt="SPan" class="float-left">
 				</figure>
 			</div>
 	</div>
@@ -138,6 +138,7 @@ description: ---
 <div class="container-fluid">
 <div class="row">
 	<ul class="list-group">
+		<li class="list-group-item" style="border: none"><b>Shivangi Pandey</b>, visiting MSc student</li>
 		<li class="list-group-item" style="border: none"><b>Dr. Ella Thornton</b>, Postdoctoral researcher</li>
 		<li class="list-group-item" style="border: none"><b>Dr. Surendra Yadav</b>, PhD student</li>
 		<li class="list-group-item" style="border: none"><b>Dr. Alex Perkins</b>, PhD student</li>	
@@ -169,6 +170,11 @@ description: ---
 
 <div class="container-fluid">
 	<div class="row">
+		<div class="col-sm">
+		<figure>
+		<img src="/assets/images/SPan.jpg" width="100%" alt="SPan" width="80%">
+		</figure>
+		</div>
 		<div class="col-sm">
 		<figure>
 		<img src="/assets/images/SY.png" width="100%" alt="SY" width="80%">
