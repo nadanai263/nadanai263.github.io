@@ -33,7 +33,7 @@ description: ---
   <div class="row">
   <div class="col-sm">
     <figure>
-     <img src="/assets/images/graduation.jpeg" width="70%" alt="graduation">
+     <img src="/assets/images/graduation.jpeg" width="50%" alt="graduation">
     </figure>
     </div>
   </div>
