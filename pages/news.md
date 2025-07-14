@@ -8,6 +8,28 @@ description: ---
 
 <ul>
 
+<p><li>11 July 2025 &#187; A proud moment for all of us as Alex and Surendra receive their PhDs in a touching ceremony at McEwen Hall.</li></p>
+<div class="container-fluid">
+  <div class="row">
+  <div class="col-sm">
+    <figure>
+     <img src="/assets/images/graduation.jpeg" width="70%" alt="graduation">
+    </figure>
+    </div>
+  </div>
+</div>
+
+<p><li>10 July 2025 &#187; This year we went to the Pentlands for our annual lab hike. </li></p>
+<div class="container-fluid">
+  <div class="row">
+  <div class="col-sm">
+    <figure>
+     <img src="/assets/images/social_hike.jpeg" width="70%" alt="hike2">
+    </figure>
+    </div>
+  </div>
+</div>
+
 <p><li>30 April 2025 &#187; Our paper combining cell-free screening of enzymes with machine learning is now <a href="https://doi.org/10.1021/acssynbio.5c00062">published</a>. Fantastic collaboration with the Regan lab, and many congratulations to Ella for her hard work to make this happen.</li></p>
 
 <p><li>14 March 2025 &#187; Two for two! Our second PhD student Dr. Surendra Yadav has just passed his viva today. Like Alex, Surendra was a founding member of the group and we will miss not only his expertise but also his cheerful presence. We wish him all the best for his future career! </li></p>

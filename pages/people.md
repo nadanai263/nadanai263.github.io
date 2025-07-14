@@ -281,27 +281,38 @@ description: ---
 ---
 
 <div class="container-fluid">
-	<div class="row">
+<div class="row">
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/meeting.jpg" class="img-fluid" alt="lab" width="100%">
+		<img src="/assets/images/social_hike.jpeg" class="img-fluid" alt="lab" width="100%">
 		</figure>
 		</div>
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/social2.jpg" class="img-fluid" alt="lab" width="100%">
+		<img src="/assets/images/graduation.jpeg" class="img-fluid" alt="lab" width="100%">
+		</figure>
+		</div>
+	</div>
+	<div class="col-sm">
+		<figure>
+		<img src="/assets/images/social_hyrox.jpg" class="img-fluid" alt="lab" width="100%">
+		</figure>
+		</div>
+	<div class="col-sm">
+		<figure>
+		<img src="/assets/images/social_SY.jpeg" class="img-fluid" alt="lab" width="120%">
 		</figure>
 		</div>
 	</div>
 	<div class="row">
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/lab2021.png" class="img-fluid" alt="lab" width="100%">
+		<img src="/assets/images/social_SY2.jpeg" class="img-fluid" alt="lab" width="100%">
 		</figure>
 		</div>
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/labdinner.jpg" class="img-fluid" alt="lab" width="100%">
+		<img src="/assets/images/socialAP.jpeg" class="img-fluid" alt="lab" width="100%">
 		</figure>
 		</div>
 	</div>
@@ -325,12 +336,24 @@ description: ---
 	<div class="row">
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/social_SY2.jpeg" class="img-fluid" alt="lab" width="100%">
+		<img src="/assets/images/meeting.jpg" class="img-fluid" alt="lab" width="100%">
 		</figure>
 		</div>
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/socialAP.jpeg" class="img-fluid" alt="lab" width="100%">
+		<img src="/assets/images/social2.jpg" class="img-fluid" alt="lab" width="100%">
+		</figure>
+		</div>
+	</div>
+	<div class="row">
+	<div class="col-sm">
+		<figure>
+		<img src="/assets/images/lab2021.png" class="img-fluid" alt="lab" width="100%">
+		</figure>
+		</div>
+	<div class="col-sm">
+		<figure>
+		<img src="/assets/images/labdinner.jpg" class="img-fluid" alt="lab" width="100%">
 		</figure>
 		</div>
 	</div>
