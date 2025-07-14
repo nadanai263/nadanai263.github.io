@@ -296,7 +296,7 @@ description: ---
 	<div class="row">
 	<div class="col-sm">
 		<figure>
-		<img src="/assets/images/hyrox.jpeg" class="img-fluid" alt="lab" width="100%">
+		<img src="/assets/images/hyrox.jpeg" class="img-fluid" alt="lab" width="70%">
 		</figure>
 		</div>
 	<div class="col-sm">
