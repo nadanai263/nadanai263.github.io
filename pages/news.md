@@ -19,7 +19,7 @@ description: ---
   </div>
 </div>
 
-<p><li>10 July 2025 &#187; This year we went to the Pentlands for our annual lab hike. </li></p>
+<p><li>10 July 2025 &#187; This year we went to the beautiful Pentlands for our annual lab hike. </li></p>
 <div class="container-fluid">
   <div class="row">
   <div class="col-sm">
