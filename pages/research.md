@@ -25,19 +25,19 @@ We currently have projects spanning four themes:
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
-				<p><b>Optimisation</b> - Cell-free protein synthesis (CFPS) is a complex biochemical reaction, and optimising it to produce specific proteins with high titres and functionality is not a trivial task. We are designing automated pipelines to combine data, models, liquid handling (using low-cost Opentrons machines as well as the full resources of the Edinburgh Genome Foundry), and statistical techniques to improve CFPS performance for specific proteins, by modulating reaction composition as well as judiciously supplementing the reaction with protein and small-molecule factors. <em>People involved:</em> Alex Perkins, Sahan Liyanagedera  <br>
+				<p><b>Optimisation</b> - Cell-free protein synthesis (CFPS) is a complex biochemical reaction, and optimising it to produce specific proteins with high titres and functionality is not a trivial task. We are designing automated pipelines to combine data, models, liquid handling (using low-cost Opentrons machines as well as the full resources of the Edinburgh Genome Foundry), and statistical techniques to improve CFPS performance for specific proteins, by modulating reaction composition as well as judiciously supplementing the reaction with protein and small-molecule factors. <em>People involved:</em> Nicoll Zeballos Lema, Sahan Liyanagedera  <br>
 			</p>
 			</div>
 			<div class="col-sm-9 order-1">
-				<p><b>Metabolism</b> - Decades of studies have highlighted the key effects that the residual background metabolism of the lysate has on CFPS, and major improvements to reaction performance have been achieved by modulating this metabolism. We are seeking to understand the principles that govern cell-free metabolism, particularly in terms of energy and cofactor regeneration, by carefully analysing the metabolomics profiles of CFPS reactions, as well as constructing and testing our own synthetic pathways. <em>People involved:</em> Surendra Yadav, Tony Bougas  <br>
+				<p><b>Metabolism</b> - Decades of studies have highlighted the key effects that the residual background metabolism of the lysate has on CFPS, and major improvements to reaction performance have been achieved by modulating this metabolism. We are seeking to understand the principles that govern cell-free metabolism, particularly in terms of energy and cofactor regeneration, by carefully analysing the metabolomics profiles of CFPS reactions, as well as constructing and testing our own synthetic pathways. <em>People involved:</em> Tony Bougas, Aran Purdy <br>
 			</p>
 			</div>
 			<div class="col-sm-9 order-1">
-				<p><b>Microfluidics</b> - Combining CFPS with microfluidic devices has enabled studies at high throughput, and with exquisite control. We are using our high-throughput microfluidic platform to carry out enzyme engineering, and microfluidic chemostats to investigate the properties of CFPS reactions that regenerate their own components, as a precursor to replicative synthetic cells. <em>People involved:</em> Sarah Paterson, Ella Thornton, Christoph Wagner <br>
+				<p><b>Microfluidics</b> - Combining CFPS with microfluidic devices has enabled studies at high throughput, and with exquisite control. We are using our high-throughput microfluidic platform to carry out enzyme engineering, and microfluidic chemostats to investigate the properties of CFPS reactions that regenerate their own components, as a precursor to replicative synthetic cells. <em>People involved:</em> Christoph Wagner, Sarah Paterson <br>
 			</p>
 			</div>
 			<div class="col-sm-9 order-1">
-				<p><b>Modelling</b> - In-silico models of CFPS can guide fundamental understanding, optimisation efforts, and reduce experimental costs, by directing us to more informative measurements. We are developing mechanistic, predictive models of CFPS, and applying them to inference and experimental design problems. <em>People involved:</em> Sandy Nelson, Christoph Wagner <br>
+				<p><b>Modelling</b> - In-silico models of CFPS can guide fundamental understanding, optimisation efforts, and reduce experimental costs, by directing us to more informative measurements. We are developing mechanistic, predictive models of CFPS, and applying them to inference and experimental design problems. <em>People involved:</em> Christoph Wagner <br>
 			</p>
 			</div>
 	</div>
