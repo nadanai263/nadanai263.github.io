@@ -28,7 +28,18 @@ description: ---
 <div class="row">
 	<div class="col-sm-8 order-1">
 	<ul>
-	<li>Thornton EL, Boyle JT, Laohakunakorn N & Regan L (2025) Cell-free protein synthesis as a method to rapidly screen machine learning-generated protease variants. <i>ACS Synthetic Biology</i> <a href="https://doi.org/10.1021/acssynbio.5c00062">https://doi.org/10.1021/acssynbio.5c00062</a></li>
+	<li>Liyanagedera SBW, Bougas A, Yadav S, Wagner C, Zeballos N & Laohakunakorn N (2025) Refinement of OnePot PURE and crude ribosome production for reproducible cell-free protein synthesis. <i>Journal of Visualized Experiments</i> <b>222</b>:e68826 <a href="https://doi.org/10.3791/68826">https://doi.org/10.3791/68826</a></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	</div>
+</div>
+
+
+<div class="row">
+	<div class="col-sm-8 order-1">
+	<ul>
+	<li>Thornton EL, Boyle JT, Laohakunakorn N & Regan L (2025) Cell-free protein synthesis as a method to rapidly screen machine learning-generated protease variants. <i>ACS Synthetic Biology</i> <b>14</b>:1710-1718 <a href="https://doi.org/10.1021/acssynbio.5c00062">https://doi.org/10.1021/acssynbio.5c00062</a></li>
 	</ul>
 	</div>
 	<div class="col-sm order-2">

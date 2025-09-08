@@ -28,6 +28,8 @@ description: ---
 
 <ul>
 
+<p><li>22 August 2025 &#187; Our new refined protocol for OnePot PURE and ribosome production is finally published in JoVE: find out more <a href="https://doi.org/10.3791/68826">here</a>! </li></p>
+
 <p><li>12 July 2025 &#187; A proud moment for all of us as Alex and Surendra receive their PhDs in a touching ceremony at McEwen Hall.</li></p>
 <div class="container-fluid">
   <div class="row">
