@@ -7,6 +7,16 @@ description: ---
 <div class="container-fluid">
 
 <ul>
+<p><li>25 September 2025 &#187; Many congratulations on a superb achievement: Sarah has passed her viva! Thank you to the examiners, Drs. Henrike Niederholtmeyer and Joanna Sadler. </li></p>
+<div class="container-fluid">
+  <div class="row">
+  <div class="col-sm">
+    <figure>
+     <img src="/assets/images/SPviva.jpeg" width="70%" alt="SPviva">
+    </figure>
+    </div>
+  </div>
+</div>
 
 <p><li>22 August 2025 &#187; Our new refined protocol for OnePot PURE and ribosome production is finally published in JoVE: find out more <a href="https://doi.org/10.3791/68826">here</a>! </li></p>
 
