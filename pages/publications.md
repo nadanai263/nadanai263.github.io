@@ -35,10 +35,6 @@ description: ---
 	</div>
 </div>
 
-<div class="container-fluid">
-<h4>Peer-reviewed</h4>
-</div>
-
 <div class="row">
 	<div class="col-sm-8 order-1">
 	<ul>
