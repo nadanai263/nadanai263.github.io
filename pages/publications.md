@@ -28,6 +28,20 @@ description: ---
 <div class="row">
 	<div class="col-sm-8 order-1">
 	<ul>
+	<li>Kulkarni V, Laohakunakorn N & Liyanagedera SBW (2025) Synthetic cells for phage therapy: a perspective. <i>Frontiers in Cellular and Infection Microbiology</i> <b>15</b> <a href="https://doi.org/10.3389/fcimb.2025.1690404">https://doi.org/10.3389/fcimb.2025.1690404</a></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	</div>
+</div>
+
+<div class="container-fluid">
+<h4>Peer-reviewed</h4>
+</div>
+
+<div class="row">
+	<div class="col-sm-8 order-1">
+	<ul>
 	<li>Liyanagedera SBW, Bougas A, Yadav S, Wagner C, Zeballos N & Laohakunakorn N (2025) Refinement of OnePot PURE and crude ribosome production for reproducible cell-free protein synthesis. <i>Journal of Visualized Experiments</i> <b>222</b>:e68826 <a href="https://doi.org/10.3791/68826">https://doi.org/10.3791/68826</a></li>
 	</ul>
 	</div>
