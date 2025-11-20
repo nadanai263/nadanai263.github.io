@@ -259,6 +259,7 @@ description: ---
 		</figure>
 		</div>
 	</div>	
+	<div class="row">
 	<div class="col-sm">
 		<figure>
 		<img src="/assets/images/social_hike.jpeg" class="img-fluid" alt="lab" width="100%">
