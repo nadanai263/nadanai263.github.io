@@ -28,6 +28,17 @@ description: ---
 
 <ul>
 
+<p><li>19 November 2025 &#187; Sarah has just graduated! We wish her all the best for her future adventures.</li></p>
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm">
+  <figure>
+   <img src="/assets/images/SPgraduation.jpeg" width="50%" alt="graduationSP">
+  </figure>
+  </div>
+</div>
+</div>
+
 <p><li>25 September 2025 &#187; Many congratulations on a superb achievement: Sarah has passed her viva! Thank you to the examiners, Drs. Henrike Niederholtmeyer and Joanna Sadler. </li></p>
 <div class="container-fluid">
   <div class="row">
