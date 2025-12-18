@@ -28,6 +28,18 @@ description: ---
 
 <ul>
 
+<p><li>18 December 2025 &#187; As we wind down for the holidays we took the time to reflect on and celebrate our many achievements this year at our annual Christmas dinner. Our last piece of good news for 2025 is that Aarushi has submitted the preprint for her work on horseradish peroxidase as an electrochemical reporter for cell-free sensors. Many congratulations to her, and we thank Sahan for all his help together with Jamie Marland for a fantastic collaboration. Read about it <a href="https://doi.org/10.64898/2025.12.17.694927 ">here</a>.</li></p>
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm">
+  <figure>
+   <img src="/assets/images/christmas.jpeg" width="50%" alt="christmas">
+  </figure>
+  </div>
+</div>
+</div>
+
+
 <p><li>19 November 2025 &#187; Sarah has just graduated! We wish her all the best for her future adventures.</li></p>
 <div class="container-fluid">
 <div class="row">
@@ -38,6 +50,9 @@ description: ---
   </div>
 </div>
 </div>
+
+<p><li>22 October 2025 &#187; Congratulations to Sahan for his <a href="https://doi.org/10.3389/fcimb.2025.1690404">perspective piece</a> on applying cell-free for phage therapy, in collaboration with Vishvesh Kulkarni. </li></p>
+
 
 <p><li>25 September 2025 &#187; Many congratulations on a superb achievement: Sarah has passed her viva! Thank you to the examiners, Drs. Henrike Niederholtmeyer and Joanna Sadler. </li></p>
 <div class="container-fluid">
@@ -90,28 +105,6 @@ description: ---
 <p><li>3 March 2025 &#187; We welcome two new members to our group: Dr. Nicoll Zeballos Lema joins us from Stephen Wallace's lab to work on enhancement of PURE systems; and MSc exchange student Shivangi Pandey arrives from Kavita Yadav's group at the Gujarat Biotechnology University to look at cell-free systems for metabolic engineering.</li></p>
 
 <p><li>4 January 2025 &#187; Our paper is published in ACS Synthetic Biology: <a href="https://pubs.acs.org/doi/10.1021/acssynbio.4c00697">ATP regeneration from pyruvate in the PURE system</a>. We describe a new ATP regeneration pathway for the PURE system, based on pyruvate and phosphate. Congratulations to everyone who contributed, particularly Surendra, who led the study.</li></p>
-
-<p><li>5 December 2024 &#187; Massive congratulations to Dr. Alex Perkins for passing his viva today. We are extremely proud of his achievements, and as one of the 'founding members' of our group, his energy, enthusiasm, and friendship will be greatly missed by all of us. We wish him every success for the future! </li></p>
-<div class="container-fluid">
-  <div class="row">
-  <div class="col-sm">
-    <figure>
-     <img src="/assets/images/APviva.jpeg" width="60%" alt="APviva">
-    </figure>
-    </div>
-  </div>
-</div>
-
-<p><li>28 November 2024 &#187; We had a great time at Synthetic Biology UK, catching up with old friends and colleagues as well as meeting many new people. Well done to Aarushi for her great poster, and congratulations to Ella for her amazing talk (which also won the best presentation award)!</li></p>
-<div class="container-fluid">
-  <div class="row">
-  <div class="col-sm">
-    <figure>
-     <img src="/assets/images/SBUK.jpeg" width="60%" alt="SBUK">
-    </figure>
-    </div>
-  </div>
-</div>
 
 </ul>
 
