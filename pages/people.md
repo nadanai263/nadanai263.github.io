@@ -29,22 +29,6 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
-				<p><b>Dr Antonios Bougas</b> is working on a collaborative project between the Laohakunakorn group and the Burgess group at the EdinOmics facility. He is investigating the role of metabolites derived from energy regeneration pathways and their impact on protein synthesis which is used to power cell-free systems. Originally from Corinthia, he graduated from the Department of Biology, University of Patras, Greece. Subsequently, he secured a PhD fellowship through the competitive call from the Greek State Scholarships Foundation and carried on his postgraduate studies at the Department of Biochemistry, School of Medicine, Patras. During that time, he focused on the study of both eukaryotic and bacterial ribosomes, in the process of evaluating novel protein synthesis inhibitors. Specifically, he investigated the kinetics and context-specificity of antibiotics targeting the bacterial ribosome, as well as their effect on the emerging translatome using high-throughput techniques. During his leisure time he enjoys playing basketball with friends and practising amateur photography as an excuse to travel to new places. <br>
-			<a href="mailto:tony.bougas@ed.ac.uk"><i class="fas fa-envelope"></i></a>
-			</p>
-			</div>
-			<div class="col-sm order-2">
-			<figure>
-			<img src="/assets/images/TBo.jpg" width="100%" alt="AB" class="float-left">
-				</figure>
-			</div>
-	</div>
-</div>
----
-
-<div class="container-fluid">
-	<div class="row">
-			<div class="col-sm-9 order-1">
 				<p><b>Christoph Wagner</b> is an EASTBIO-funded PhD student, researching the ability of cells to self-regenerate their components. He is carrying out his work jointly between the Laohakunakorn group, where he conducts cell-free microfluidics experiments on maximally controlled transcription-translation systems, and the Weiße group in IQB3, where his results inform models to predict the self-regenerating behaviour. He wants to understand, what parameters govern this aspect of life and how we can optimise them in the context of synthetic cells. After betraying the love for his hometown Cologne, he both finished his Bachelor's in Quantitative Biology and subsequently studied his Master's in Synthetic Biology in Düsseldorf, Germany. There, he explored the possibility of quantitatively engineering a plant's phenotype by means of genetic modification, which sparked his enthusiasm for interfacing nature and technology. In his free time, you may find him writing short stories on his blog about all things science, practicing amateur woodworking or running, usually in circles.<br>
 			<a href="mailto:c.s.wagner@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a>
 			</p>
@@ -62,7 +46,7 @@ description: ---
 <div class="container-fluid">
 	<div class="row">
 			<div class="col-sm-9 order-1">
-				<p><b>Aarushi Ruhela</b> is a PhD student funded by the University of Edinburgh, working on the interface of electronics and synthetic biology. She is co-supervised by Dr Jamie Marland in the School of Engineering, where she will be working on developing a multiplexed electronic readout system for biochemical reactions inside microfluidic devices. In the Laohakunakorn group, she is currently working to prepare optimised <em>E.coli</em> lysates to express horseradish peroxidase, which will be used as a reporter for her electronic system.  Aarushi moved to UK from India in 2021 because of her keen interests to learn and explore cancer research. She did her MRes from the Imperial College London in cancer technology where she developed a microfluidics device to study the interaction between cancer organoids and immune cells. Later, she joined the Institute of Cancer Research to explore more about the cancer biology and study the heterogeneity in PDAC. She is a biochemical engineer from her undergraduate degree; therefore, she has a good experience with always working on the bridge between biology and engineering. In her free time, she loves to read about philosophy and write small quotes. In addition, she also enjoys painting and photography.   <br>
+				<p><b>Aarushi Ruhela</b> is a PhD student funded by the University of Edinburgh, working on the interface of electronics and synthetic biology. She is co-supervised by Dr Jamie Marland in the School of Engineering, where she will be working on developing a multiplexed electronic readout system for biochemical reactions inside microfluidic devices. In the Laohakunakorn group, she is currently working to prepare optimised <em>E. coli</em> lysates to express horseradish peroxidase, which will be used as a reporter for her electronic system.  Aarushi moved to UK from India in 2021 because of her keen interests to learn and explore cancer research. She did her MRes from the Imperial College London in cancer technology where she developed a microfluidics device to study the interaction between cancer organoids and immune cells. Later, she joined the Institute of Cancer Research to explore more about the cancer biology and study the heterogeneity in PDAC. She is a biochemical engineer from her undergraduate degree; therefore, she has a good experience with always working on the bridge between biology and engineering. In her free time, she loves to read about philosophy and write small quotes. In addition, she also enjoys painting and photography.   <br>
 			<a href="mailto:a.ruhela@sms.ed.ac.uk"><i class="fas fa-envelope"></i></a> 
 			</p>
 			</div>
@@ -84,6 +68,7 @@ description: ---
 <div class="container-fluid">
 <div class="row">
 	<ul class="list-group">
+		<li class="list-group-item" style="border: none"><b>Dr. Antonios Bougas</b>, Postdoctoral researcher</li>
 		<li class="list-group-item" style="border: none"><b>Dr. Sarah Paterson</b>, PhD student</li>
 		<li class="list-group-item" style="border: none"><b>Dr. Nicoll Zeballos Lema</b>, Postdoctoral researcher</li>
 		<li class="list-group-item" style="border: none"><b>Aran Purdy</b>, MSc student</li>
@@ -119,6 +104,11 @@ description: ---
 
 <div class="container-fluid">
 	<div class="row">
+		<div class="col-sm">
+		<figure>
+		<img src="/assets/images/TBo.jpg" width="100%" alt="AB" width="90%">
+		</figure>
+		</div>
 		<div class="col-sm">
 		<figure>
 		<img src="/assets/images/SPa.jpg" width="100%" alt="SPan" width="90%">
