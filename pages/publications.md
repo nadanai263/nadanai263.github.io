@@ -38,6 +38,16 @@ description: ---
 <div class="row">
 	<div class="col-sm-8 order-1">
 	<ul>
+	<li>Yadav K, Yadav VK, Laohakunakorn N, Kumawat B (2026) Cell-Free Systems. In: Singh, V (eds) Handbook of Synthetic Biology. <i>Springer, Singapore</i> <a href="https://doi.org/10.1007/978-981-95-3957-4_15 ">https://doi.org/10.1007/978-981-95-3957-4_15</a></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-sm-8 order-1">
+	<ul>
 	<li>Kulkarni V, Laohakunakorn N & Liyanagedera SBW (2025) Synthetic cells for phage therapy: a perspective. <i>Frontiers in Cellular and Infection Microbiology</i> <b>15</b> <a href="https://doi.org/10.3389/fcimb.2025.1690404">https://doi.org/10.3389/fcimb.2025.1690404</a></li>
 	</ul>
 	</div>
