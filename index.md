@@ -28,6 +28,33 @@ description: ---
 
 <ul>
 
+<p><li>28 October 2026 &#187; Huge congratulations to Dr Christoph Wagner who successfully defended his thesis today. Thank you to his fantastic co-supervisor Andrea Weiße, and examiners Heinz Koeppl and Peter Swain. Christoph's work on cell-free ribosomal regeneration was hugely ambitious and I think we made big inroads towards tackling this longstanding problem. Stay tuned for future publications on this topic... meanwhile we wish him all the best as he takes up a new postdoctoral position with the Adamala group.</li></p>
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm">
+  <figure>
+   <img src="/assets/images/CW1.jpeg" width="40%" alt="CWviva">
+   <img src="/assets/images/CW2.jpeg" width="40%" alt="CWviva">
+  </figure>
+  </div>
+</div>
+</div>
+
+<p><li>13 August 2026 &#187; Although the weather scuppered our plan for a more ambitious munro bagging trip, we still had a wonderful group hike in the Pentlands.</li></p>
+<div class="container-fluid">
+<div class="row">
+<div class="col-sm">
+  <figure>
+   <img src="/assets/images/hike2026.jpeg" width="70%" alt="hike">
+  </figure>
+  </div>
+</div>
+</div>
+
+<p><li>7 July 2026 &#187; Aarushi's HRP paper has been published in Synthetic Biology! Find it <a href="https://doi.org/10.1093/synbio/ysag009">here</a>.</li></p>
+
+<p><li>28 February 2026 &#187; We say a fond farewell to Tony who leaves us today to take up a research associate post at the Micalis Institute where he will join their Cell-Free Biofoundry team. We wish him all the best for his future career.</li></p>
+
 <p><li>18 December 2025 &#187; As we wind down for the holidays we took the time to reflect on and celebrate our many achievements this year at our annual Christmas dinner. Our last piece of good news for 2025 is that Aarushi has submitted the preprint for her work on horseradish peroxidase as an electrochemical reporter for cell-free sensors. Many congratulations to her, and we thank Sahan for all his help together with Jamie Marland for a fantastic collaboration. Read about it <a href="https://doi.org/10.64898/2025.12.17.694927 ">here</a>.</li></p>
 <div class="container-fluid">
 <div class="row">
@@ -91,7 +118,7 @@ description: ---
 
 <p><li>30 April 2025 &#187; Our paper combining cell-free screening of enzymes with machine learning is now <a href="https://doi.org/10.1021/acssynbio.5c00062">published</a>. Fantastic collaboration with the Regan lab, and many congratulations to Ella for her hard work to make this happen.</li></p>
 
-<p><li>14 March 2025 &#187; Two for two! Our second PhD student Dr. Surendra Yadav has just passed his viva today. Like Alex, Surendra was a founding member of the group and we will miss not only his expertise but also his cheerful presence. We wish him all the best for his future career! </li></p>
+<p><li>14 March 2025 &#187; Two for two! Our second PhD student Dr. Surendra Yadav has just passed his viva today. Like Alex, Surendra was a founding member of the group and we will miss not only his expertise but also his cheerful presence. Many thanks to his examiners Christoph Danelon and Elise Cachat, and We wish him all the best for his future career! </li></p>
 <div class="container-fluid">
   <div class="row">
   <div class="col-sm">

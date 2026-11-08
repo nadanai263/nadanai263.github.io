@@ -9,15 +9,7 @@ description: ---
 </div>
 
 
-<div class="row">
-	<div class="col-sm-8 order-1">
-	<ul>
-	<li>Ruhela A, Liyanagedra SBW, Laohakunakorn N & Marland JRK (2025) Horseradish peroxidase as an electrochemical reporter protein for cell-free biosensors. <i>bioRxiv</i> <a href="https://doi.org/10.64898/2025.12.17.694927 ">https://doi.org/10.64898/2025.12.17.694927 </a></li>
-	</ul>
-	</div>
-	<div class="col-sm order-2">
-	</div>
-</div>
+
 
 <div class="row">
 	<div class="col-sm-8 order-1">
@@ -33,6 +25,19 @@ description: ---
 ---
 <div class="container-fluid">
 <h4>Peer-reviewed</h4>
+</div>
+
+<div class="row">
+	<div class="col-sm-8 order-1">
+	<ul>
+	<li>Ruhela A, Liyanagedra SBW, Laohakunakorn N & Marland JRK (2026) Horseradish peroxidase as an electrochemical reporter protein for cell-free biosensors. <i>Synthetic Biology</i> <b>11</b> <a href="https://doi.org/10.1093/synbio/ysag009">https://doi.org/10.1093/synbio/ysag009</a></li>
+	</ul>
+	</div>
+	<div class="col-sm order-2">
+	<figure>
+	<img src="/assets/images/logo_HRP.jpg" width="100%" alt="chem" class="float-left">
+	</figure>
+	</div>
 </div>
 
 <div class="row">
